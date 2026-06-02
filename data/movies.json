@@ -1,0 +1,10107 @@
+[
+  {
+    "title": "Jab We Met",
+    "subGenres": [
+      "Road Movie",
+      "Romantic Comedy"
+    ],
+    "moods": [
+      "uplifting",
+      "joyful",
+      "carefree",
+      "nostalgic"
+    ],
+    "vibes": [
+      "wanderlust",
+      "spontaneous",
+      "heartwarming",
+      "free-spirited"
+    ],
+    "themes": [
+      "self-discovery",
+      "unexpected love",
+      "finding yourself",
+      "running away from life"
+    ],
+    "keywords": [
+      "train journey",
+      "Punjab",
+      "identity crisis",
+      "love story",
+      "quirky heroine",
+      "healing"
+    ],
+    "similarTo": [
+      "Wake Up Sid",
+      "Tamasha",
+      "Zindagi Na Milegi Dobara",
+      "Hum Tum",
+      "Queen"
+    ]
+  },
+  {
+    "title": "Zindagi Na Milegi Dobara",
+    "genres": [
+      "Drama",
+      "Adventure",
+      "Romance"
+    ],
+    "subGenres": [
+      "Road Movie",
+      "Buddy Film"
+    ],
+    "moods": [
+      "euphoric",
+      "reflective",
+      "liberating",
+      "nostalgic"
+    ],
+    "vibes": [
+      "wanderlust",
+      "carpe diem",
+      "friendship",
+      "self-discovery"
+    ],
+    "themes": [
+      "living in the moment",
+      "male friendship",
+      "letting go of the past",
+      "courage"
+    ],
+    "keywords": [
+      "Spain",
+      "road trip",
+      "bachelors",
+      "fear",
+      "poetry",
+      "bucket list"
+    ],
+    "similarTo": [
+      "Jab We Met",
+      "Dil Dhadakne Do",
+      "Tamasha",
+      "Yeh Jawaani Hai Deewani",
+      "Queen"
+    ]
+  },
+  {
+    "title": "Tamasha",
+    "subGenres": [
+      "Psychological Drama",
+      "Coming-of-Age"
+    ],
+    "moods": [
+      "melancholic",
+      "introspective",
+      "yearning",
+      "bittersweet"
+    ],
+    "vibes": [
+      "existential",
+      "self-discovery",
+      "dreamlike",
+      "restless"
+    ],
+    "themes": [
+      "suppressed identity",
+      "societal expectations",
+      "finding your true self",
+      "storytelling"
+    ],
+    "keywords": [
+      "identity crisis",
+      "Corsica",
+      "conformity",
+      "performance",
+      "passion",
+      "inner child"
+    ],
+    "similarTo": [
+      "Rockstar",
+      "Jab We Met",
+      "Wake Up Sid",
+      "Queen",
+      "Dear Zindagi"
+    ]
+  },
+  {
+    "title": "Wake Up Sid",
+    "subGenres": [
+      "Coming-of-Age",
+      "Slice of Life"
+    ],
+    "moods": [
+      "comforting",
+      "warm",
+      "hopeful",
+      "youthful"
+    ],
+    "vibes": [
+      "self-discovery",
+      "cozy",
+      "urban-life",
+      "heartwarming"
+    ],
+    "themes": [
+      "growing up",
+      "independence",
+      "finding purpose",
+      "Mumbai life"
+    ],
+    "keywords": [
+      "Mumbai",
+      "college life",
+      "photography",
+      "ambition",
+      "friendship",
+      "coming-of-age"
+    ],
+    "similarTo": [
+      "Jab We Met",
+      "Dear Zindagi",
+      "Tamasha",
+      "Kai Po Che!",
+      "Dil Chahta Hai"
+    ]
+  },
+  {
+    "title": "Queen",
+    "subGenres": [
+      "Solo Journey",
+      "Coming-of-Age"
+    ],
+    "moods": [
+      "empowering",
+      "joyful",
+      "liberating",
+      "triumphant"
+    ],
+    "vibes": [
+      "self-discovery",
+      "wanderlust",
+      "independence",
+      "heartwarming"
+    ],
+    "themes": [
+      "female empowerment",
+      "self-reliance",
+      "honeymoon alone",
+      "rediscovering joy"
+    ],
+    "keywords": [
+      "Paris",
+      "Amsterdam",
+      "solo travel",
+      "heartbreak",
+      "independence",
+      "reinvention"
+    ],
+    "similarTo": [
+      "Jab We Met",
+      "Tamasha",
+      "Piku",
+      "English Vinglish",
+      "Dear Zindagi"
+    ]
+  },
+  {
+    "title": "Rockstar",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Music"
+    ],
+    "subGenres": [
+      "Musical Drama",
+      "Tragic Romance"
+    ],
+    "moods": [
+      "passionate",
+      "melancholic",
+      "intense",
+      "raw"
+    ],
+    "vibes": [
+      "existential",
+      "restless",
+      "melancholic",
+      "yearning"
+    ],
+    "themes": [
+      "artistic suffering",
+      "forbidden love",
+      "fame and emptiness",
+      "grief"
+    ],
+    "keywords": [
+      "music",
+      "rock",
+      "Prague",
+      "unrequited love",
+      "rebellion",
+      "artistry"
+    ],
+    "similarTo": [
+      "Tamasha",
+      "Imtiaz Ali films",
+      "Jab We Met",
+      "Barfi!",
+      "Highway"
+    ]
+  },
+  {
+    "title": "Andhadhun",
+    "genres": [
+      "Thriller",
+      "Crime",
+      "Dark Comedy"
+    ],
+    "subGenres": [
+      "Psychological Thriller",
+      "Neo-Noir"
+    ],
+    "moods": [
+      "tense",
+      "unpredictable",
+      "darkly humorous",
+      "suspenseful"
+    ],
+    "vibes": [
+      "mind-bending",
+      "twisty",
+      "gripping",
+      "clever"
+    ],
+    "themes": [
+      "deception",
+      "moral ambiguity",
+      "survival",
+      "blindness as metaphor"
+    ],
+    "keywords": [
+      "piano",
+      "blind musician",
+      "murder",
+      "twists",
+      "dark comedy",
+      "cat and mouse"
+    ],
+    "similarTo": [
+      "Drishyam",
+      "Kahaani",
+      "A Wednesday",
+      "Badlapur",
+      "Ugly"
+    ]
+  },
+  {
+    "title": "Drishyam",
+    "subGenres": [
+      "Mystery Thriller",
+      "Family Drama"
+    ],
+    "moods": [
+      "tense",
+      "gripping",
+      "emotionally charged",
+      "suspenseful"
+    ],
+    "vibes": [
+      "edge-of-seat",
+      "clever",
+      "family-protective",
+      "twisty"
+    ],
+    "themes": [
+      "family protection",
+      "deception",
+      "justice vs law",
+      "a father's love"
+    ],
+    "keywords": [
+      "cover-up",
+      "police",
+      "Goa",
+      "family",
+      "crime",
+      "twist ending"
+    ],
+    "similarTo": [
+      "Andhadhun",
+      "Kahaani",
+      "A Wednesday",
+      "Talvar",
+      "Ugly"
+    ]
+  },
+  {
+    "title": "Kapoor & Sons",
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "subGenres": [
+      "Family Drama",
+      "Emotional Drama"
+    ],
+    "moods": [
+      "emotionally raw",
+      "bittersweet",
+      "reflective",
+      "heartbreaking"
+    ],
+    "vibes": [
+      "melancholic",
+      "family-reunion",
+      "healing",
+      "complex relationships"
+    ],
+    "themes": [
+      "dysfunctional family",
+      "secrets",
+      "coming home",
+      "sibling rivalry",
+      "acceptance"
+    ],
+    "keywords": [
+      "family drama",
+      "brothers",
+      "secrets",
+      "Ooty",
+      "reconciliation",
+      "grief"
+    ],
+    "similarTo": [
+      "Dil Dhadakne Do",
+      "Udaan",
+      "Taare Zameen Par",
+      "English Vinglish",
+      "Barfi!"
+    ]
+  },
+  {
+    "title": "Barfi!",
+    "subGenres": [
+      "Feel-Good Drama",
+      "Silent-Era Inspired"
+    ],
+    "moods": [
+      "heartwarming",
+      "bittersweet",
+      "whimsical",
+      "tender"
+    ],
+    "vibes": [
+      "comforting",
+      "dreamlike",
+      "nostalgic",
+      "innocent"
+    ],
+    "themes": [
+      "disability and love",
+      "pure-hearted love",
+      "friendship",
+      "simple joys"
+    ],
+    "keywords": [
+      "mute protagonist",
+      "Darjeeling",
+      "innocence",
+      "love triangle",
+      "autism",
+      "chaplin-esque"
+    ],
+    "audience": [
+      "comfort watch",
+      "mass",
+      "family"
+    ],
+    "similarTo": [
+      "PK",
+      "Taare Zameen Par",
+      "Kapoor & Sons",
+      "3 Idiots",
+      "Mughal-E-Azam"
+    ]
+  },
+  {
+    "title": "Hum Tum",
+    "subGenres": [
+      "Romantic Comedy",
+      "Opposites-Attract"
+    ],
+    "moods": [
+      "playful",
+      "witty",
+      "warm",
+      "light-hearted"
+    ],
+    "vibes": [
+      "banter",
+      "heartwarming",
+      "comforting",
+      "romantic"
+    ],
+    "themes": [
+      "men vs women",
+      "love over time",
+      "friendship turning to love",
+      "mature romance"
+    ],
+    "keywords": [
+      "cartoonist",
+      "multiple meetings",
+      "Paris",
+      "friendship",
+      "witty dialogue",
+      "love story"
+    ],
+    "similarTo": [
+      "Jab We Met",
+      "Dil Chahta Hai",
+      "Kal Ho Naa Ho",
+      "Kuch Kuch Hota Hai",
+      "Yeh Jawaani Hai Deewani"
+    ]
+  },
+  {
+    "title": "Dil Chahta Hai",
+    "subGenres": [
+      "Buddy Film",
+      "Coming-of-Age"
+    ],
+    "moods": [
+      "nostalgic",
+      "joyful",
+      "bittersweet",
+      "carefree"
+    ],
+    "vibes": [
+      "friendship",
+      "wanderlust",
+      "youthful energy",
+      "comforting"
+    ],
+    "themes": [
+      "male friendship",
+      "growing up",
+      "different kinds of love",
+      "Goa"
+    ],
+    "keywords": [
+      "three friends",
+      "road trip",
+      "Goa",
+      "Sydney",
+      "first love",
+      "maturity"
+    ],
+    "similarTo": [
+      "Zindagi Na Milegi Dobara",
+      "Hum Tum",
+      "Rang De Basanti",
+      "Rockstar",
+      "Wake Up Sid"
+    ]
+  },
+  {
+    "title": "3 Idiots",
+    "subGenres": [
+      "College Comedy",
+      "Social Commentary"
+    ],
+    "moods": [
+      "inspirational",
+      "joyful",
+      "heartwarming",
+      "nostalgic"
+    ],
+    "vibes": [
+      "feel-good",
+      "friendship",
+      "comforting",
+      "uplifting"
+    ],
+    "themes": [
+      "education system",
+      "following your passion",
+      "friendship",
+      "societal pressure"
+    ],
+    "keywords": [
+      "engineering college",
+      "friendship",
+      "rebellion",
+      "passion",
+      "success",
+      "Ladakh"
+    ],
+    "audience": [
+      "mass",
+      "family",
+      "young adult",
+      "comfort watch"
+    ],
+    "similarTo": [
+      "PK",
+      "Munna Bhai M.B.B.S.",
+      "Chhichhore",
+      "Taare Zameen Par",
+      "Barfi!"
+    ]
+  },
+  {
+    "title": "PK",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Science Fiction"
+    ],
+    "subGenres": [
+      "Social Satire",
+      "Alien Comedy"
+    ],
+    "moods": [
+      "thought-provoking",
+      "humorous",
+      "heartwarming",
+      "satirical"
+    ],
+    "vibes": [
+      "outsider perspective",
+      "social commentary",
+      "innocent wonder",
+      "feel-good"
+    ],
+    "themes": [
+      "religion and blind faith",
+      "alien perspective on humanity",
+      "love and loss",
+      "media manipulation"
+    ],
+    "keywords": [
+      "alien",
+      "religion",
+      "satire",
+      "television",
+      "love story",
+      "questioning society"
+    ],
+    "audience": [
+      "mass",
+      "family",
+      "young adult"
+    ],
+    "similarTo": [
+      "3 Idiots",
+      "Oh My God!",
+      "Barfi!",
+      "Munna Bhai M.B.B.S.",
+      "Dangal"
+    ]
+  },
+  {
+    "title": "Dangal",
+    "genres": [
+      "Drama",
+      "Sports",
+      "Biography"
+    ],
+    "subGenres": [
+      "Sports Drama",
+      "Biographical Film"
+    ],
+    "moods": [
+      "inspiring",
+      "emotional",
+      "triumphant",
+      "patriotic"
+    ],
+    "vibes": [
+      "uplifting",
+      "resilience",
+      "father-daughter bond",
+      "underdog"
+    ],
+    "themes": [
+      "female empowerment through sport",
+      "paternal ambition",
+      "national pride",
+      "sacrifice"
+    ],
+    "keywords": [
+      "wrestling",
+      "daughters",
+      "Haryana",
+      "Commonwealth Games",
+      "discipline",
+      "female athletes"
+    ],
+    "similarTo": [
+      "M.S. Dhoni: The Untold Story",
+      "Bhaag Milkha Bhaag",
+      "Mary Kom",
+      "Sultan",
+      "Chak De! India"
+    ]
+  },
+  {
+    "title": "Taare Zameen Par",
+    "subGenres": [
+      "Coming-of-Age",
+      "Emotional Drama"
+    ],
+    "moods": [
+      "deeply emotional",
+      "heartbreaking",
+      "inspiring",
+      "tender"
+    ],
+    "vibes": [
+      "healing",
+      "empathy",
+      "childhood innocence",
+      "comforting"
+    ],
+    "themes": [
+      "dyslexia",
+      "understanding children",
+      "artistic expression",
+      "parental pressure"
+    ],
+    "keywords": [
+      "dyslexia",
+      "boarding school",
+      "art teacher",
+      "childhood",
+      "understanding",
+      "painting"
+    ],
+    "similarTo": [
+      "Barfi!",
+      "Kapoor & Sons",
+      "Dear Zindagi",
+      "Chillar Party",
+      "Stanley Ka Dabba"
+    ]
+  },
+  {
+    "title": "Rang De Basanti",
+    "genres": [
+      "Drama",
+      "Action"
+    ],
+    "subGenres": [
+      "Political Drama",
+      "Youth Film"
+    ],
+    "moods": [
+      "passionate",
+      "rebellious",
+      "melancholic",
+      "inspiring"
+    ],
+    "vibes": [
+      "revolution",
+      "youth anger",
+      "patriotism",
+      "bittersweet"
+    ],
+    "themes": [
+      "youth and politics",
+      "sacrifice",
+      "colonial history parallels",
+      "awakening"
+    ],
+    "keywords": [
+      "freedom fighters",
+      "documentary",
+      "corruption",
+      "Delhi",
+      "friends",
+      "sacrifice"
+    ],
+    "audience": [
+      "young adult",
+      "cinephile",
+      "mass"
+    ],
+    "similarTo": [
+      "Dil Chahta Hai",
+      "Swades",
+      "Lagaan",
+      "A Wednesday",
+      "Sardar Udham"
+    ]
+  },
+  {
+    "title": "Piku",
+    "subGenres": [
+      "Slice of Life",
+      "Road Movie"
+    ],
+    "moods": [
+      "warm",
+      "witty",
+      "bittersweet",
+      "comforting"
+    ],
+    "vibes": [
+      "family dynamics",
+      "quirky characters",
+      "healing",
+      "cozy"
+    ],
+    "themes": [
+      "father-daughter relationship",
+      "aging",
+      "independence",
+      "Kolkata nostalgia"
+    ],
+    "keywords": [
+      "road trip",
+      "Kolkata",
+      "constipation",
+      "architect",
+      "father",
+      "Delhi to Kolkata"
+    ],
+    "audience": [
+      "comfort watch",
+      "cinephile",
+      "young adult"
+    ],
+    "similarTo": [
+      "Queen",
+      "Kapoor & Sons",
+      "Dear Zindagi",
+      "English Vinglish",
+      "Dil Dhadakne Do"
+    ]
+  },
+  {
+    "title": "Kahaani",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "subGenres": [
+      "Whodunit",
+      "Female-Led Thriller"
+    ],
+    "moods": [
+      "tense",
+      "atmospheric",
+      "gripping",
+      "mysterious"
+    ],
+    "vibes": [
+      "edge-of-seat",
+      "Kolkata noir",
+      "twisty",
+      "clever"
+    ],
+    "themes": [
+      "a mother's determination",
+      "identity deception",
+      "the city as character",
+      "justice"
+    ],
+    "keywords": [
+      "Kolkata",
+      "Durga Puja",
+      "missing husband",
+      "pregnancy",
+      "intelligence bureau",
+      "twist"
+    ],
+    "similarTo": [
+      "Andhadhun",
+      "Drishyam",
+      "Talvar",
+      "A Wednesday",
+      "Ugly"
+    ]
+  },
+  {
+    "title": "Dear Zindagi",
+    "subGenres": [
+      "Slice of Life",
+      "Mental Health Drama"
+    ],
+    "moods": [
+      "reflective",
+      "warm",
+      "hopeful",
+      "gentle"
+    ],
+    "vibes": [
+      "healing",
+      "self-discovery",
+      "comforting",
+      "introspective"
+    ],
+    "themes": [
+      "therapy",
+      "emotional baggage",
+      "self-acceptance",
+      "relationships"
+    ],
+    "keywords": [
+      "therapist",
+      "Goa",
+      "filmmaker",
+      "past relationships",
+      "mental health",
+      "healing"
+    ],
+    "similarTo": [
+      "Queen",
+      "Tamasha",
+      "Wake Up Sid",
+      "Kapoor & Sons",
+      "Piku"
+    ]
+  },
+  {
+    "title": "English Vinglish",
+    "subGenres": [
+      "Slice of Life",
+      "Self-Discovery"
+    ],
+    "moods": [
+      "heartwarming",
+      "triumphant",
+      "gentle",
+      "inspiring"
+    ],
+    "vibes": [
+      "underdog",
+      "self-worth",
+      "comforting",
+      "diaspora life"
+    ],
+    "themes": [
+      "female self-worth",
+      "language barriers",
+      "family dynamics",
+      "New York life"
+    ],
+    "keywords": [
+      "housewife",
+      "New York",
+      "English classes",
+      "cooking",
+      "family",
+      "confidence"
+    ],
+    "similarTo": [
+      "Piku",
+      "Queen",
+      "Kapoor & Sons",
+      "Tumhari Sulu",
+      "Dear Zindagi"
+    ]
+  },
+  {
+    "title": "Highway",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "subGenres": [
+      "Road Movie",
+      "Stockholm Syndrome Drama"
+    ],
+    "moods": [
+      "raw",
+      "liberating",
+      "melancholic",
+      "intense"
+    ],
+    "vibes": [
+      "wanderlust",
+      "freedom",
+      "trauma healing",
+      "wilderness"
+    ],
+    "themes": [
+      "childhood abuse",
+      "freedom through captivity",
+      "trauma and healing",
+      "the open road"
+    ],
+    "keywords": [
+      "kidnapping",
+      "road trip",
+      "mountains",
+      "freedom",
+      "trauma",
+      "abuse survivor"
+    ],
+    "similarTo": [
+      "Rockstar",
+      "Queen",
+      "Tamasha",
+      "Udaan",
+      "Aligarh"
+    ]
+  },
+  {
+    "title": "Dil Dhadakne Do",
+    "subGenres": [
+      "Family Drama",
+      "Ensemble Film"
+    ],
+    "moods": [
+      "vibrant",
+      "emotionally layered",
+      "bittersweet",
+      "glamorous"
+    ],
+    "vibes": [
+      "family dysfunction",
+      "wanderlust",
+      "cruise life",
+      "complex relationships"
+    ],
+    "themes": [
+      "dysfunctional rich family",
+      "societal expectations",
+      "marital dissatisfaction",
+      "freedom"
+    ],
+    "keywords": [
+      "cruise",
+      "Mediterranean",
+      "family secrets",
+      "marriage",
+      "siblings",
+      "elite society"
+    ],
+    "audience": [
+      "mass",
+      "young adult",
+      "cinephile"
+    ],
+    "similarTo": [
+      "Kapoor & Sons",
+      "Zindagi Na Milegi Dobara",
+      "Piku",
+      "Queen",
+      "Tamasha"
+    ]
+  },
+  {
+    "title": "Udaan",
+    "subGenres": [
+      "Coming-of-Age",
+      "Father-Son Drama"
+    ],
+    "moods": [
+      "raw",
+      "intense",
+      "suffocating",
+      "hopeful"
+    ],
+    "vibes": [
+      "rebellion",
+      "trapped youth",
+      "freedom",
+      "melancholic"
+    ],
+    "themes": [
+      "authoritarian father",
+      "teenage rebellion",
+      "writing as escape",
+      "breaking free"
+    ],
+    "keywords": [
+      "boarding school",
+      "abusive father",
+      "Jamshedpur",
+      "poetry",
+      "escape",
+      "youth"
+    ],
+    "similarTo": [
+      "Highway",
+      "Kapoor & Sons",
+      "Taare Zameen Par",
+      "Masaan",
+      "Aligarh"
+    ]
+  },
+  {
+    "title": "Masaan",
+    "subGenres": [
+      "Parallel Narrative",
+      "Varanasi Slice of Life"
+    ],
+    "moods": [
+      "melancholic",
+      "poetic",
+      "raw",
+      "quietly moving"
+    ],
+    "vibes": [
+      "existential",
+      "grief",
+      "healing",
+      "spiritual"
+    ],
+    "themes": [
+      "caste and love",
+      "grief and loss",
+      "shame and redemption",
+      "Ganges as metaphor"
+    ],
+    "keywords": [
+      "Varanasi",
+      "caste",
+      "cremation",
+      "shame",
+      "love",
+      "loss",
+      "river"
+    ],
+    "similarTo": [
+      "Udaan",
+      "Aligarh",
+      "Talvar",
+      "Highway",
+      "Newton"
+    ]
+  },
+  {
+    "title": "Newton",
+    "subGenres": [
+      "Political Satire",
+      "Black Comedy"
+    ],
+    "moods": [
+      "sardonic",
+      "thoughtful",
+      "grim",
+      "darkly comic"
+    ],
+    "vibes": [
+      "bureaucratic absurdity",
+      "idealism vs reality",
+      "social commentary"
+    ],
+    "themes": [
+      "democracy in conflict zones",
+      "electoral integrity",
+      "idealism",
+      "Naxal conflict"
+    ],
+    "keywords": [
+      "elections",
+      "jungle",
+      "Chhattisgarh",
+      "honest officer",
+      "naxals",
+      "voting"
+    ],
+    "similarTo": [
+      "Masaan",
+      "Talvar",
+      "A Wednesday",
+      "Aligarh",
+      "Court"
+    ]
+  },
+  {
+    "title": "Inception",
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Thriller"
+    ],
+    "subGenres": [
+      "Mind-Bending Sci-Fi",
+      "Heist Film"
+    ],
+    "moods": [
+      "mind-blowing",
+      "tense",
+      "cerebral",
+      "awe-inspiring"
+    ],
+    "vibes": [
+      "mind-bending",
+      "dreamlike",
+      "existential",
+      "gripping"
+    ],
+    "themes": [
+      "dreams within dreams",
+      "grief and guilt",
+      "the nature of reality",
+      "subconscious mind"
+    ],
+    "keywords": [
+      "dream heist",
+      "layers of reality",
+      "totem",
+      "subconscious",
+      "team mission",
+      "spinning top"
+    ],
+    "similarTo": [
+      "Interstellar",
+      "The Matrix",
+      "Memento",
+      "Shutter Island",
+      "Dark"
+    ]
+  },
+  {
+    "title": "Interstellar",
+    "subGenres": [
+      "Space Epic",
+      "Emotional Sci-Fi"
+    ],
+    "moods": [
+      "awe-inspiring",
+      "emotionally devastating",
+      "grandiose",
+      "melancholic"
+    ],
+    "vibes": [
+      "existential",
+      "cosmic wonder",
+      "father-child bond",
+      "dreamlike"
+    ],
+    "themes": [
+      "love transcends dimensions",
+      "climate collapse",
+      "sacrifice",
+      "time dilation"
+    ],
+    "keywords": [
+      "black hole",
+      "wormhole",
+      "father-daughter",
+      "space travel",
+      "5th dimension",
+      "time"
+    ],
+    "similarTo": [
+      "Inception",
+      "Arrival",
+      "The Martian",
+      "2001: A Space Odyssey",
+      "Contact"
+    ]
+  },
+  {
+    "title": "The Dark Knight",
+    "subGenres": [
+      "Superhero Noir",
+      "Crime Thriller"
+    ],
+    "moods": [
+      "intense",
+      "dark",
+      "electrifying",
+      "philosophical"
+    ],
+    "vibes": [
+      "edge-of-seat",
+      "moral complexity",
+      "chaos vs order",
+      "iconic"
+    ],
+    "themes": [
+      "chaos and order",
+      "moral corruption",
+      "heroism and sacrifice",
+      "anarchy"
+    ],
+    "keywords": [
+      "Batman",
+      "Joker",
+      "chaos",
+      "Gotham",
+      "moral dilemma",
+      "anarchy",
+      "sacrifice"
+    ],
+    "similarTo": [
+      "Batman Begins",
+      "Joker",
+      "Se7en",
+      "Heat",
+      "Prisoners"
+    ]
+  },
+  {
+    "title": "Fight Club",
+    "subGenres": [
+      "Psychological Thriller",
+      "Anti-Establishment"
+    ],
+    "moods": [
+      "anarchic",
+      "provocative",
+      "disturbing",
+      "exhilarating"
+    ],
+    "vibes": [
+      "mind-bending",
+      "anti-consumerism",
+      "dark humor",
+      "twisted"
+    ],
+    "themes": [
+      "toxic masculinity",
+      "consumerism critique",
+      "identity dissolution",
+      "duality of self"
+    ],
+    "keywords": [
+      "alter ego",
+      "soap",
+      "consumerism",
+      "anarchy",
+      "masculinity",
+      "underground"
+    ],
+    "similarTo": [
+      "American Psycho",
+      "Se7en",
+      "Requiem for a Dream",
+      "Memento",
+      "Black Swan"
+    ]
+  },
+  {
+    "title": "Oldboy",
+    "subGenres": [
+      "Revenge Thriller",
+      "Psychological Noir"
+    ],
+    "moods": [
+      "shocking",
+      "disturbing",
+      "intense",
+      "haunting"
+    ],
+    "vibes": [
+      "twisted",
+      "dark",
+      "revenge-driven",
+      "mind-bending"
+    ],
+    "themes": [
+      "revenge and its consequences",
+      "trauma",
+      "identity",
+      "sins of the past"
+    ],
+    "keywords": [
+      "imprisonment",
+      "revenge",
+      "dumplings",
+      "hammer fight",
+      "mystery",
+      "shocking twist"
+    ],
+    "similarTo": [
+      "Parasite",
+      "I Saw the Devil",
+      "Memories of Murder",
+      "Sympathy for Mr. Vengeance",
+      "The Handmaiden"
+    ]
+  },
+  {
+    "title": "Your Name.",
+    "moods": [
+      "emotionally overwhelming",
+      "beautiful",
+      "bittersweet",
+      "magical"
+    ],
+    "vibes": [
+      "dreamlike",
+      "yearning",
+      "cosmic connection",
+      "melancholic"
+    ],
+    "themes": [
+      "body-switching",
+      "destined love",
+      "loss and memory",
+      "time and fate"
+    ],
+    "keywords": [
+      "body swap",
+      "comet",
+      "Shinto shrine",
+      "Tokyo",
+      "rural Japan",
+      "red thread",
+      "memory"
+    ],
+    "similarTo": [
+      "Spirited Away",
+      "5 Centimeters per Second",
+      "A Silent Voice",
+      "Weathering with You",
+      "The Garden of Words"
+    ]
+  },
+  {
+    "title": "Spirited Away",
+    "genres": [
+      "Animation",
+      "Fantasy",
+      "Adventure"
+    ],
+    "subGenres": [
+      "Anime Film",
+      "Fairy Tale"
+    ],
+    "moods": [
+      "magical",
+      "awe-inspiring",
+      "nostalgic",
+      "mysterious"
+    ],
+    "vibes": [
+      "dreamlike",
+      "otherworldly",
+      "comforting",
+      "whimsical"
+    ],
+    "themes": [
+      "growing up",
+      "work ethic",
+      "greed and transformation",
+      "the spirit world"
+    ],
+    "keywords": [
+      "bathhouse",
+      "spirits",
+      "No-Face",
+      "dragon",
+      "identity",
+      "childhood",
+      "spirits world"
+    ],
+    "similarTo": [
+      "My Neighbor Totoro",
+      "Princess Mononoke",
+      "Howl's Moving Castle",
+      "Your Name.",
+      "Castle in the Sky"
+    ]
+  },
+  {
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "genres": [
+      "Romance",
+      "Science Fiction",
+      "Drama"
+    ],
+    "subGenres": [
+      "Mind-Bending Romance",
+      "Indie Drama"
+    ],
+    "moods": [
+      "melancholic",
+      "dreamy",
+      "heartbreaking",
+      "tender"
+    ],
+    "vibes": [
+      "existential",
+      "dreamlike",
+      "melancholic",
+      "yearning"
+    ],
+    "themes": [
+      "erasing painful memories",
+      "love and loss",
+      "the value of painful relationships",
+      "identity"
+    ],
+    "keywords": [
+      "memory erasure",
+      "Joel",
+      "Clementine",
+      "Montauk",
+      "fractured timeline",
+      "unconventional love"
+    ],
+    "similarTo": [
+      "Her",
+      "Lost in Translation",
+      "500 Days of Summer",
+      "Eternal Sunshine of the Spotless Mind",
+      "Blue Valentine"
+    ]
+  },
+  {
+    "title": "La La Land",
+    "genres": [
+      "Romance",
+      "Drama",
+      "Musical"
+    ],
+    "subGenres": [
+      "Musical Romance",
+      "Hollywood Dreamers"
+    ],
+    "moods": [
+      "dreamy",
+      "bittersweet",
+      "nostalgic",
+      "romantic"
+    ],
+    "vibes": [
+      "dreamlike",
+      "yearning",
+      "melancholic",
+      "artistic passion"
+    ],
+    "themes": [
+      "dreams vs love",
+      "artistic ambition",
+      "what-if endings",
+      "Hollywood dreams"
+    ],
+    "keywords": [
+      "jazz",
+      "Los Angeles",
+      "actress",
+      "pianist",
+      "dreams",
+      "alternate ending",
+      "musical"
+    ],
+    "audience": [
+      "cinephile",
+      "young adult",
+      "comfort watch"
+    ],
+    "similarTo": [
+      "Whiplash",
+      "Eternal Sunshine of the Spotless Mind",
+      "Once",
+      "500 Days of Summer",
+      "Moulin Rouge!"
+    ]
+  },
+  {
+    "title": "Breaking Bad",
+    "subGenres": [
+      "Neo-Western",
+      "Crime Drama"
+    ],
+    "moods": [
+      "tense",
+      "morally complex",
+      "gripping",
+      "darkly compelling"
+    ],
+    "vibes": [
+      "transformation",
+      "moral decay",
+      "edge-of-seat",
+      "Machiavellian"
+    ],
+    "themes": [
+      "moral corruption",
+      "pride and ego",
+      "the American dream gone wrong",
+      "consequences"
+    ],
+    "keywords": [
+      "methamphetamine",
+      "chemistry teacher",
+      "Albuquerque",
+      "DEA",
+      "moral descent",
+      "empire"
+    ],
+    "similarTo": [
+      "Better Call Saul",
+      "Ozark",
+      "The Sopranos",
+      "Narcos",
+      "The Wire"
+    ]
+  },
+  {
+    "title": "Better Call Saul",
+    "subGenres": [
+      "Legal Drama",
+      "Prequel Series"
+    ],
+    "moods": [
+      "methodical",
+      "melancholic",
+      "compelling",
+      "slow-burn"
+    ],
+    "vibes": [
+      "moral ambiguity",
+      "character study",
+      "inevitable tragedy",
+      "cinematic"
+    ],
+    "themes": [
+      "identity reinvention",
+      "moral compromise",
+      "loyalty and betrayal",
+      "legal corruption"
+    ],
+    "keywords": [
+      "lawyer",
+      "Albuquerque",
+      "con man",
+      "cartel",
+      "Jimmy McGill",
+      "transformation",
+      "prequel"
+    ],
+    "similarTo": [
+      "Breaking Bad",
+      "Ozark",
+      "The Sopranos",
+      "Mindhunter",
+      "Narcos"
+    ]
+  },
+  {
+    "title": "Dark",
+    "language": "German",
+    "genres": [
+      "Science Fiction",
+      "Thriller",
+      "Mystery"
+    ],
+    "subGenres": [
+      "Time Travel Drama",
+      "Psychological Thriller"
+    ],
+    "moods": [
+      "eerie",
+      "cerebral",
+      "atmospheric",
+      "haunting"
+    ],
+    "vibes": [
+      "mind-bending",
+      "existential",
+      "dark",
+      "immersive"
+    ],
+    "themes": [
+      "time loops",
+      "fate vs free will",
+      "family secrets across generations",
+      "determinism"
+    ],
+    "keywords": [
+      "time travel",
+      "German village",
+      "caves",
+      "family tree",
+      "1986",
+      "2019",
+      "loop",
+      "apocalypse"
+    ],
+    "similarTo": [
+      "Inception",
+      "Westworld",
+      "Twin Peaks",
+      "Mindhunter",
+      "Black Mirror"
+    ]
+  },
+  {
+    "title": "Reply 1988",
+    "subGenres": [
+      "Slice of Life",
+      "Coming-of-Age"
+    ],
+    "moods": [
+      "nostalgic",
+      "heartwarming",
+      "comforting",
+      "bittersweet"
+    ],
+    "vibes": [
+      "comfort watch",
+      "friendship",
+      "neighborhood warmth",
+      "melancholic nostalgia"
+    ],
+    "themes": [
+      "neighborhood community",
+      "growing up in the 80s",
+      "first love",
+      "family warmth"
+    ],
+    "keywords": [
+      "1988 Seoul",
+      "neighborhood",
+      "five families",
+      "first love",
+      "coming-of-age",
+      "Olympics"
+    ],
+    "audience": [
+      "comfort watch",
+      "young adult",
+      "family"
+    ],
+    "similarTo": [
+      "Reply 1994",
+      "Signal",
+      "Our Blues",
+      "Hometown Cha-Cha-Cha",
+      "Be Melodramatic"
+    ]
+  },
+  {
+    "title": "Goblin",
+    "genres": [
+      "Fantasy",
+      "Romance",
+      "Drama"
+    ],
+    "subGenres": [
+      "Supernatural Romance",
+      "Fantasy Drama"
+    ],
+    "moods": [
+      "romantic",
+      "melancholic",
+      "ethereal",
+      "bittersweet"
+    ],
+    "vibes": [
+      "dreamlike",
+      "magical",
+      "yearning",
+      "comforting"
+    ],
+    "themes": [
+      "immortality and longing",
+      "destined love",
+      "death and the afterlife",
+      "sacrifice"
+    ],
+    "keywords": [
+      "goblin",
+      "grim reaper",
+      "destiny",
+      "immortality",
+      "Quebec",
+      "sword",
+      "soulmate"
+    ],
+    "similarTo": [
+      "Moon Lovers: Scarlet Heart Ryeo",
+      "Hotel del Luna",
+      "My Love from the Star",
+      "Crash Landing on You",
+      "Reply 1988"
+    ]
+  },
+  {
+    "title": "Attack on Titan",
+    "subGenres": [
+      "Dark Fantasy",
+      "Military Anime"
+    ],
+    "moods": [
+      "intense",
+      "devastating",
+      "epic",
+      "shocking"
+    ],
+    "vibes": [
+      "dark",
+      "relentless",
+      "morally complex",
+      "war-torn"
+    ],
+    "themes": [
+      "freedom vs safety",
+      "cycle of hatred",
+      "genocide and history",
+      "sacrifice and loss"
+    ],
+    "keywords": [
+      "titans",
+      "walls",
+      "Survey Corps",
+      "Eren",
+      "Mikasa",
+      "war",
+      "freedom",
+      "genocide metaphor"
+    ],
+    "similarTo": [
+      "Death Note",
+      "Fullmetal Alchemist: Brotherhood",
+      "Vinland Saga",
+      "Demon Slayer: Kimetsu no Yaiba",
+      "Monster"
+    ]
+  },
+  {
+    "title": "Death Note",
+    "subGenres": [
+      "Psychological Thriller Anime",
+      "Cat and Mouse"
+    ],
+    "moods": [
+      "tense",
+      "intellectually riveting",
+      "dark",
+      "compelling"
+    ],
+    "vibes": [
+      "mind-bending",
+      "cat-and-mouse",
+      "god complex",
+      "dark"
+    ],
+    "themes": [
+      "playing god",
+      "justice vs murder",
+      "intellectual rivalry",
+      "moral corruption"
+    ],
+    "keywords": [
+      "Death Note",
+      "shinigami",
+      "Light Yagami",
+      "L",
+      "justice",
+      "god complex",
+      "notebook"
+    ],
+    "similarTo": [
+      "Monster",
+      "Attack on Titan",
+      "Code Geass",
+      "Fullmetal Alchemist: Brotherhood",
+      "Paranoia Agent"
+    ]
+  },
+  {
+    "title": "Monster",
+    "genres": [
+      "Animation",
+      "Crime",
+      "Thriller"
+    ],
+    "subGenres": [
+      "Psychological Thriller Anime",
+      "Crime Drama"
+    ],
+    "moods": [
+      "haunting",
+      "methodical",
+      "deeply unsettling",
+      "intense"
+    ],
+    "vibes": [
+      "dark",
+      "atmospheric",
+      "slow-burn",
+      "morally complex"
+    ],
+    "themes": [
+      "nature of evil",
+      "surgical ethics",
+      "redemption",
+      "post-war Germany"
+    ],
+    "keywords": [
+      "serial killer",
+      "Germany",
+      "Dr. Tenma",
+      "monster",
+      "redemption",
+      "post-war",
+      "moral choices"
+    ],
+    "similarTo": [
+      "Death Note",
+      "Vinland Saga",
+      "Berserk",
+      "Neon Genesis Evangelion",
+      "Paranoia Agent"
+    ]
+  },
+  {
+    "title": "Crash Landing on You",
+    "subGenres": [
+      "Cross-Border Romance",
+      "K-Drama"
+    ],
+    "moods": [
+      "romantic",
+      "heartwarming",
+      "tense",
+      "comforting"
+    ],
+    "vibes": [
+      "star-crossed lovers",
+      "comforting",
+      "escapist",
+      "emotional"
+    ],
+    "themes": [
+      "North-South Korea divide",
+      "forbidden love",
+      "sacrifice",
+      "different worlds"
+    ],
+    "keywords": [
+      "North Korea",
+      "South Korea",
+      "paragliding",
+      "soldier",
+      "chaebol",
+      "escape",
+      "love"
+    ],
+    "similarTo": [
+      "Goblin",
+      "Descendants of the Sun",
+      "My Love from the Star",
+      "Itaewon Class",
+      "Reply 1988"
+    ]
+  },
+  {
+    "title": "My Mister",
+    "subGenres": [
+      "Slice of Life",
+      "Character Study"
+    ],
+    "moods": [
+      "quietly moving",
+      "melancholic",
+      "deeply human",
+      "healing"
+    ],
+    "vibes": [
+      "comforting",
+      "melancholic",
+      "quiet dignity",
+      "healing"
+    ],
+    "themes": [
+      "loneliness",
+      "human kindness",
+      "family burden",
+      "survival and dignity"
+    ],
+    "keywords": [
+      "middle-aged man",
+      "young woman",
+      "wiretapping",
+      "hardship",
+      "connection",
+      "Seoul"
+    ],
+    "similarTo": [
+      "My Liberation Notes",
+      "Be Melodramatic",
+      "It's Okay to Not Be Okay",
+      "Reply 1988",
+      "Our Blues"
+    ]
+  },
+  {
+    "title": "Memories of Murder",
+    "moods": [
+      "haunting",
+      "grim",
+      "compelling",
+      "darkly humorous"
+    ],
+    "vibes": [
+      "atmospheric",
+      "slow-burn",
+      "investigative",
+      "bleak"
+    ],
+    "themes": [
+      "first serial killer case in Korea",
+      "institutional failure",
+      "obsession",
+      "truth and futility"
+    ],
+    "keywords": [
+      "serial killer",
+      "rural Korea",
+      "1980s",
+      "rain",
+      "investigation",
+      "true crime",
+      "unsolved"
+    ],
+    "similarTo": [
+      "Parasite",
+      "Oldboy",
+      "The Handmaiden",
+      "I Saw the Devil",
+      "Burning"
+    ]
+  },
+  {
+    "title": "Burning",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "subGenres": [
+      "Psychological Mystery",
+      "Slow Cinema"
+    ],
+    "moods": [
+      "mysterious",
+      "unsettling",
+      "slow-burning",
+      "ambiguous"
+    ],
+    "vibes": [
+      "existential",
+      "eerie",
+      "class tension",
+      "dreamlike"
+    ],
+    "themes": [
+      "class inequality",
+      "mysterious affluence",
+      "young male anger",
+      "ambiguity"
+    ],
+    "keywords": [
+      "greenhouse burning",
+      "young writer",
+      "class gap",
+      "mystery",
+      "jealousy",
+      "cat"
+    ],
+    "similarTo": [
+      "Memories of Murder",
+      "Parasite",
+      "Oldboy",
+      "The Handmaiden",
+      "I Saw the Devil"
+    ]
+  },
+  {
+    "title": "The Handmaiden",
+    "genres": [
+      "Thriller",
+      "Drama",
+      "Romance"
+    ],
+    "subGenres": [
+      "Period Psychological Thriller",
+      "Neo-Noir"
+    ],
+    "moods": [
+      "seductive",
+      "twisty",
+      "lush",
+      "disturbing"
+    ],
+    "vibes": [
+      "mind-bending",
+      "dark elegance",
+      "forbidden desire",
+      "twisty"
+    ],
+    "themes": [
+      "manipulation and power",
+      "sexual liberation",
+      "colonialism",
+      "con artistry"
+    ],
+    "keywords": [
+      "colonial Korea",
+      "Japanese mansion",
+      "deception",
+      "lesbian romance",
+      "conman",
+      "twist"
+    ],
+    "similarTo": [
+      "Oldboy",
+      "Parasite",
+      "Burning",
+      "A Tale of Two Sisters",
+      "Memories of Murder"
+    ]
+  },
+  {
+    "title": "A Silent Voice",
+    "genres": [
+      "Animation",
+      "Drama",
+      "Romance"
+    ],
+    "subGenres": [
+      "Anime Film",
+      "Redemption Drama"
+    ],
+    "moods": [
+      "emotionally devastating",
+      "tender",
+      "hopeful",
+      "guilt-ridden"
+    ],
+    "vibes": [
+      "healing",
+      "melancholic",
+      "coming-of-age",
+      "heartbreaking"
+    ],
+    "themes": [
+      "bullying and redemption",
+      "deaf identity",
+      "forgiveness",
+      "social anxiety"
+    ],
+    "keywords": [
+      "bullying",
+      "deaf girl",
+      "redemption",
+      "high school",
+      "sign language",
+      "guilt",
+      "forgiveness"
+    ],
+    "similarTo": [
+      "Your Name.",
+      "A Whisker Away",
+      "I Want to Eat Your Pancreas",
+      "Wolf Children",
+      "The Girl Who Leapt Through Time"
+    ]
+  },
+  {
+    "title": "Howl's Moving Castle",
+    "genres": [
+      "Animation",
+      "Fantasy",
+      "Romance"
+    ],
+    "subGenres": [
+      "Anime Film",
+      "Fantasy Adventure"
+    ],
+    "moods": [
+      "magical",
+      "romantic",
+      "whimsical",
+      "comforting"
+    ],
+    "vibes": [
+      "dreamlike",
+      "heartwarming",
+      "adventurous",
+      "cozy"
+    ],
+    "themes": [
+      "inner beauty",
+      "war and pacifism",
+      "self-acceptance",
+      "love breaking curses"
+    ],
+    "keywords": [
+      "moving castle",
+      "wizard",
+      "spell",
+      "war",
+      "flying",
+      "romance",
+      "Miyazaki"
+    ],
+    "audience": [
+      "family",
+      "cinephile",
+      "comfort watch"
+    ],
+    "similarTo": [
+      "Spirited Away",
+      "My Neighbor Totoro",
+      "Princess Mononoke",
+      "Castle in the Sky",
+      "Nausicaä of the Valley of the Wind"
+    ]
+  },
+  {
+    "title": "Princess Mononoke",
+    "genres": [
+      "Animation",
+      "Action",
+      "Fantasy"
+    ],
+    "subGenres": [
+      "Epic Fantasy Anime",
+      "Environmental Film"
+    ],
+    "moods": [
+      "epic",
+      "melancholic",
+      "intense",
+      "awe-inspiring"
+    ],
+    "vibes": [
+      "mythological",
+      "dark",
+      "environmental",
+      "spiritual"
+    ],
+    "themes": [
+      "nature vs industrialization",
+      "moral ambiguity",
+      "war and survival",
+      "harmony"
+    ],
+    "keywords": [
+      "forest gods",
+      "iron town",
+      "wolf god",
+      "curse",
+      "nature spirit",
+      "war",
+      "Ashitaka"
+    ],
+    "similarTo": [
+      "Spirited Away",
+      "Howl's Moving Castle",
+      "Nausicaä of the Valley of the Wind",
+      "Castle in the Sky",
+      "The Tale of the Princess Kaguya"
+    ]
+  },
+  {
+    "title": "Weathering with You",
+    "genres": [
+      "Animation",
+      "Romance",
+      "Fantasy"
+    ],
+    "subGenres": [
+      "Anime Film",
+      "Supernatural Romance"
+    ],
+    "moods": [
+      "bittersweet",
+      "romantic",
+      "melancholic",
+      "atmospheric"
+    ],
+    "vibes": [
+      "dreamlike",
+      "yearning",
+      "rain-soaked",
+      "heartwarming"
+    ],
+    "themes": [
+      "sacrifice for love",
+      "climate and weather",
+      "runaway youth",
+      "choosing love over world"
+    ],
+    "keywords": [
+      "sunshine girl",
+      "weather",
+      "Tokyo",
+      "runaway",
+      "sacrifice",
+      "rain",
+      "climate change"
+    ],
+    "similarTo": [
+      "Your Name.",
+      "A Silent Voice",
+      "The Garden of Words",
+      "5 Centimeters per Second",
+      "Children of the Sea"
+    ]
+  },
+  {
+    "title": "Her",
+    "genres": [
+      "Science Fiction",
+      "Romance",
+      "Drama"
+    ],
+    "subGenres": [
+      "Near-Future Sci-Fi",
+      "Emotional Drama"
+    ],
+    "moods": [
+      "melancholic",
+      "tender",
+      "contemplative",
+      "bittersweet"
+    ],
+    "vibes": [
+      "existential",
+      "dreamlike",
+      "loneliness",
+      "yearning"
+    ],
+    "themes": [
+      "AI and love",
+      "loneliness in the digital age",
+      "what makes us human",
+      "connection"
+    ],
+    "keywords": [
+      "AI relationship",
+      "loneliness",
+      "voice",
+      "Los Angeles future",
+      "letter writer",
+      "OS"
+    ],
+    "similarTo": [
+      "Eternal Sunshine of the Spotless Mind",
+      "Lost in Translation",
+      "Ex Machina",
+      "Blade Runner 2049",
+      "Arrival"
+    ]
+  },
+  {
+    "title": "Arrival",
+    "genres": [
+      "Science Fiction",
+      "Drama"
+    ],
+    "subGenres": [
+      "Linguistic Sci-Fi",
+      "First Contact"
+    ],
+    "moods": [
+      "cerebral",
+      "emotionally devastating",
+      "awe-inspiring",
+      "contemplative"
+    ],
+    "vibes": [
+      "existential",
+      "cosmic wonder",
+      "melancholic",
+      "mind-bending"
+    ],
+    "themes": [
+      "language shapes perception",
+      "grief and acceptance",
+      "non-linear time",
+      "sacrifice"
+    ],
+    "keywords": [
+      "alien language",
+      "heptapods",
+      "non-linear time",
+      "motherhood",
+      "loss",
+      "linguistics"
+    ],
+    "similarTo": [
+      "Interstellar",
+      "Her",
+      "Ex Machina",
+      "Contact",
+      "2001: A Space Odyssey"
+    ]
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "subGenres": [
+      "Prison Drama",
+      "Hope and Redemption"
+    ],
+    "moods": [
+      "deeply moving",
+      "inspiring",
+      "hopeful",
+      "emotionally rich"
+    ],
+    "vibes": [
+      "resilience",
+      "friendship",
+      "comforting",
+      "uplifting"
+    ],
+    "themes": [
+      "hope in darkness",
+      "institutionalization",
+      "friendship",
+      "corruption and injustice"
+    ],
+    "keywords": [
+      "prison",
+      "Andy Dufresne",
+      "hope",
+      "escape",
+      "friendship",
+      "Red",
+      "wrongful conviction"
+    ],
+    "audience": [
+      "mass",
+      "comfort watch",
+      "cinephile"
+    ],
+    "similarTo": [
+      "The Green Mile",
+      "Schindler's List",
+      "Forrest Gump",
+      "Cast Away",
+      "A Beautiful Mind"
+    ]
+  },
+  {
+    "title": "Schindler's List",
+    "genres": [
+      "Drama",
+      "History",
+      "Biography"
+    ],
+    "subGenres": [
+      "War Drama",
+      "Holocaust Film"
+    ],
+    "moods": [
+      "deeply tragic",
+      "harrowing",
+      "moving",
+      "unforgettable"
+    ],
+    "vibes": [
+      "historical weight",
+      "moral complexity",
+      "grief",
+      "human dignity"
+    ],
+    "themes": [
+      "redemption through action",
+      "human cost of genocide",
+      "moral awakening",
+      "courage"
+    ],
+    "keywords": [
+      "Holocaust",
+      "WWII",
+      "Nazi",
+      "Jewish workers",
+      "factory",
+      "Oskar Schindler",
+      "humanity"
+    ],
+    "similarTo": [
+      "The Pianist",
+      "Life Is Beautiful",
+      "Son of Saul",
+      "The Boy in the Striped Pyjamas",
+      "Au Revoir les Enfants"
+    ]
+  },
+  {
+    "title": "Lost in Translation",
+    "subGenres": [
+      "Indie Drama",
+      "Quiet Romance"
+    ],
+    "moods": [
+      "melancholic",
+      "dreamy",
+      "lonely",
+      "tender"
+    ],
+    "vibes": [
+      "existential",
+      "Tokyo nightlife",
+      "platonic longing",
+      "bittersweet"
+    ],
+    "themes": [
+      "loneliness in a foreign city",
+      "midlife ennui",
+      "unexpected connection",
+      "unspoken feelings"
+    ],
+    "keywords": [
+      "Tokyo",
+      "hotel",
+      "jet lag",
+      "whisky",
+      "karaoke",
+      "whisper",
+      "fleeting connection"
+    ],
+    "similarTo": [
+      "Her",
+      "Eternal Sunshine of the Spotless Mind",
+      "Before Sunrise",
+      "Paterson",
+      "A Ghost Story"
+    ]
+  },
+  {
+    "title": "Before Sunrise",
+    "subGenres": [
+      "Dialogue-Driven Romance",
+      "One Night Film"
+    ],
+    "moods": [
+      "romantic",
+      "intellectual",
+      "bittersweet",
+      "dreamy"
+    ],
+    "vibes": [
+      "wanderlust",
+      "philosophical",
+      "yearning",
+      "pure romance"
+    ],
+    "themes": [
+      "carpe diem love",
+      "philosophical dialogue",
+      "fleeting beauty",
+      "Vienna at night"
+    ],
+    "keywords": [
+      "Vienna",
+      "train",
+      "one night",
+      "philosophical conversation",
+      "strangers",
+      "Jesse",
+      "Céline"
+    ],
+    "similarTo": [
+      "Before Sunset",
+      "Before Midnight",
+      "Lost in Translation",
+      "Eternal Sunshine of the Spotless Mind",
+      "La La Land"
+    ]
+  },
+  {
+    "title": "Before Sunset",
+    "subGenres": [
+      "Dialogue-Driven Romance",
+      "Sequel"
+    ],
+    "moods": [
+      "nostalgic",
+      "bittersweet",
+      "romantic",
+      "melancholic"
+    ],
+    "vibes": [
+      "wanderlust",
+      "yearning",
+      "philosophical",
+      "real-time"
+    ],
+    "themes": [
+      "second chances",
+      "roads not taken",
+      "lingering love",
+      "growing up"
+    ],
+    "keywords": [
+      "Paris",
+      "nine years later",
+      "bookshop",
+      "real-time",
+      "Jesse",
+      "Céline",
+      "sequel"
+    ],
+    "similarTo": [
+      "Before Sunrise",
+      "Before Midnight",
+      "Lost in Translation",
+      "Her",
+      "Paterson"
+    ]
+  },
+  {
+    "title": "500 Days of Summer",
+    "subGenres": [
+      "Anti-Romance",
+      "Indie Romantic Comedy"
+    ],
+    "moods": [
+      "bittersweet",
+      "witty",
+      "nostalgic",
+      "melancholic"
+    ],
+    "vibes": [
+      "anti-romantic",
+      "yearning",
+      "quirky",
+      "self-deception"
+    ],
+    "themes": [
+      "one-sided love",
+      "expectations vs reality",
+      "deconstructing rom-coms",
+      "moving on"
+    ],
+    "keywords": [
+      "non-linear narrative",
+      "expectations vs reality",
+      "unrequited love",
+      "indie rock",
+      "architecture"
+    ],
+    "similarTo": [
+      "La La Land",
+      "Eternal Sunshine of the Spotless Mind",
+      "Blue Valentine",
+      "Her",
+      "Before Sunrise"
+    ]
+  },
+  {
+    "title": "The Social Network",
+    "subGenres": [
+      "Tech Drama",
+      "Corporate Rise"
+    ],
+    "moods": [
+      "sharp",
+      "coldly thrilling",
+      "compelling",
+      "tense"
+    ],
+    "vibes": [
+      "ambition",
+      "betrayal",
+      "fast-paced dialogue",
+      "modern myth"
+    ],
+    "themes": [
+      "friendship and betrayal",
+      "ambition vs ethics",
+      "loneliness of genius",
+      "Harvard and Silicon Valley"
+    ],
+    "keywords": [
+      "Facebook",
+      "Mark Zuckerberg",
+      "Harvard",
+      "lawsuits",
+      "startup",
+      "coding",
+      "betrayal"
+    ],
+    "similarTo": [
+      "Whiplash",
+      "The Big Short",
+      "Steve Jobs",
+      "Moneyball",
+      "BlackBerry"
+    ]
+  },
+  {
+    "title": "Squid Game",
+    "genres": [
+      "Thriller",
+      "Drama",
+      "Action"
+    ],
+    "subGenres": [
+      "Survival Drama",
+      "Social Commentary"
+    ],
+    "moods": [
+      "tense",
+      "visceral",
+      "disturbing",
+      "gripping"
+    ],
+    "vibes": [
+      "edge-of-seat",
+      "dark social commentary",
+      "survival",
+      "twisted"
+    ],
+    "themes": [
+      "capitalism and desperation",
+      "survival of the fittest",
+      "debt and despair",
+      "humanity under pressure"
+    ],
+    "keywords": [
+      "death game",
+      "debt",
+      "456 players",
+      "children's games",
+      "masks",
+      "VIP",
+      "survival"
+    ],
+    "similarTo": [
+      "Alice in Borderland",
+      "Parasite",
+      "Sweet Home",
+      "All of Us Are Dead",
+      "Money Heist"
+    ]
+  },
+  {
+    "title": "Money Heist",
+    "subGenres": [
+      "Heist Drama",
+      "Action Thriller"
+    ],
+    "moods": [
+      "thrilling",
+      "tense",
+      "passionate",
+      "addictive"
+    ],
+    "vibes": [
+      "edge-of-seat",
+      "stylish",
+      "passionate",
+      "rebellious"
+    ],
+    "themes": [
+      "anarchism and capitalism",
+      "love under siege",
+      "resistance",
+      "planning vs chaos"
+    ],
+    "keywords": [
+      "bank heist",
+      "Professor",
+      "masks",
+      "red jumpsuits",
+      "hostages",
+      "resistance",
+      "Spain"
+    ],
+    "similarTo": [
+      "Squid Game",
+      "Dark",
+      "Mindhunter",
+      "Fauda",
+      "The Boys"
+    ]
+  },
+  {
+    "title": "Black Mirror",
+    "subGenres": [
+      "Anthology Series",
+      "Dystopian Tech"
+    ],
+    "moods": [
+      "unsettling",
+      "thought-provoking",
+      "bleak",
+      "disturbing"
+    ],
+    "vibes": [
+      "existential",
+      "tech dystopia",
+      "dark",
+      "social commentary"
+    ],
+    "themes": [
+      "technology and human nature",
+      "social media addiction",
+      "dystopian futures",
+      "nostalgia weaponized"
+    ],
+    "keywords": [
+      "technology",
+      "social media",
+      "ratings",
+      "consciousness upload",
+      "dystopia",
+      "choice"
+    ],
+    "similarTo": [
+      "Dark",
+      "Westworld",
+      "The Twilight Zone",
+      "Electric Dreams",
+      "Years and Years"
+    ]
+  },
+  {
+    "title": "Fleabag",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "subGenres": [
+      "Dark Comedy",
+      "Confessional Comedy"
+    ],
+    "moods": [
+      "witty",
+      "heartbreaking",
+      "sharp",
+      "funny"
+    ],
+    "vibes": [
+      "dark humor",
+      "feminist",
+      "fourth-wall breaking",
+      "raw honesty"
+    ],
+    "themes": [
+      "female grief",
+      "sexuality and guilt",
+      "forbidden desire",
+      "family dysfunction"
+    ],
+    "keywords": [
+      "fourth wall",
+      "grief",
+      "London",
+      "guinea pig cafe",
+      "priest",
+      "sister",
+      "sex"
+    ],
+    "similarTo": [
+      "Killing Eve",
+      "Derry Girls",
+      "Catastrophe",
+      "I May Destroy You",
+      "Normal People"
+    ]
+  },
+  {
+    "title": "Normal People",
+    "country": "Ireland",
+    "subGenres": [
+      "Literary Adaptation",
+      "Intimate Drama"
+    ],
+    "moods": [
+      "tender",
+      "intense",
+      "emotionally raw",
+      "intimate"
+    ],
+    "vibes": [
+      "yearning",
+      "heartbreaking",
+      "authentic",
+      "bittersweet"
+    ],
+    "themes": [
+      "class difference in love",
+      "communication failures",
+      "growing up together",
+      "vulnerability"
+    ],
+    "keywords": [
+      "Ireland",
+      "college",
+      "Connell chain",
+      "on and off",
+      "class gap",
+      "passion",
+      "vulnerability"
+    ],
+    "similarTo": [
+      "Fleabag",
+      "I May Destroy You",
+      "Conversations with Friends",
+      "Maid",
+      "Euphoria"
+    ]
+  },
+  {
+    "title": "Euphoria",
+    "subGenres": [
+      "Teen Drama",
+      "Addiction Drama"
+    ],
+    "moods": [
+      "intense",
+      "visually overwhelming",
+      "disturbing",
+      "raw"
+    ],
+    "vibes": [
+      "neon-drenched",
+      "dark",
+      "visceral",
+      "provocative"
+    ],
+    "themes": [
+      "addiction and trauma",
+      "identity and performance",
+      "teenage despair",
+      "social media toxicity"
+    ],
+    "keywords": [
+      "high school",
+      "drugs",
+      "addiction",
+      "sexuality",
+      "trauma",
+      "glitter",
+      "Gen Z"
+    ],
+    "similarTo": [
+      "Skins",
+      "Normal People",
+      "13 Reasons Why",
+      "Maid",
+      "I May Destroy You"
+    ]
+  },
+  {
+    "title": "Mindhunter",
+    "subGenres": [
+      "Psychological Crime Drama",
+      "True Crime"
+    ],
+    "moods": [
+      "methodical",
+      "chilling",
+      "cerebral",
+      "gripping"
+    ],
+    "vibes": [
+      "clinical darkness",
+      "slow-burn",
+      "disturbing fascination",
+      "procedural"
+    ],
+    "themes": [
+      "criminal psychology",
+      "profiling the mind of killers",
+      "FBI bureaucracy",
+      "moral toll of work"
+    ],
+    "keywords": [
+      "FBI",
+      "serial killers",
+      "profiling",
+      "1970s",
+      "BTK",
+      "interviews",
+      "psychology"
+    ],
+    "similarTo": [
+      "Better Call Saul",
+      "Dark",
+      "True Detective",
+      "Zodiac",
+      "Seven"
+    ]
+  },
+  {
+    "title": "True Detective",
+    "subGenres": [
+      "Southern Gothic",
+      "Philosophical Crime Drama"
+    ],
+    "moods": [
+      "haunting",
+      "philosophical",
+      "grim",
+      "atmospheric"
+    ],
+    "vibes": [
+      "Southern Gothic",
+      "existential",
+      "slow-burn",
+      "dark"
+    ],
+    "themes": [
+      "nihilism vs hope",
+      "time is a flat circle",
+      "Louisiana mysteries",
+      "detective obsession"
+    ],
+    "keywords": [
+      "Louisiana",
+      "Yellow King",
+      "serial killer",
+      "flat circle",
+      "Rust Cohle",
+      "nihilism",
+      "spiral"
+    ],
+    "similarTo": [
+      "Mindhunter",
+      "Dark",
+      "The Outsider",
+      "Sharp Objects",
+      "Ozark"
+    ]
+  },
+  {
+    "title": "Ozark",
+    "subGenres": [
+      "Cartel Drama",
+      "Family Crime Thriller"
+    ],
+    "moods": [
+      "tense",
+      "cold",
+      "gripping",
+      "morally complex"
+    ],
+    "vibes": [
+      "moral decay",
+      "edge-of-seat",
+      "family under pressure",
+      "dark"
+    ],
+    "themes": [
+      "family complicity in crime",
+      "cartel money laundering",
+      "moral compromise",
+      "survival"
+    ],
+    "keywords": [
+      "money laundering",
+      "Ozarks",
+      "Missouri",
+      "cartel",
+      "family survival",
+      "financial advisor"
+    ],
+    "similarTo": [
+      "Breaking Bad",
+      "Better Call Saul",
+      "Narcos",
+      "True Detective",
+      "The Americans"
+    ]
+  },
+  {
+    "title": "Narcos",
+    "subGenres": [
+      "Drug War Drama",
+      "True Crime"
+    ],
+    "moods": [
+      "intense",
+      "gripping",
+      "morally complex",
+      "thrilling"
+    ],
+    "vibes": [
+      "cartel life",
+      "inevitable tragedy",
+      "edge-of-seat",
+      "Latin America"
+    ],
+    "themes": [
+      "rise and fall of kingpins",
+      "DEA vs cartel",
+      "corruption",
+      "Colombia in the 80s"
+    ],
+    "keywords": [
+      "Pablo Escobar",
+      "Colombia",
+      "DEA",
+      "cocaine",
+      "cartel",
+      "Medellin",
+      "1980s"
+    ],
+    "similarTo": [
+      "Breaking Bad",
+      "Ozark",
+      "El Chapo",
+      "Narcos: Mexico",
+      "The Wire"
+    ]
+  },
+  {
+    "title": "The Sopranos",
+    "subGenres": [
+      "Mafia Drama",
+      "Psychological Drama"
+    ],
+    "moods": [
+      "complex",
+      "darkly comic",
+      "compelling",
+      "character-rich"
+    ],
+    "vibes": [
+      "moral ambiguity",
+      "family dynamics",
+      "suburban crime",
+      "American dream twisted"
+    ],
+    "themes": [
+      "mob life vs suburban life",
+      "therapy and violence",
+      "masculinity and depression",
+      "loyalty"
+    ],
+    "keywords": [
+      "mob boss",
+      "therapy",
+      "New Jersey",
+      "Italian-American",
+      "ducks",
+      "Tony Soprano",
+      "family"
+    ],
+    "similarTo": [
+      "Breaking Bad",
+      "The Wire",
+      "Ozark",
+      "Boardwalk Empire",
+      "Better Call Saul"
+    ]
+  },
+  {
+    "title": "The Wire",
+    "subGenres": [
+      "Urban Crime Drama",
+      "Social Realist"
+    ],
+    "moods": [
+      "raw",
+      "unflinching",
+      "complex",
+      "authentic"
+    ],
+    "vibes": [
+      "systemic failure",
+      "street life",
+      "institutional critique",
+      "deeply human"
+    ],
+    "themes": [
+      "systemic failure of American institutions",
+      "drug trade",
+      "inner city life",
+      "journalism"
+    ],
+    "keywords": [
+      "Baltimore",
+      "police",
+      "drug trade",
+      "Stringer Bell",
+      "McNulty",
+      "institutions",
+      "the game"
+    ],
+    "similarTo": [
+      "The Sopranos",
+      "Breaking Bad",
+      "Narcos",
+      "Oz",
+      "The Shield"
+    ]
+  },
+  {
+    "title": "Peaky Blinders",
+    "subGenres": [
+      "Period Crime Drama",
+      "Gang Drama"
+    ],
+    "moods": [
+      "stylish",
+      "intense",
+      "brooding",
+      "gripping"
+    ],
+    "vibes": [
+      "dark glamour",
+      "power struggle",
+      "atmospheric",
+      "defiant"
+    ],
+    "themes": [
+      "post-war trauma",
+      "gang empire building",
+      "loyalty vs ambition",
+      "Birmingham underworld"
+    ],
+    "keywords": [
+      "Birmingham",
+      "razor gang",
+      "Tommy Shelby",
+      "WWI trauma",
+      "1920s",
+      "IRA",
+      "empire"
+    ],
+    "similarTo": [
+      "The Sopranos",
+      "Boardwalk Empire",
+      "Gangs of New York",
+      "Legend",
+      "The Wire"
+    ]
+  },
+  {
+    "title": "Chernobyl",
+    "genres": [
+      "Drama",
+      "History",
+      "Thriller"
+    ],
+    "subGenres": [
+      "Historical Disaster Drama",
+      "Political Thriller"
+    ],
+    "moods": [
+      "harrowing",
+      "tense",
+      "devastating",
+      "sobering"
+    ],
+    "vibes": [
+      "historical tragedy",
+      "government lies",
+      "human cost",
+      "unforgettable"
+    ],
+    "themes": [
+      "government coverup",
+      "scientific truth vs politics",
+      "heroism and sacrifice",
+      "nuclear disaster"
+    ],
+    "keywords": [
+      "nuclear disaster",
+      "Soviet Union",
+      "coverup",
+      "reactor",
+      "radiation",
+      "Legasov",
+      "1986"
+    ],
+    "similarTo": [
+      "Dark",
+      "Mindhunter",
+      "Band of Brothers",
+      "The Looming Tower",
+      "Years and Years"
+    ]
+  },
+  {
+    "title": "Stranger Things",
+    "genres": [
+      "Science Fiction",
+      "Horror",
+      "Drama"
+    ],
+    "subGenres": [
+      "Supernatural Thriller",
+      "Nostalgia Sci-Fi"
+    ],
+    "moods": [
+      "nostalgic",
+      "thrilling",
+      "heartwarming",
+      "eerie"
+    ],
+    "vibes": [
+      "80s nostalgia",
+      "supernatural mystery",
+      "friendship",
+      "coming-of-age"
+    ],
+    "themes": [
+      "childhood friendship",
+      "the Upside Down",
+      "government conspiracy",
+      "belonging"
+    ],
+    "keywords": [
+      "Hawkins",
+      "Upside Down",
+      "Eleven",
+      "Demogorgon",
+      "1980s",
+      "sci-fi",
+      "kids"
+    ],
+    "audience": [
+      "mass",
+      "young adult",
+      "family"
+    ],
+    "similarTo": [
+      "Dark",
+      "The OA",
+      "Black Mirror",
+      "Paper Girls",
+      "Locke & Key"
+    ]
+  },
+  {
+    "title": "The Crown",
+    "subGenres": [
+      "Royal Drama",
+      "Period Drama"
+    ],
+    "moods": [
+      "refined",
+      "emotionally complex",
+      "compelling",
+      "intimate"
+    ],
+    "vibes": [
+      "regal",
+      "duty vs desire",
+      "historical grandeur",
+      "slow-burn"
+    ],
+    "themes": [
+      "duty vs personal happiness",
+      "monarchy and modernity",
+      "political power",
+      "royal isolation"
+    ],
+    "keywords": [
+      "Queen Elizabeth",
+      "British royal family",
+      "palace",
+      "duty",
+      "monarchy",
+      "history",
+      "Diana"
+    ],
+    "similarTo": [
+      "Victoria",
+      "Spencer",
+      "The Queen",
+      "Downton Abbey",
+      "Wolf Hall"
+    ]
+  },
+  {
+    "title": "Game of Thrones",
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Action"
+    ],
+    "subGenres": [
+      "Epic Fantasy",
+      "Political Drama"
+    ],
+    "moods": [
+      "epic",
+      "shocking",
+      "immersive",
+      "intense"
+    ],
+    "vibes": [
+      "power struggle",
+      "betrayal",
+      "dark fantasy",
+      "epic scale"
+    ],
+    "themes": [
+      "power and corruption",
+      "loyalty and betrayal",
+      "the cost of war",
+      "winter is coming"
+    ],
+    "keywords": [
+      "Iron Throne",
+      "Westeros",
+      "dragons",
+      "White Walkers",
+      "politics",
+      "war",
+      "Stark"
+    ],
+    "similarTo": [
+      "The Witcher",
+      "House of the Dragon",
+      "Vikings",
+      "Marco Polo",
+      "Black Sails"
+    ]
+  },
+  {
+    "title": "Fargo",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Dark Comedy"
+    ],
+    "subGenres": [
+      "Anthology Crime Series",
+      "Nordic Noir Inspired"
+    ],
+    "moods": [
+      "darkly comic",
+      "bleak",
+      "quirky",
+      "gripping"
+    ],
+    "vibes": [
+      "Midwest noir",
+      "deadpan dark humor",
+      "snow-covered violence",
+      "offbeat"
+    ],
+    "themes": [
+      "ordinary people in extraordinary crime",
+      "Minnesota nice vs violence",
+      "fate and coincidence"
+    ],
+    "keywords": [
+      "Minnesota",
+      "murders",
+      "snow",
+      "Coen Brothers style",
+      "crime",
+      "coincidence",
+      "dark comedy"
+    ],
+    "similarTo": [
+      "True Detective",
+      "Mindhunter",
+      "The Outsider",
+      "No Country for Old Men",
+      "Blood Simple"
+    ]
+  },
+  {
+    "title": "Westworld",
+    "subGenres": [
+      "AI Consciousness Drama",
+      "Neo-Western Sci-Fi"
+    ],
+    "moods": [
+      "cerebral",
+      "unsettling",
+      "atmospheric",
+      "mind-bending"
+    ],
+    "vibes": [
+      "existential",
+      "AI awakening",
+      "dark",
+      "mind-bending"
+    ],
+    "themes": [
+      "AI consciousness",
+      "free will vs programming",
+      "exploitation",
+      "loops and memory"
+    ],
+    "keywords": [
+      "theme park",
+      "robots",
+      "consciousness",
+      "Dolores",
+      "maze",
+      "host",
+      "free will",
+      "AI"
+    ],
+    "similarTo": [
+      "Dark",
+      "Black Mirror",
+      "Altered Carbon",
+      "Ex Machina",
+      "Blade Runner 2049"
+    ]
+  },
+  {
+    "title": "Succession",
+    "subGenres": [
+      "Family Satire",
+      "Corporate Power Drama"
+    ],
+    "moods": [
+      "darkly comic",
+      "razor-sharp",
+      "compelling",
+      "Shakespearean"
+    ],
+    "vibes": [
+      "power struggle",
+      "elite dysfunction",
+      "cynical wit",
+      "Shakespearean tragedy"
+    ],
+    "themes": [
+      "media mogul dynasty",
+      "siblings competing for power",
+      "inherited trauma",
+      "capitalism"
+    ],
+    "keywords": [
+      "Roy family",
+      "media empire",
+      "succession",
+      "betrayal",
+      "Logan Roy",
+      "Kendall",
+      "corporate"
+    ],
+    "similarTo": [
+      "The Sopranos",
+      "Billions",
+      "Arrested Development",
+      "The Crown",
+      "Sharp Objects"
+    ]
+  },
+  {
+    "title": "The Witcher",
+    "genres": [
+      "Fantasy",
+      "Action",
+      "Drama"
+    ],
+    "subGenres": [
+      "Dark Fantasy",
+      "Monster Hunter Epic"
+    ],
+    "moods": [
+      "epic",
+      "gritty",
+      "atmospheric",
+      "thrilling"
+    ],
+    "vibes": [
+      "dark fantasy",
+      "monster lore",
+      "medieval",
+      "morally grey"
+    ],
+    "themes": [
+      "destiny and choice",
+      "monsters within humans",
+      "politics and power",
+      "neutrality"
+    ],
+    "keywords": [
+      "Witcher",
+      "Geralt",
+      "monsters",
+      "magic",
+      "destiny",
+      "medieval fantasy",
+      "swords"
+    ],
+    "similarTo": [
+      "Game of Thrones",
+      "Vikings",
+      "House of the Dragon",
+      "The Last Kingdom",
+      "Shadow and Bone"
+    ]
+  },
+  {
+    "title": "Joker",
+    "genres": [
+      "Drama",
+      "Crime",
+      "Thriller"
+    ],
+    "subGenres": [
+      "Psychological Character Study",
+      "Tragic Origin Story"
+    ],
+    "moods": [
+      "disturbing",
+      "tragic",
+      "intense",
+      "provocative"
+    ],
+    "vibes": [
+      "dark",
+      "societal critique",
+      "descent into madness",
+      "charismatic villain"
+    ],
+    "themes": [
+      "mental illness and society",
+      "failed systems",
+      "class resentment",
+      "creation of evil"
+    ],
+    "keywords": [
+      "Arthur Fleck",
+      "Gotham",
+      "clown",
+      "mental illness",
+      "Joker",
+      "social collapse",
+      "comedian"
+    ],
+    "similarTo": [
+      "Taxi Driver",
+      "The Dark Knight",
+      "Fight Club",
+      "American Psycho",
+      "Requiem for a Dream"
+    ]
+  },
+  {
+    "title": "Requiem for a Dream",
+    "subGenres": [
+      "Addiction Drama",
+      "Psychological Horror"
+    ],
+    "moods": [
+      "harrowing",
+      "visceral",
+      "devastating",
+      "relentless"
+    ],
+    "vibes": [
+      "descent into addiction",
+      "dark",
+      "disturbing",
+      "intense"
+    ],
+    "themes": [
+      "addiction",
+      "shattered American dream",
+      "loneliness",
+      "desperation"
+    ],
+    "keywords": [
+      "addiction",
+      "heroin",
+      "diet pills",
+      "TV show",
+      "Coney Island",
+      "dream vs reality"
+    ],
+    "similarTo": [
+      "Black Swan",
+      "Fight Club",
+      "Trainspotting",
+      "Aronofsky",
+      "Perfect Blue"
+    ]
+  },
+  {
+    "title": "Black Swan",
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Horror"
+    ],
+    "subGenres": [
+      "Psychological Horror",
+      "Ballet Drama"
+    ],
+    "moods": [
+      "unsettling",
+      "intense",
+      "obsessive",
+      "disturbing"
+    ],
+    "vibes": [
+      "perfectionism",
+      "dark duality",
+      "psychological breakdown",
+      "visceral"
+    ],
+    "themes": [
+      "perfectionism and self-destruction",
+      "duality",
+      "artistic obsession",
+      "identity fracture"
+    ],
+    "keywords": [
+      "ballet",
+      "Swan Lake",
+      "obsession",
+      "duality",
+      "hallucinations",
+      "mirror",
+      "perfection"
+    ],
+    "similarTo": [
+      "Requiem for a Dream",
+      "Whiplash",
+      "Perfect Blue",
+      "The Wrestler",
+      "mother!"
+    ]
+  },
+  {
+    "title": "No Country for Old Men",
+    "subGenres": [
+      "Neo-Western",
+      "Philosophical Thriller"
+    ],
+    "moods": [
+      "chilling",
+      "bleak",
+      "methodical",
+      "terrifying"
+    ],
+    "vibes": [
+      "inevitable doom",
+      "desert noir",
+      "cold dread",
+      "philosophical"
+    ],
+    "themes": [
+      "evil as a force of nature",
+      "fate and chance",
+      "old world vs new violence",
+      "mortality"
+    ],
+    "keywords": [
+      "coin toss",
+      "Anton Chigurh",
+      "Texas",
+      "drug money",
+      "fate",
+      "violence",
+      "Coen Brothers"
+    ],
+    "similarTo": [
+      "There Will Be Blood",
+      "Blood Simple",
+      "Prisoners",
+      "Se7en",
+      "True Detective"
+    ]
+  },
+  {
+    "title": "There Will Be Blood",
+    "subGenres": [
+      "Period Epic",
+      "Character Study"
+    ],
+    "moods": [
+      "epic",
+      "cold",
+      "obsessive",
+      "intense"
+    ],
+    "vibes": [
+      "American ambition",
+      "greed",
+      "alienation",
+      "Shakespearean"
+    ],
+    "themes": [
+      "capitalism and religion",
+      "American greed",
+      "father-son alienation",
+      "oil and power"
+    ],
+    "keywords": [
+      "oil",
+      "California",
+      "Daniel Plainview",
+      "milkshake",
+      "capitalism",
+      "greed",
+      "preacher"
+    ],
+    "similarTo": [
+      "No Country for Old Men",
+      "Citizen Kane",
+      "The Master",
+      "Chinatown",
+      "Giant"
+    ]
+  },
+  {
+    "title": "Se7en",
+    "subGenres": [
+      "Neo-Noir",
+      "Psychological Thriller"
+    ],
+    "moods": [
+      "dark",
+      "tense",
+      "atmospheric",
+      "deeply unsettling"
+    ],
+    "vibes": [
+      "rain-soaked dread",
+      "moral confrontation",
+      "detective noir",
+      "horror"
+    ],
+    "themes": [
+      "seven deadly sins",
+      "evil's seduction",
+      "losing hope",
+      "detective obsession"
+    ],
+    "keywords": [
+      "seven sins",
+      "serial killer",
+      "detectives",
+      "box",
+      "dark city",
+      "raining",
+      "what's in the box"
+    ],
+    "similarTo": [
+      "No Country for Old Men",
+      "Silence of the Lambs",
+      "Zodiac",
+      "Mindhunter",
+      "The Dark Knight"
+    ]
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Horror"
+    ],
+    "subGenres": [
+      "Psychological Thriller",
+      "Serial Killer Film"
+    ],
+    "moods": [
+      "chilling",
+      "tense",
+      "intellectual",
+      "disturbing"
+    ],
+    "vibes": [
+      "cold intelligence",
+      "dread",
+      "claustrophobic",
+      "iconic villain"
+    ],
+    "themes": [
+      "power dynamics",
+      "predator and prey",
+      "female FBI agent in a man's world",
+      "identity"
+    ],
+    "keywords": [
+      "Hannibal Lecter",
+      "Clarice Starling",
+      "serial killer",
+      "FBI",
+      "profiling",
+      "moths",
+      "buffalo bill"
+    ],
+    "similarTo": [
+      "Se7en",
+      "Zodiac",
+      "Mindhunter",
+      "Manhunter",
+      "Prisoners"
+    ]
+  },
+  {
+    "title": "Zodiac",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "subGenres": [
+      "True Crime Drama",
+      "Procedural"
+    ],
+    "moods": [
+      "methodical",
+      "obsessive",
+      "atmospheric",
+      "unsettling"
+    ],
+    "vibes": [
+      "investigative obsession",
+      "unresolved mystery",
+      "70s America",
+      "slow-burn"
+    ],
+    "themes": [
+      "obsession with the unsolvable",
+      "journalism vs investigation",
+      "true crime",
+      "paranoia"
+    ],
+    "keywords": [
+      "Zodiac Killer",
+      "San Francisco",
+      "cartoonist",
+      "cipher",
+      "obsession",
+      "unsolved",
+      "1970s"
+    ],
+    "similarTo": [
+      "Se7en",
+      "Mindhunter",
+      "Memories of Murder",
+      "Prisoners",
+      "Gone Girl"
+    ]
+  },
+  {
+    "title": "Gone Girl",
+    "subGenres": [
+      "Psychological Thriller",
+      "Domestic Noir"
+    ],
+    "moods": [
+      "tense",
+      "disturbing",
+      "compulsive",
+      "shocking"
+    ],
+    "vibes": [
+      "twisted marriage",
+      "unreliable narrator",
+      "dark feminism",
+      "sharp wit"
+    ],
+    "themes": [
+      "performance in marriage",
+      "media manipulation",
+      "cool girl myth",
+      "hidden identities"
+    ],
+    "keywords": [
+      "missing wife",
+      "media circus",
+      "cool girl",
+      "twist",
+      "marriage facade",
+      "manipulation"
+    ],
+    "similarTo": [
+      "The Girl with the Dragon Tattoo",
+      "Zodiac",
+      "Sharp Objects",
+      "The Undoing",
+      "Big Little Lies"
+    ]
+  },
+  {
+    "title": "Incendies",
+    "country": "Canada",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "War"
+    ],
+    "subGenres": [
+      "Family Tragedy",
+      "War Drama"
+    ],
+    "moods": [
+      "devastating",
+      "haunting",
+      "emotionally shattering",
+      "epic"
+    ],
+    "vibes": [
+      "existential grief",
+      "dark secrets",
+      "Middle East tragedy",
+      "mind-bending reveal"
+    ],
+    "themes": [
+      "war's trauma across generations",
+      "family secrets",
+      "identity",
+      "Lebanon civil war"
+    ],
+    "keywords": [
+      "twins",
+      "Lebanon",
+      "war",
+      "mother's secret",
+      "religion",
+      "identity",
+      "revelation"
+    ],
+    "similarTo": [
+      "Prisoners",
+      "Capernaum",
+      "A Separation",
+      "The Square",
+      "Paradise Now"
+    ]
+  },
+  {
+    "title": "A Separation",
+    "language": "Persian",
+    "country": "Iran",
+    "subGenres": [
+      "Family Drama",
+      "Legal Drama"
+    ],
+    "moods": [
+      "tense",
+      "morally complex",
+      "emotionally draining",
+      "authentic"
+    ],
+    "vibes": [
+      "moral ambiguity",
+      "Iranian realism",
+      "domestic conflict",
+      "deeply human"
+    ],
+    "themes": [
+      "divorce and its consequences",
+      "class and religion in Iran",
+      "truth and lies",
+      "duty"
+    ],
+    "keywords": [
+      "divorce",
+      "Iran",
+      "daughter",
+      "caregiver",
+      "accusation",
+      "court",
+      "religion vs modernity"
+    ],
+    "similarTo": [
+      "The Salesman",
+      "About Elly",
+      "Incendies",
+      "Capernaum",
+      "Son of Saul"
+    ]
+  },
+  {
+    "title": "Capernaum",
+    "language": "Arabic",
+    "country": "Lebanon",
+    "subGenres": [
+      "Social Realist Film",
+      "Child Perspective"
+    ],
+    "moods": [
+      "heartbreaking",
+      "raw",
+      "devastating",
+      "compassionate"
+    ],
+    "vibes": [
+      "social poverty",
+      "resilience",
+      "childhood suffering",
+      "gritty realism"
+    ],
+    "themes": [
+      "child labor",
+      "poverty",
+      "refugee crisis",
+      "parents suing state",
+      "unregistered children"
+    ],
+    "keywords": [
+      "Beirut",
+      "slum",
+      "child",
+      "parents",
+      "refugee",
+      "survival",
+      "court case"
+    ],
+    "similarTo": [
+      "A Separation",
+      "Incendies",
+      "City of God",
+      "Slumdog Millionaire",
+      "The Florida Project"
+    ]
+  },
+  {
+    "title": "City of God",
+    "language": "Portuguese",
+    "country": "Brazil",
+    "moods": [
+      "visceral",
+      "intense",
+      "vibrant",
+      "devastating"
+    ],
+    "vibes": [
+      "street life",
+      "survival",
+      "gritty realism",
+      "kinetic energy"
+    ],
+    "themes": [
+      "drug wars in favelas",
+      "photographer vs criminal",
+      "cycles of violence",
+      "Rio poverty"
+    ],
+    "keywords": [
+      "Rio favela",
+      "gang war",
+      "photographer",
+      "drug dealer",
+      "childhood",
+      "Brazil",
+      "violence"
+    ],
+    "similarTo": [
+      "Capernaum",
+      "Elite Squad",
+      "Slumdog Millionaire",
+      "Narcos",
+      "Amores Perros"
+    ]
+  },
+  {
+    "title": "Amores Perros",
+    "country": "Mexico",
+    "subGenres": [
+      "Hyperlink Cinema",
+      "Urban Drama"
+    ],
+    "moods": [
+      "visceral",
+      "intense",
+      "raw",
+      "emotionally complex"
+    ],
+    "vibes": [
+      "interconnected lives",
+      "brutal realism",
+      "México City grit",
+      "chaotic"
+    ],
+    "themes": [
+      "three stories connected by accident",
+      "love and dogs",
+      "class in Mexico",
+      "consequences"
+    ],
+    "keywords": [
+      "Mexico City",
+      "car crash",
+      "dog fighting",
+      "love stories",
+      "interconnected",
+      "Carlos Reygadas"
+    ],
+    "similarTo": [
+      "City of God",
+      "Babel",
+      "21 Grams",
+      "Traffic",
+      "The Three Burials of Melquiades Estrada"
+    ]
+  },
+  {
+    "title": "Pan's Labyrinth",
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "War"
+    ],
+    "subGenres": [
+      "Dark Fantasy",
+      "Fairy Tale"
+    ],
+    "moods": [
+      "dark",
+      "magical",
+      "harrowing",
+      "bittersweet"
+    ],
+    "vibes": [
+      "dark fairy tale",
+      "dreamlike",
+      "childhood escapism",
+      "mythological"
+    ],
+    "themes": [
+      "fantasy as escape from fascism",
+      "disobedience as virtue",
+      "childhood and cruelty",
+      "Spain"
+    ],
+    "keywords": [
+      "Spain",
+      "fascism",
+      "labyrinth",
+      "faun",
+      "fairy tale",
+      "war",
+      "girl",
+      "Francoism"
+    ],
+    "similarTo": [
+      "The Shape of Water",
+      "Crimson Peak",
+      "Spirited Away",
+      "Princess Mononoke",
+      "The Orphanage"
+    ]
+  },
+  {
+    "title": "Life Is Beautiful",
+    "subGenres": [
+      "Holocaust Drama",
+      "Father-Son Tragedy"
+    ],
+    "moods": [
+      "heartbreaking",
+      "tender",
+      "humorous",
+      "devastating"
+    ],
+    "vibes": [
+      "parental love",
+      "protecting innocence",
+      "bittersweet",
+      "unforgettable"
+    ],
+    "themes": [
+      "protecting children from horror",
+      "love and sacrifice",
+      "Holocaust",
+      "imagination as shield"
+    ],
+    "keywords": [
+      "WWII",
+      "concentration camp",
+      "father",
+      "son",
+      "game",
+      "Italy",
+      "Holocaust humor"
+    ],
+    "similarTo": [
+      "Schindler's List",
+      "The Pianist",
+      "Son of Saul",
+      "The Boy in the Striped Pyjamas",
+      "Jakob the Liar"
+    ]
+  },
+  {
+    "title": "Cinema Paradiso",
+    "subGenres": [
+      "Nostalgic Drama",
+      "Love Letter to Cinema"
+    ],
+    "moods": [
+      "deeply nostalgic",
+      "bittersweet",
+      "warm",
+      "melancholic"
+    ],
+    "vibes": [
+      "love for cinema",
+      "childhood nostalgia",
+      "comforting",
+      "bittersweet"
+    ],
+    "themes": [
+      "love for cinema",
+      "childhood memories",
+      "Italian village life",
+      "letting go"
+    ],
+    "keywords": [
+      "Sicily",
+      "cinema",
+      "projectionist",
+      "films",
+      "growing up",
+      "nostalgia",
+      "Alfredo"
+    ],
+    "similarTo": [
+      "Amelie",
+      "Bicycle Thieves",
+      "Nuovo Cinema Paradiso",
+      "The Great Beauty",
+      "8½"
+    ]
+  },
+  {
+    "title": "Amélie",
+    "subGenres": [
+      "Quirky Romantic Fantasy",
+      "Parisian Fairy Tale"
+    ],
+    "moods": [
+      "whimsical",
+      "joyful",
+      "warm",
+      "quirky"
+    ],
+    "vibes": [
+      "dreamlike",
+      "Parisian magic",
+      "comforting",
+      "heartwarming"
+    ],
+    "themes": [
+      "creating joy for others",
+      "loneliness and connection",
+      "Montmartre life",
+      "love"
+    ],
+    "keywords": [
+      "Paris",
+      "Montmartre",
+      "quirky",
+      "helping strangers",
+      "gnome",
+      "photobooth",
+      "connection"
+    ],
+    "audience": [
+      "cinephile",
+      "comfort watch",
+      "young adult"
+    ],
+    "similarTo": [
+      "Cinema Paradiso",
+      "The Intouchables",
+      "Midnight in Paris",
+      "Delicatessen",
+      "Mood Indigo"
+    ]
+  },
+  {
+    "title": "The Intouchables",
+    "subGenres": [
+      "Feel-Good Drama",
+      "Unlikely Friendship"
+    ],
+    "moods": [
+      "heartwarming",
+      "funny",
+      "uplifting",
+      "joyful"
+    ],
+    "vibes": [
+      "unlikely friendship",
+      "comforting",
+      "feel-good",
+      "life-affirming"
+    ],
+    "themes": [
+      "class and friendship",
+      "disability and humor",
+      "living fully",
+      "humanity"
+    ],
+    "keywords": [
+      "quadriplegic",
+      "caregiver",
+      "Paris",
+      "wheelchair",
+      "friendship",
+      "humor",
+      "class"
+    ],
+    "similarTo": [
+      "Amélie",
+      "Cinema Paradiso",
+      "Green Book",
+      "The Upside",
+      "Hector and the Search for Happiness"
+    ]
+  },
+  {
+    "title": "Midnight in Paris",
+    "genres": [
+      "Fantasy",
+      "Romance",
+      "Comedy"
+    ],
+    "subGenres": [
+      "Romantic Fantasy",
+      "Time Travel Comedy"
+    ],
+    "moods": [
+      "whimsical",
+      "nostalgic",
+      "romantic",
+      "dreamy"
+    ],
+    "vibes": [
+      "Parisian magic",
+      "literary nostalgia",
+      "dreamlike",
+      "yearning"
+    ],
+    "themes": [
+      "nostalgia for the past",
+      "the golden age fallacy",
+      "Paris as character",
+      "love of art"
+    ],
+    "keywords": [
+      "Paris",
+      "1920s",
+      "Hemingway",
+      "Fitzgerald",
+      "time travel",
+      "nostalgia",
+      "writer"
+    ],
+    "similarTo": [
+      "Amélie",
+      "The Grand Budapest Hotel",
+      "Midnight in Paris",
+      "Moulin Rouge!",
+      "Roman Holiday"
+    ]
+  },
+  {
+    "title": "The Grand Budapest Hotel",
+    "country": "Germany",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Adventure"
+    ],
+    "subGenres": [
+      "Quirky Thriller Comedy",
+      "Visual Feast"
+    ],
+    "moods": [
+      "whimsical",
+      "melancholic",
+      "witty",
+      "charming"
+    ],
+    "vibes": [
+      "Wes Anderson aesthetic",
+      "pastel nostalgia",
+      "eccentric",
+      "bittersweet"
+    ],
+    "themes": [
+      "Europe between the wars",
+      "loyalty and mentorship",
+      "fading elegance",
+      "adventure"
+    ],
+    "keywords": [
+      "hotel",
+      "concierge",
+      "heist",
+      "pastry",
+      "Europe",
+      "war",
+      "painting",
+      "pink"
+    ],
+    "audience": [
+      "cinephile",
+      "comfort watch"
+    ],
+    "similarTo": [
+      "Midnight in Paris",
+      "Moonrise Kingdom",
+      "The Royal Tenenbaums",
+      "Isle of Dogs",
+      "Fantastic Mr. Fox"
+    ]
+  },
+  {
+    "title": "Moonrise Kingdom",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "subGenres": [
+      "Quirky Coming-of-Age",
+      "Wes Anderson Film"
+    ],
+    "moods": [
+      "charming",
+      "nostalgic",
+      "whimsical",
+      "bittersweet"
+    ],
+    "vibes": [
+      "childhood innocence",
+      "quirky romance",
+      "comforting",
+      "pastoral"
+    ],
+    "themes": [
+      "childhood rebellion",
+      "young love",
+      "misfits finding each other",
+      "summer island"
+    ],
+    "keywords": [
+      "island",
+      "scouts",
+      "first love",
+      "orphan",
+      "running away",
+      "vintage",
+      "storm"
+    ],
+    "similarTo": [
+      "The Grand Budapest Hotel",
+      "The Royal Tenenbaums",
+      "Submarine",
+      "The Perks of Being a Wallflower",
+      "Rushmore"
+    ]
+  },
+  {
+    "title": "The Perks of Being a Wallflower",
+    "subGenres": [
+      "Coming-of-Age",
+      "Teen Drama"
+    ],
+    "moods": [
+      "nostalgic",
+      "emotional",
+      "hopeful",
+      "bittersweet"
+    ],
+    "vibes": [
+      "teenage loneliness",
+      "self-discovery",
+      "comforting",
+      "feeling infinite"
+    ],
+    "themes": [
+      "trauma and healing",
+      "finding your tribe",
+      "first love",
+      "mental health in high school"
+    ],
+    "keywords": [
+      "high school",
+      "introvert",
+      "mixtape",
+      "tunnel",
+      "infinite",
+      "friendship",
+      "abuse"
+    ],
+    "audience": [
+      "young adult",
+      "comfort watch"
+    ],
+    "similarTo": [
+      "Moonrise Kingdom",
+      "Lady Bird",
+      "The Edge of Seventeen",
+      "Boyhood",
+      "Call Me by Your Name"
+    ]
+  },
+  {
+    "title": "Lady Bird",
+    "subGenres": [
+      "Coming-of-Age",
+      "Mother-Daughter Drama"
+    ],
+    "moods": [
+      "nostalgic",
+      "funny",
+      "emotionally resonant",
+      "warm"
+    ],
+    "vibes": [
+      "coming-of-age",
+      "Sacramento life",
+      "mother-daughter tension",
+      "bittersweet"
+    ],
+    "themes": [
+      "mother-daughter relationship",
+      "longing for elsewhere",
+      "self-naming",
+      "small town dreams"
+    ],
+    "keywords": [
+      "Sacramento",
+      "Catholic school",
+      "college applications",
+      "mother",
+      "identity",
+      "first love"
+    ],
+    "similarTo": [
+      "The Perks of Being a Wallflower",
+      "Boyhood",
+      "Eighth Grade",
+      "The Edge of Seventeen",
+      "Booksmart"
+    ]
+  },
+  {
+    "title": "Boyhood",
+    "subGenres": [
+      "Coming-of-Age",
+      "Experimental Realist"
+    ],
+    "moods": [
+      "deeply nostalgic",
+      "contemplative",
+      "tender",
+      "bittersweet"
+    ],
+    "vibes": [
+      "life passing",
+      "authentic childhood",
+      "time as character",
+      "melancholic"
+    ],
+    "themes": [
+      "growing up over 12 years",
+      "parental failure",
+      "identity formation",
+      "memory"
+    ],
+    "keywords": [
+      "12 years",
+      "Texas",
+      "growing up",
+      "single mother",
+      "father",
+      "time",
+      "real-time filming"
+    ],
+    "similarTo": [
+      "Lady Bird",
+      "The Perks of Being a Wallflower",
+      "Beasts of the Southern Wild",
+      "Paterson",
+      "20th Century Women"
+    ]
+  },
+  {
+    "title": "Call Me by Your Name",
+    "subGenres": [
+      "Coming-of-Age Romance",
+      "Summer Film"
+    ],
+    "moods": [
+      "sensual",
+      "melancholic",
+      "beautiful",
+      "yearning"
+    ],
+    "vibes": [
+      "Italian summer",
+      "first love",
+      "bittersweet",
+      "sun-drenched"
+    ],
+    "themes": [
+      "first love",
+      "desire and memory",
+      "summer of change",
+      "father's acceptance"
+    ],
+    "keywords": [
+      "Italy",
+      "summer",
+      "peach",
+      "scholar",
+      "guitar",
+      "Elio",
+      "Oliver",
+      "summer 1983"
+    ],
+    "similarTo": [
+      "Moonlight",
+      "Brokeback Mountain",
+      "Normal People",
+      "Portrait of a Lady on Fire",
+      "Maurice"
+    ]
+  },
+  {
+    "title": "Moonlight",
+    "subGenres": [
+      "Coming-of-Age",
+      "Intimate Portrait"
+    ],
+    "moods": [
+      "melancholic",
+      "deeply moving",
+      "tender",
+      "quietly powerful"
+    ],
+    "vibes": [
+      "identity formation",
+      "black masculinity",
+      "quiet vulnerability",
+      "healing"
+    ],
+    "themes": [
+      "identity and sexuality",
+      "poverty in Miami",
+      "masculinity and tenderness",
+      "belonging"
+    ],
+    "keywords": [
+      "Miami",
+      "three chapters",
+      "drug dealer",
+      "sexuality",
+      "moonlight",
+      "blue",
+      "Chiron"
+    ],
+    "similarTo": [
+      "Call Me by Your Name",
+      "Beasts of the Southern Wild",
+      "Fruitvale Station",
+      "Short Term 12",
+      "Tangerine"
+    ]
+  },
+  {
+    "title": "Portrait of a Lady on Fire",
+    "language": "French",
+    "country": "France",
+    "subGenres": [
+      "Period Romance",
+      "Female Gaze Cinema"
+    ],
+    "moods": [
+      "intense",
+      "quietly devastating",
+      "sensual",
+      "meditative"
+    ],
+    "vibes": [
+      "slow-burn romance",
+      "female gaze",
+      "18th century isolation",
+      "bittersweet"
+    ],
+    "themes": [
+      "forbidden love",
+      "the male gaze vs female gaze",
+      "memory and art",
+      "class and desire"
+    ],
+    "keywords": [
+      "18th century France",
+      "painter",
+      "portrait",
+      "island",
+      "forbidden love",
+      "women",
+      "fire"
+    ],
+    "similarTo": [
+      "Call Me by Your Name",
+      "Brokeback Mountain",
+      "Blue Is the Warmest Colour",
+      "The Favourite",
+      "Little Women"
+    ]
+  },
+  {
+    "title": "Slumdog Millionaire",
+    "subGenres": [
+      "Feel-Good Drama",
+      "Mumbai Love Story"
+    ],
+    "moods": [
+      "uplifting",
+      "joyful",
+      "intense",
+      "heartwarming"
+    ],
+    "vibes": [
+      "destiny",
+      "underdog triumph",
+      "Mumbai vibrancy",
+      "feel-good"
+    ],
+    "themes": [
+      "destiny and fate",
+      "poverty to wealth",
+      "love transcending class",
+      "Mumbai underworld"
+    ],
+    "keywords": [
+      "Mumbai slums",
+      "Who Wants to Be a Millionaire",
+      "Jamal",
+      "love story",
+      "destiny",
+      "police"
+    ],
+    "similarTo": [
+      "City of God",
+      "Capernaum",
+      "The Millionaire",
+      "Lion",
+      "Beasts of the Southern Wild"
+    ]
+  },
+  {
+    "title": "Lion",
+    "country": "Australia",
+    "subGenres": [
+      "True Story",
+      "Search for Identity"
+    ],
+    "moods": [
+      "emotionally devastating",
+      "heartwarming",
+      "hopeful",
+      "moving"
+    ],
+    "vibes": [
+      "diaspora longing",
+      "family reunion",
+      "identity search",
+      "emotional"
+    ],
+    "themes": [
+      "identity and belonging",
+      "adoption",
+      "lost child's search",
+      "India and Australia"
+    ],
+    "keywords": [
+      "India",
+      "lost child",
+      "adoption",
+      "Google Earth",
+      "search",
+      "Kolkata",
+      "memoir"
+    ],
+    "similarTo": [
+      "Slumdog Millionaire",
+      "The Pursuit of Happyness",
+      "Philomena",
+      "The Peanut Butter Falcon",
+      "Captain Fantastic"
+    ]
+  },
+  {
+    "title": "The Pursuit of Happyness",
+    "subGenres": [
+      "Inspirational Drama",
+      "Father-Son Story"
+    ],
+    "moods": [
+      "inspiring",
+      "emotionally raw",
+      "uplifting",
+      "heartbreaking"
+    ],
+    "vibes": [
+      "resilience",
+      "uplifting",
+      "father-son bond",
+      "American dream"
+    ],
+    "themes": [
+      "perseverance against all odds",
+      "single fatherhood",
+      "American dream",
+      "poverty"
+    ],
+    "keywords": [
+      "homelessness",
+      "stockbroker",
+      "father and son",
+      "San Francisco",
+      "internship",
+      "perseverance"
+    ],
+    "similarTo": [
+      "Lion",
+      "Slumdog Millionaire",
+      "The Blind Side",
+      "Moneyball",
+      "A Beautiful Mind"
+    ]
+  },
+  {
+    "title": "A Beautiful Mind",
+    "subGenres": [
+      "Psychological Drama",
+      "Genius Portrait"
+    ],
+    "moods": [
+      "inspiring",
+      "emotionally complex",
+      "mind-bending",
+      "moving"
+    ],
+    "vibes": [
+      "genius and madness",
+      "perception vs reality",
+      "triumphant",
+      "heartbreaking"
+    ],
+    "themes": [
+      "schizophrenia",
+      "genius and mental illness",
+      "love and loyalty",
+      "Nobel Prize"
+    ],
+    "keywords": [
+      "John Nash",
+      "mathematics",
+      "schizophrenia",
+      "Princeton",
+      "hallucinations",
+      "Nobel",
+      "cipher"
+    ],
+    "similarTo": [
+      "The Pursuit of Happyness",
+      "Shine",
+      "Pi",
+      "The Imitation Game",
+      "Good Will Hunting"
+    ]
+  },
+  {
+    "title": "Good Will Hunting",
+    "subGenres": [
+      "Coming-of-Age",
+      "Mentor-Student Drama"
+    ],
+    "moods": [
+      "deeply emotional",
+      "heartwarming",
+      "witty",
+      "cathartic"
+    ],
+    "vibes": [
+      "self-discovery",
+      "healing",
+      "blue-collar genius",
+      "comforting"
+    ],
+    "themes": [
+      "self-worth",
+      "therapy and vulnerability",
+      "Boston working class",
+      "wasted potential"
+    ],
+    "keywords": [
+      "genius janitor",
+      "math problem",
+      "therapy",
+      "Boston",
+      "Sean",
+      "self-worth",
+      "it's not your fault"
+    ],
+    "similarTo": [
+      "A Beautiful Mind",
+      "Dead Poets Society",
+      "Stand and Deliver",
+      "Finding Forrester",
+      "The Perks of Being a Wallflower"
+    ]
+  },
+  {
+    "title": "Dead Poets Society",
+    "subGenres": [
+      "Coming-of-Age",
+      "Inspirational School Drama"
+    ],
+    "moods": [
+      "inspiring",
+      "melancholic",
+      "passionate",
+      "bittersweet"
+    ],
+    "vibes": [
+      "carpe diem",
+      "poetry as rebellion",
+      "comforting",
+      "tragic"
+    ],
+    "themes": [
+      "conformity vs individual thought",
+      "carpe diem",
+      "poetry and freedom",
+      "institutional pressure"
+    ],
+    "keywords": [
+      "prep school",
+      "poetry",
+      "Keating",
+      "O Captain",
+      "boys",
+      "standing on desks",
+      "suicide"
+    ],
+    "audience": [
+      "mass",
+      "comfort watch",
+      "young adult"
+    ],
+    "similarTo": [
+      "Good Will Hunting",
+      "The Perks of Being a Wallflower",
+      "Spring Awakening",
+      "Mona Lisa Smile",
+      "The History Boys"
+    ]
+  },
+  {
+    "title": "Forrest Gump",
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Romance"
+    ],
+    "subGenres": [
+      "Nostalgic Epic",
+      "American History Film"
+    ],
+    "moods": [
+      "heartwarming",
+      "nostalgic",
+      "bittersweet",
+      "joyful"
+    ],
+    "vibes": [
+      "life is a box of chocolates",
+      "comforting",
+      "Americana",
+      "inspirational"
+    ],
+    "themes": [
+      "destiny vs intelligence",
+      "American history through one man's eyes",
+      "unconditional love",
+      "running"
+    ],
+    "keywords": [
+      "Alabama",
+      "Vietnam",
+      "Bubba Gump",
+      "Jenny",
+      "ping pong",
+      "box of chocolates",
+      "feather"
+    ],
+    "similarTo": [
+      "The Shawshank Redemption",
+      "Cast Away",
+      "Big Fish",
+      "August Rush",
+      "Rain Man"
+    ]
+  },
+  {
+    "title": "Cast Away",
+    "genres": [
+      "Drama",
+      "Adventure"
+    ],
+    "subGenres": [
+      "Survival Film",
+      "One Man Show"
+    ],
+    "moods": [
+      "isolating",
+      "intense",
+      "melancholic",
+      "uplifting"
+    ],
+    "vibes": [
+      "survival",
+      "loneliness",
+      "resilience",
+      "Wilson"
+    ],
+    "themes": [
+      "survival and isolation",
+      "what matters in life",
+      "time's passage",
+      "returning home changed"
+    ],
+    "keywords": [
+      "FedEx",
+      "plane crash",
+      "island",
+      "Wilson",
+      "survival",
+      "fire",
+      "four years",
+      "returning"
+    ],
+    "similarTo": [
+      "Forrest Gump",
+      "The Shawshank Redemption",
+      "127 Hours",
+      "Life of Pi",
+      "All Is Lost"
+    ]
+  },
+  {
+    "title": "Life of Pi",
+    "genres": [
+      "Drama",
+      "Adventure",
+      "Fantasy"
+    ],
+    "subGenres": [
+      "Survival Drama",
+      "Philosophical Fantasy"
+    ],
+    "moods": [
+      "awe-inspiring",
+      "contemplative",
+      "beautiful",
+      "spiritual"
+    ],
+    "vibes": [
+      "philosophical",
+      "survival",
+      "visual spectacle",
+      "spiritual wonder"
+    ],
+    "themes": [
+      "faith vs reason",
+      "the power of storytelling",
+      "survival at sea",
+      "God and nature"
+    ],
+    "keywords": [
+      "tiger",
+      "lifeboat",
+      "Pacific Ocean",
+      "India",
+      "zoo",
+      "religion",
+      "which story do you prefer"
+    ],
+    "audience": [
+      "family",
+      "mass",
+      "cinephile"
+    ],
+    "similarTo": [
+      "Cast Away",
+      "Gravity",
+      "Beasts of the Southern Wild",
+      "The Revenant",
+      "All Is Lost"
+    ]
+  },
+  {
+    "title": "Gravity",
+    "subGenres": [
+      "Survival Thriller",
+      "Space Film"
+    ],
+    "moods": [
+      "terrifying",
+      "awe-inspiring",
+      "intense",
+      "claustrophobic"
+    ],
+    "vibes": [
+      "survival",
+      "space isolation",
+      "breathtaking",
+      "rebirth"
+    ],
+    "themes": [
+      "survival and rebirth",
+      "grief letting go",
+      "isolation in space",
+      "human will to live"
+    ],
+    "keywords": [
+      "astronaut",
+      "space debris",
+      "Sandra Bullock",
+      "ISS",
+      "weightlessness",
+      "alone in space"
+    ],
+    "similarTo": [
+      "Interstellar",
+      "Life of Pi",
+      "The Martian",
+      "All Is Lost",
+      "127 Hours"
+    ]
+  },
+  {
+    "title": "The Martian",
+    "genres": [
+      "Science Fiction",
+      "Drama",
+      "Adventure"
+    ],
+    "subGenres": [
+      "Survival Sci-Fi",
+      "Space Comedy"
+    ],
+    "moods": [
+      "uplifting",
+      "fun",
+      "tense",
+      "clever"
+    ],
+    "vibes": [
+      "problem-solving",
+      "optimism",
+      "science saves the day",
+      "feel-good"
+    ],
+    "themes": [
+      "human ingenuity",
+      "problem-solving",
+      "international cooperation",
+      "survival on Mars"
+    ],
+    "keywords": [
+      "Mars",
+      "potatoes",
+      "NASA",
+      "stranded",
+      "botanist",
+      "survival",
+      "science"
+    ],
+    "similarTo": [
+      "Gravity",
+      "Interstellar",
+      "Apollo 13",
+      "Contact",
+      "Arrival"
+    ]
+  },
+  {
+    "title": "Memento",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "subGenres": [
+      "Reverse Chronology Thriller",
+      "Neo-Noir"
+    ],
+    "moods": [
+      "disorienting",
+      "tense",
+      "clever",
+      "haunting"
+    ],
+    "vibes": [
+      "mind-bending",
+      "unreliable narrator",
+      "puzzle film",
+      "dark"
+    ],
+    "themes": [
+      "memory and identity",
+      "self-deception",
+      "revenge",
+      "how we construct reality"
+    ],
+    "keywords": [
+      "anterograde amnesia",
+      "polaroids",
+      "tattoos",
+      "reverse timeline",
+      "Leonard",
+      "murder",
+      "notes"
+    ],
+    "similarTo": [
+      "Inception",
+      "Shutter Island",
+      "Gone Girl",
+      "The Prestige",
+      "Fight Club"
+    ]
+  },
+  {
+    "title": "Shutter Island",
+    "genres": [
+      "Thriller",
+      "Mystery",
+      "Drama"
+    ],
+    "subGenres": [
+      "Psychological Thriller",
+      "Gothic Horror"
+    ],
+    "moods": [
+      "unsettling",
+      "eerie",
+      "intense",
+      "disorienting"
+    ],
+    "vibes": [
+      "unreliable narrator",
+      "gothic mystery",
+      "mind-bending",
+      "dark"
+    ],
+    "themes": [
+      "mental illness as reality",
+      "grief and denial",
+      "conspiracy",
+      "reality vs delusion"
+    ],
+    "keywords": [
+      "asylum",
+      "island",
+      "US Marshal",
+      "missing patient",
+      "1950s",
+      "twist",
+      "sanity"
+    ],
+    "similarTo": [
+      "Memento",
+      "Inception",
+      "Gone Girl",
+      "Black Swan",
+      "Identity"
+    ]
+  },
+  {
+    "title": "The Prestige",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Science Fiction"
+    ],
+    "subGenres": [
+      "Period Mystery Thriller",
+      "Magician Rivalry"
+    ],
+    "moods": [
+      "clever",
+      "tense",
+      "atmospheric",
+      "mind-bending"
+    ],
+    "vibes": [
+      "obsession",
+      "magic tricks",
+      "Victorian mystery",
+      "twisty"
+    ],
+    "themes": [
+      "obsession and sacrifice",
+      "duality and doubles",
+      "the price of greatness",
+      "deception"
+    ],
+    "keywords": [
+      "magicians",
+      "Victorian London",
+      "rivalry",
+      "pledge-turn-prestige",
+      "Tesla",
+      "twin",
+      "trick"
+    ],
+    "similarTo": [
+      "Memento",
+      "Inception",
+      "The Illusionist",
+      "Se7en",
+      "The Dark Knight"
+    ]
+  },
+  {
+    "title": "Ex Machina",
+    "genres": [
+      "Science Fiction",
+      "Thriller",
+      "Drama"
+    ],
+    "subGenres": [
+      "AI Thriller",
+      "Chamber Drama"
+    ],
+    "moods": [
+      "cerebral",
+      "unsettling",
+      "tense",
+      "cold"
+    ],
+    "vibes": [
+      "AI consciousness",
+      "existential dread",
+      "manipulation",
+      "isolation"
+    ],
+    "themes": [
+      "AI consciousness and rights",
+      "Turing test",
+      "male gaze and power",
+      "what is human"
+    ],
+    "keywords": [
+      "AI",
+      "Ava",
+      "Turing test",
+      "remote cabin",
+      "Nathan",
+      "consciousness",
+      "manipulation"
+    ],
+    "similarTo": [
+      "Her",
+      "Arrival",
+      "Westworld",
+      "Black Mirror",
+      "Blade Runner 2049"
+    ]
+  },
+  {
+    "title": "Blade Runner 2049",
+    "genres": [
+      "Science Fiction",
+      "Drama",
+      "Mystery"
+    ],
+    "subGenres": [
+      "Neo-Noir Sci-Fi",
+      "Philosophical Sci-Fi"
+    ],
+    "moods": [
+      "meditative",
+      "haunting",
+      "atmospheric",
+      "melancholic"
+    ],
+    "vibes": [
+      "existential",
+      "dystopian beauty",
+      "dreamlike",
+      "slow-burn"
+    ],
+    "themes": [
+      "what makes us human",
+      "memory and identity",
+      "replicant rights",
+      "dying earth"
+    ],
+    "keywords": [
+      "replicant",
+      "Los Angeles 2049",
+      "Joi",
+      "K",
+      "memories",
+      "Wallace",
+      "rain",
+      "love"
+    ],
+    "similarTo": [
+      "Blade Runner",
+      "Her",
+      "Ex Machina",
+      "Arrival",
+      "Dune"
+    ]
+  },
+  {
+    "title": "2001: A Space Odyssey",
+    "genres": [
+      "Science Fiction"
+    ],
+    "subGenres": [
+      "Philosophical Sci-Fi",
+      "Space Epic"
+    ],
+    "moods": [
+      "awe-inspiring",
+      "mysterious",
+      "cerebral",
+      "meditative"
+    ],
+    "vibes": [
+      "cosmic wonder",
+      "existential",
+      "slow cinema",
+      "monolith"
+    ],
+    "themes": [
+      "human evolution",
+      "AI vs humanity",
+      "the unknowable cosmos",
+      "transcendence"
+    ],
+    "keywords": [
+      "monolith",
+      "HAL 9000",
+      "Jupiter",
+      "evolution",
+      "apes",
+      "Dave Bowman",
+      "Star Child"
+    ],
+    "similarTo": [
+      "Arrival",
+      "Interstellar",
+      "Solaris",
+      "Stalker",
+      "Contact"
+    ]
+  },
+  {
+    "title": "Dune",
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Drama"
+    ],
+    "subGenres": [
+      "Epic Space Opera",
+      "Desert Epic"
+    ],
+    "moods": [
+      "epic",
+      "awe-inspiring",
+      "intense",
+      "grandiose"
+    ],
+    "vibes": [
+      "cosmic epic",
+      "desert mysticism",
+      "destiny",
+      "world-building"
+    ],
+    "themes": [
+      "colonialism and indigenous people",
+      "messianic complex",
+      "ecology",
+      "power and destiny"
+    ],
+    "keywords": [
+      "Arrakis",
+      "spice",
+      "Paul Atreides",
+      "sandworms",
+      "Fremen",
+      "empire",
+      "prophecy"
+    ],
+    "similarTo": [
+      "Blade Runner 2049",
+      "Star Wars",
+      "Lord of the Rings: The Fellowship of the Ring",
+      "Elden Ring",
+      "Lawrence of Arabia"
+    ]
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "country": "New Zealand",
+    "genres": [
+      "Fantasy",
+      "Adventure",
+      "Action"
+    ],
+    "subGenres": [
+      "Epic Fantasy",
+      "Quest Film"
+    ],
+    "moods": [
+      "epic",
+      "magical",
+      "adventurous",
+      "heartwarming"
+    ],
+    "vibes": [
+      "epic journey",
+      "fellowship",
+      "world-building",
+      "comforting"
+    ],
+    "themes": [
+      "friendship and sacrifice",
+      "good vs evil",
+      "the ordinary hero",
+      "corrupting power"
+    ],
+    "keywords": [
+      "Shire",
+      "One Ring",
+      "Mordor",
+      "Fellowship",
+      "Gandalf",
+      "Frodo",
+      "quest",
+      "Middle-earth"
+    ],
+    "audience": [
+      "mass",
+      "family",
+      "cinephile",
+      "comfort watch"
+    ],
+    "similarTo": [
+      "The Hobbit: An Unexpected Journey",
+      "Dune",
+      "Game of Thrones",
+      "Willow",
+      "Eragon"
+    ]
+  },
+  {
+    "title": "The Matrix",
+    "genres": [
+      "Science Fiction",
+      "Action"
+    ],
+    "subGenres": [
+      "Cyberpunk",
+      "Reality Bending Action"
+    ],
+    "moods": [
+      "mind-blowing",
+      "cool",
+      "intense",
+      "iconic"
+    ],
+    "vibes": [
+      "reality questioning",
+      "cool aesthetics",
+      "mind-bending",
+      "action-packed"
+    ],
+    "themes": [
+      "simulated reality",
+      "chosen one narrative",
+      "red pill vs blue pill",
+      "machine slavery"
+    ],
+    "keywords": [
+      "red pill",
+      "blue pill",
+      "Neo",
+      "simulation",
+      "Morpheus",
+      "agents",
+      "bullet time"
+    ],
+    "similarTo": [
+      "Inception",
+      "Dark City",
+      "Ghost in the Shell",
+      "Blade Runner 2049",
+      "Westworld"
+    ]
+  },
+  {
+    "title": "Pulp Fiction",
+    "subGenres": [
+      "Neo-Noir",
+      "Hyperlink Cinema"
+    ],
+    "moods": [
+      "cool",
+      "darkly comic",
+      "edgy",
+      "electrifying"
+    ],
+    "vibes": [
+      "nonlinear storytelling",
+      "cool criminals",
+      "pop culture dialogue",
+      "iconic"
+    ],
+    "themes": [
+      "chance and fate",
+      "redemption",
+      "violence and banality",
+      "pop culture satire"
+    ],
+    "keywords": [
+      "Marsellus Wallace",
+      "briefcase",
+      "Uma Thurman",
+      "Vincent Vega",
+      "Jules",
+      "divine intervention"
+    ],
+    "similarTo": [
+      "Reservoir Dogs",
+      "Kill Bill: Volume 1",
+      "Jackie Brown",
+      "No Country for Old Men",
+      "Goodfellas"
+    ]
+  },
+  {
+    "title": "Goodfellas",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Biography"
+    ],
+    "subGenres": [
+      "Mob Film",
+      "True Crime"
+    ],
+    "moods": [
+      "thrilling",
+      "glamorous",
+      "intense",
+      "electrifying"
+    ],
+    "vibes": [
+      "mob life glamour",
+      "inevitable downfall",
+      "kinetic energy",
+      "iconic"
+    ],
+    "themes": [
+      "organized crime life cycle",
+      "loyalty and betrayal",
+      "Italian-American identity",
+      "drugs and fall"
+    ],
+    "keywords": [
+      "mafia",
+      "Henry Hill",
+      "New York",
+      "the life",
+      "wiseguys",
+      "cocaine",
+      "betrayal"
+    ],
+    "similarTo": [
+      "The Godfather",
+      "Casino",
+      "The Sopranos",
+      "Scarface",
+      "Donnie Brasco"
+    ]
+  },
+  {
+    "title": "The Godfather",
+    "subGenres": [
+      "Mafia Epic",
+      "Family Saga"
+    ],
+    "moods": [
+      "epic",
+      "operatic",
+      "methodical",
+      "powerful"
+    ],
+    "vibes": [
+      "power and family",
+      "inevitable tragedy",
+      "old world honor",
+      "iconic"
+    ],
+    "themes": [
+      "family and power",
+      "corruption of the American dream",
+      "loyalty and violence",
+      "succession"
+    ],
+    "keywords": [
+      "Don Corleone",
+      "mafia",
+      "family",
+      "offer he can't refuse",
+      "Sicily",
+      "New York",
+      "horse head"
+    ],
+    "similarTo": [
+      "Goodfellas",
+      "The Godfather Part II",
+      "Scarface",
+      "The Sopranos",
+      "The Irishman"
+    ]
+  },
+  {
+    "title": "Scarface",
+    "subGenres": [
+      "Rise and Fall Crime Epic",
+      "Miami Drug Kingpin"
+    ],
+    "moods": [
+      "intense",
+      "operatic",
+      "electrifying",
+      "over-the-top"
+    ],
+    "vibes": [
+      "rags to riches to destruction",
+      "Miami excess",
+      "power trip",
+      "iconic"
+    ],
+    "themes": [
+      "immigrant ambition",
+      "American dream corruption",
+      "cocaine empire",
+      "hubris"
+    ],
+    "keywords": [
+      "Tony Montana",
+      "Miami",
+      "cocaine",
+      "Cuban",
+      "say hello to my little friend",
+      "empire",
+      "fall"
+    ],
+    "similarTo": [
+      "Goodfellas",
+      "The Godfather",
+      "Narcos",
+      "Casino",
+      "Blow"
+    ]
+  },
+  {
+    "title": "Heat",
+    "subGenres": [
+      "Neo-Noir",
+      "Cat and Mouse Thriller"
+    ],
+    "moods": [
+      "tense",
+      "epic",
+      "atmospheric",
+      "gripping"
+    ],
+    "vibes": [
+      "master vs master",
+      "Los Angeles noir",
+      "masculine restraint",
+      "iconic"
+    ],
+    "themes": [
+      "obsessive cop vs obsessive criminal",
+      "loneliness of professionals",
+      "love vs work"
+    ],
+    "keywords": [
+      "Al Pacino",
+      "Robert De Niro",
+      "LAPD",
+      "heist",
+      "coffee scene",
+      "Los Angeles",
+      "honor"
+    ],
+    "similarTo": [
+      "The Dark Knight",
+      "Mann's films",
+      "Se7en",
+      "Collateral",
+      "Thief"
+    ]
+  },
+  {
+    "title": "Taxi Driver",
+    "subGenres": [
+      "Psychological Drama",
+      "Urban Noir"
+    ],
+    "moods": [
+      "dark",
+      "alienated",
+      "intense",
+      "disturbing"
+    ],
+    "vibes": [
+      "urban loneliness",
+      "vigilante rage",
+      "70s grit",
+      "psychological"
+    ],
+    "themes": [
+      "urban alienation",
+      "vigilante justice",
+      "mental illness",
+      "New York 1970s"
+    ],
+    "keywords": [
+      "cab driver",
+      "Travis Bickle",
+      "New York",
+      "are you talking to me",
+      "loneliness",
+      "violence"
+    ],
+    "similarTo": [
+      "Joker",
+      "Falling Down",
+      "Collateral",
+      "Drive",
+      "American Psycho"
+    ]
+  },
+  {
+    "title": "Drive",
+    "subGenres": [
+      "Neo-Noir",
+      "Action Thriller"
+    ],
+    "moods": [
+      "cool",
+      "intense",
+      "atmospheric",
+      "violent"
+    ],
+    "vibes": [
+      "neon-noir",
+      "silent protagonist",
+      "80s aesthetic",
+      "cool violence"
+    ],
+    "themes": [
+      "silent heroism",
+      "love and protection",
+      "urban crime",
+      "night Los Angeles"
+    ],
+    "keywords": [
+      "Driver",
+      "stunt driver",
+      "heist",
+      "Ryan Gosling",
+      "synth music",
+      "scorpion jacket",
+      "neon"
+    ],
+    "similarTo": [
+      "Taxi Driver",
+      "Heat",
+      "Only God Forgives",
+      "Collateral",
+      "Thief"
+    ]
+  },
+  {
+    "title": "Whiplash",
+    "subGenres": [
+      "Psychological Drama",
+      "Musical Thriller"
+    ],
+    "moods": [
+      "intense",
+      "nerve-wracking",
+      "driven",
+      "exhilarating"
+    ],
+    "vibes": [
+      "obsession",
+      "perfectionism",
+      "edge-of-seat",
+      "visceral"
+    ],
+    "themes": [
+      "greatness vs abuse",
+      "obsession with perfection",
+      "mentorship gone wrong",
+      "sacrifice for art"
+    ],
+    "keywords": [
+      "jazz drumming",
+      "music school",
+      "abusive teacher",
+      "perfectionism",
+      "obsession",
+      "ambition"
+    ],
+    "similarTo": [
+      "Black Swan",
+      "La La Land",
+      "Rockstar",
+      "Full Metal Jacket",
+      "The Social Network"
+    ]
+  },
+  {
+    "title": "The Truman Show",
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Science Fiction"
+    ],
+    "subGenres": [
+      "Satire",
+      "Existential Drama"
+    ],
+    "moods": [
+      "unsettling",
+      "thought-provoking",
+      "heartwarming",
+      "bittersweet"
+    ],
+    "vibes": [
+      "reality questioning",
+      "media critique",
+      "existential awakening",
+      "comforting"
+    ],
+    "themes": [
+      "manufactured reality",
+      "freedom vs safety",
+      "surveillance",
+      "media manipulation"
+    ],
+    "keywords": [
+      "reality TV",
+      "fake world",
+      "Seahaven",
+      "Truman",
+      "Christof",
+      "escape",
+      "truth"
+    ],
+    "similarTo": [
+      "The Matrix",
+      "Eternal Sunshine of the Spotless Mind",
+      "Being John Malkovich",
+      "Her",
+      "Black Mirror"
+    ]
+  },
+  {
+    "title": "Being John Malkovich",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "subGenres": [
+      "Surrealist Comedy",
+      "Indie Film"
+    ],
+    "moods": [
+      "bizarre",
+      "darkly comic",
+      "unsettling",
+      "inventive"
+    ],
+    "vibes": [
+      "surreal",
+      "existential",
+      "mind-bending",
+      "original"
+    ],
+    "themes": [
+      "identity and inhabitation",
+      "desire and voyeurism",
+      "celebrity worship",
+      "consciousness"
+    ],
+    "keywords": [
+      "portal",
+      "John Malkovich",
+      "puppeteer",
+      "identity",
+      "surreal",
+      "office",
+      "weird"
+    ],
+    "similarTo": [
+      "Eternal Sunshine of the Spotless Mind",
+      "Synecdoche, New York",
+      "The Truman Show",
+      "Adaptation.",
+      "Anomalisa"
+    ]
+  },
+  {
+    "title": "Mulholland Drive",
+    "genres": [
+      "Mystery",
+      "Drama",
+      "Thriller"
+    ],
+    "subGenres": [
+      "Neo-Noir",
+      "Surrealist Mystery"
+    ],
+    "moods": [
+      "dreamy",
+      "nightmarish",
+      "disorienting",
+      "seductive"
+    ],
+    "vibes": [
+      "dreamlike",
+      "Hollywood nightmare",
+      "surreal",
+      "dark"
+    ],
+    "themes": [
+      "Hollywood dreams vs reality",
+      "identity and fantasy",
+      "the dark side of ambition",
+      "duality"
+    ],
+    "keywords": [
+      "Hollywood",
+      "amnesia",
+      "mystery woman",
+      "Club Silencio",
+      "actress",
+      "blue box",
+      "Lynch"
+    ],
+    "similarTo": [
+      "Blue Velvet",
+      "Twin Peaks: Fire Walk with Me",
+      "Lost Highway",
+      "Inland Empire",
+      "Eyes Wide Shut"
+    ]
+  },
+  {
+    "title": "The Favourite",
+    "country": "UK",
+    "genres": [
+      "Drama",
+      "Comedy",
+      "History"
+    ],
+    "subGenres": [
+      "Dark Period Comedy",
+      "Power Drama"
+    ],
+    "moods": [
+      "darkly comic",
+      "bitingly witty",
+      "intense",
+      "sharp"
+    ],
+    "vibes": [
+      "power struggle",
+      "dark feminism",
+      "sardonic humor",
+      "regal cruelty"
+    ],
+    "themes": [
+      "female power in patriarchy",
+      "manipulation and loyalty",
+      "jealousy and court intrigue"
+    ],
+    "keywords": [
+      "Queen Anne",
+      "18th century England",
+      "court intrigue",
+      "favorite",
+      "manipulation",
+      "ducks"
+    ],
+    "similarTo": [
+      "Portrait of a Lady on Fire",
+      "Mary Queen of Scots",
+      "The Lobster",
+      "Killing Eve",
+      "Sharp Objects"
+    ]
+  },
+  {
+    "title": "The Lobster",
+    "country": "Greece",
+    "genres": [
+      "Science Fiction",
+      "Comedy",
+      "Drama"
+    ],
+    "subGenres": [
+      "Absurdist Satire",
+      "Dystopian Romance"
+    ],
+    "moods": [
+      "darkly comic",
+      "bizarre",
+      "melancholic",
+      "unsettling"
+    ],
+    "vibes": [
+      "absurdist",
+      "dystopian",
+      "dark satire",
+      "lonely"
+    ],
+    "themes": [
+      "social pressure to pair up",
+      "love vs desperation",
+      "dystopian romance",
+      "forced conformity"
+    ],
+    "keywords": [
+      "hotel",
+      "single people",
+      "animal transformation",
+      "society",
+      "loners",
+      "45 days",
+      "forest"
+    ],
+    "similarTo": [
+      "The Favourite",
+      "Dogtooth",
+      "Force Majeure",
+      "The Square",
+      "Anomalisa"
+    ]
+  },
+  {
+    "title": "Bicycle Thieves",
+    "language": "Italian",
+    "country": "Italy",
+    "subGenres": [
+      "Neorealist Film",
+      "Social Drama"
+    ],
+    "moods": [
+      "melancholic",
+      "raw",
+      "deeply human",
+      "heartbreaking"
+    ],
+    "vibes": [
+      "poverty and dignity",
+      "Italian neorealism",
+      "father-son bond",
+      "hopeless hope"
+    ],
+    "themes": [
+      "poverty and dignity",
+      "justice vs desperation",
+      "father-son relationship",
+      "post-war Italy"
+    ],
+    "keywords": [
+      "bicycle",
+      "Rome",
+      "father",
+      "son",
+      "worker",
+      "theft",
+      "poverty",
+      "post-war"
+    ],
+    "similarTo": [
+      "Cinema Paradiso",
+      "Umberto D.",
+      "The 400 Blows",
+      "Pather Panchali",
+      "Stalker"
+    ]
+  },
+  {
+    "title": "Pather Panchali",
+    "language": "Bengali",
+    "subGenres": [
+      "Neorealist Film",
+      "Rural Drama"
+    ],
+    "moods": [
+      "poetic",
+      "melancholic",
+      "quietly beautiful",
+      "devastating"
+    ],
+    "vibes": [
+      "Indian neorealism",
+      "childhood poverty",
+      "nature and life",
+      "timeless"
+    ],
+    "themes": [
+      "poverty and childhood",
+      "rural India",
+      "family struggle",
+      "beauty in hardship"
+    ],
+    "keywords": [
+      "Bengal",
+      "village",
+      "Apu",
+      "Durga",
+      "poverty",
+      "train",
+      "childhood",
+      "Satyajit Ray"
+    ],
+    "similarTo": [
+      "Bicycle Thieves",
+      "The 400 Blows",
+      "Stalker",
+      "Aparajito",
+      "Charulata"
+    ]
+  },
+  {
+    "title": "Mughal-E-Azam",
+    "genres": [
+      "Drama",
+      "Romance",
+      "History"
+    ],
+    "subGenres": [
+      "Historical Epic",
+      "Tragic Romance"
+    ],
+    "moods": [
+      "grandeur",
+      "passionate",
+      "melancholic",
+      "epic"
+    ],
+    "vibes": [
+      "Mughal grandeur",
+      "forbidden love",
+      "classical Indian cinema",
+      "operatic"
+    ],
+    "themes": [
+      "love vs duty",
+      "royal forbiddance",
+      "sacrifice and pride",
+      "imperial India"
+    ],
+    "keywords": [
+      "Mughal",
+      "Salim",
+      "Anarkali",
+      "Akbar",
+      "forbidden love",
+      "court",
+      "dance",
+      "Sheesh Mahal"
+    ],
+    "audience": [
+      "cinephile",
+      "family"
+    ],
+    "similarTo": [
+      "Devdas",
+      "Umrao Jaan",
+      "Jodhaa Akbar",
+      "Padmaavat",
+      "Bajirao Mastani"
+    ]
+  },
+  {
+    "title": "Devdas",
+    "subGenres": [
+      "Tragic Romance",
+      "Period Drama"
+    ],
+    "moods": [
+      "melancholic",
+      "passionate",
+      "tragic",
+      "intense"
+    ],
+    "vibes": [
+      "doomed love",
+      "self-destruction",
+      "poetic tragedy",
+      "Indian melodrama"
+    ],
+    "themes": [
+      "doomed love",
+      "class barriers",
+      "self-destruction through alcohol",
+      "unrequited love"
+    ],
+    "keywords": [
+      "Devdas",
+      "Paro",
+      "Chandramukhi",
+      "zamindaar",
+      "alcohol",
+      "tragic love",
+      "Bengal"
+    ],
+    "similarTo": [
+      "Mughal-E-Azam",
+      "Umrao Jaan",
+      "Rockstar",
+      "Padmaavat",
+      "Jodhaa Akbar"
+    ]
+  },
+  {
+    "title": "Lagaan: Once Upon a Time in India",
+    "genres": [
+      "Drama",
+      "Sport",
+      "History"
+    ],
+    "subGenres": [
+      "Epic Sports Drama",
+      "Colonial Film"
+    ],
+    "moods": [
+      "inspiring",
+      "epic",
+      "triumphant",
+      "patriotic"
+    ],
+    "vibes": [
+      "underdog triumph",
+      "colonial resistance",
+      "community spirit",
+      "epic"
+    ],
+    "themes": [
+      "resistance against colonialism",
+      "cricket as metaphor",
+      "unity of village",
+      "sacrifice"
+    ],
+    "keywords": [
+      "cricket",
+      "British India",
+      "tax",
+      "village",
+      "Aamir Khan",
+      "musical",
+      "colonial"
+    ],
+    "similarTo": [
+      "Rang De Basanti",
+      "Swades",
+      "Chak De! India",
+      "Dangal",
+      "Bhaag Milkha Bhaag"
+    ]
+  },
+  {
+    "title": "Swades",
+    "subGenres": [
+      "Social Drama",
+      "Homecoming Film"
+    ],
+    "moods": [
+      "inspiring",
+      "warm",
+      "patriotic",
+      "emotional"
+    ],
+    "vibes": [
+      "rural India",
+      "returning home",
+      "purposeful life",
+      "quiet patriotism"
+    ],
+    "themes": [
+      "NRI returning to India",
+      "rural development",
+      "rediscovering roots",
+      "what home means"
+    ],
+    "keywords": [
+      "NASA",
+      "village",
+      "electricity",
+      "India",
+      "roots",
+      "development",
+      "return home"
+    ],
+    "similarTo": [
+      "Lagaan: Once Upon a Time in India",
+      "Rang De Basanti",
+      "Taare Zameen Par",
+      "Newton",
+      "Article 15"
+    ]
+  },
+  {
+    "title": "Article 15",
+    "subGenres": [
+      "Social Thriller",
+      "Caste Drama"
+    ],
+    "moods": [
+      "angry",
+      "disturbing",
+      "thought-provoking",
+      "powerful"
+    ],
+    "vibes": [
+      "social injustice",
+      "caste discrimination",
+      "brave hero",
+      "uncomfortable truths"
+    ],
+    "themes": [
+      "caste-based discrimination",
+      "Dalit rights",
+      "police corruption",
+      "constitutional rights"
+    ],
+    "keywords": [
+      "caste",
+      "Dalit",
+      "police",
+      "UP",
+      "rape",
+      "investigation",
+      "Article 15",
+      "systemic racism"
+    ],
+    "similarTo": [
+      "Masaan",
+      "Newton",
+      "Talvar",
+      "Aligarh",
+      "Court"
+    ]
+  },
+  {
+    "title": "Bajrangi Bhaijaan",
+    "genres": [
+      "Drama",
+      "Adventure",
+      "Comedy"
+    ],
+    "subGenres": [
+      "Feel-Good Drama",
+      "Cross-Border Friendship"
+    ],
+    "moods": [
+      "heartwarming",
+      "inspiring",
+      "emotional",
+      "joyful"
+    ],
+    "vibes": [
+      "humanity over borders",
+      "childlike innocence",
+      "feel-good",
+      "tear-jerking"
+    ],
+    "themes": [
+      "India-Pakistan divide",
+      "innocence of a child",
+      "humanity over nationalism",
+      "faith"
+    ],
+    "keywords": [
+      "Pakistan",
+      "mute girl",
+      "Hanuman devotee",
+      "border",
+      "search",
+      "human connection"
+    ],
+    "similarTo": [
+      "PK",
+      "3 Idiots",
+      "Dangal",
+      "Barfi!",
+      "Taare Zameen Par"
+    ]
+  },
+  {
+    "title": "2 States",
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "subGenres": [
+      "Cross-Cultural Romance",
+      "Family Drama"
+    ],
+    "moods": [
+      "funny",
+      "warm",
+      "relatable",
+      "emotional"
+    ],
+    "vibes": [
+      "North-South India divide",
+      "family comedy",
+      "marriage drama",
+      "relatable"
+    ],
+    "themes": [
+      "cross-cultural marriage",
+      "family approval",
+      "North vs South India",
+      "IIM romance"
+    ],
+    "keywords": [
+      "IIM",
+      "North-South India",
+      "marriage",
+      "families",
+      "romance",
+      "culture clash"
+    ],
+    "similarTo": [
+      "Dilwale Dulhania Le Jayenge",
+      "Kal Ho Naa Ho",
+      "Hum Tum",
+      "Band Baaja Baaraat",
+      "Cocktail"
+    ]
+  },
+  {
+    "title": "Dilwale Dulhania Le Jayenge",
+    "subGenres": [
+      "Diaspora Romance",
+      "Classic Bollywood"
+    ],
+    "moods": [
+      "romantic",
+      "nostalgic",
+      "heartwarming",
+      "iconic"
+    ],
+    "vibes": [
+      "classic romance",
+      "European backdrop",
+      "family drama",
+      "iconic Bollywood"
+    ],
+    "themes": [
+      "NRI identity",
+      "love and family approval",
+      "London to Punjab",
+      "running to your love"
+    ],
+    "keywords": [
+      "Switzerland",
+      "Raj",
+      "Simran",
+      "Punjab",
+      "mustard fields",
+      "train",
+      "family approval"
+    ],
+    "similarTo": [
+      "Kuch Kuch Hota Hai",
+      "Mohabbatein",
+      "Kabhi Khushi Kabhie Gham...",
+      "Kal Ho Naa Ho",
+      "Hum Tum"
+    ]
+  },
+  {
+    "title": "Kuch Kuch Hota Hai",
+    "subGenres": [
+      "College Romance",
+      "Classic Bollywood"
+    ],
+    "moods": [
+      "romantic",
+      "nostalgic",
+      "joyful",
+      "emotional"
+    ],
+    "vibes": [
+      "classic Bollywood romance",
+      "college memories",
+      "friendship",
+      "iconic"
+    ],
+    "themes": [
+      "friendship turning to love",
+      "second chances",
+      "childhood letters",
+      "college memories"
+    ],
+    "keywords": [
+      "college friendship",
+      "letters",
+      "SRK",
+      "Anjali",
+      "Tina",
+      "second chance",
+      "Rahul"
+    ],
+    "audience": [
+      "mass",
+      "family",
+      "comfort watch"
+    ],
+    "similarTo": [
+      "Dilwale Dulhania Le Jayenge",
+      "Mohabbatein",
+      "Kal Ho Naa Ho",
+      "Kabhi Khushi Kabhie Gham...",
+      "Hum Tum"
+    ]
+  },
+  {
+    "title": "Kal Ho Naa Ho",
+    "genres": [
+      "Romance",
+      "Drama",
+      "Comedy"
+    ],
+    "subGenres": [
+      "Bittersweet Romance",
+      "NRI Drama"
+    ],
+    "moods": [
+      "bittersweet",
+      "joyful",
+      "emotional",
+      "heartbreaking"
+    ],
+    "vibes": [
+      "New York diaspora",
+      "comforting",
+      "tear-jerking",
+      "romantic"
+    ],
+    "themes": [
+      "living in the present",
+      "sacrifice in love",
+      "NRI life in New York",
+      "terminal illness"
+    ],
+    "keywords": [
+      "New York",
+      "NRI",
+      "Aman",
+      "Naina",
+      "Rohit",
+      "cancer",
+      "love triangle",
+      "Diwali"
+    ],
+    "audience": [
+      "mass",
+      "comfort watch"
+    ],
+    "similarTo": [
+      "Kuch Kuch Hota Hai",
+      "Dilwale Dulhania Le Jayenge",
+      "Hum Tum",
+      "Kabhi Khushi Kabhie Gham...",
+      "Veer-Zaara"
+    ]
+  },
+  {
+    "title": "Karthik Calling Karthik",
+    "subGenres": [
+      "Psychological Thriller",
+      "Identity Mystery"
+    ],
+    "moods": [
+      "tense",
+      "mysterious",
+      "engaging",
+      "mind-bending"
+    ],
+    "vibes": [
+      "identity mystery",
+      "psychological intrigue",
+      "twist reveals",
+      "gripping"
+    ],
+    "themes": [
+      "dissociative identity",
+      "self-transformation",
+      "mysterious caller",
+      "social anxiety"
+    ],
+    "keywords": [
+      "mystery caller",
+      "Karthik",
+      "phone",
+      "personality change",
+      "psychological",
+      "twist"
+    ],
+    "similarTo": [
+      "Andhadhun",
+      "Kahaani",
+      "Drishyam",
+      "Raazi",
+      "A Wednesday"
+    ]
+  },
+  {
+    "title": "Raazi",
+    "genres": [
+      "Thriller",
+      "Drama",
+      "Spy"
+    ],
+    "subGenres": [
+      "Espionage Drama",
+      "Female-Led Thriller"
+    ],
+    "moods": [
+      "tense",
+      "emotional",
+      "patriotic",
+      "gripping"
+    ],
+    "vibes": [
+      "espionage",
+      "India-Pakistan",
+      "female strength",
+      "sacrifice"
+    ],
+    "themes": [
+      "female spy in enemy land",
+      "duty vs love",
+      "India-Pakistan relations",
+      "silent sacrifice"
+    ],
+    "keywords": [
+      "spy",
+      "RAW",
+      "Pakistan",
+      "undercover",
+      "marriage",
+      "1971 war",
+      "Alia Bhatt"
+    ],
+    "similarTo": [
+      "Talvar",
+      "Kahaani",
+      "Andhadhun",
+      "Karthik Calling Karthik",
+      "A Wednesday"
+    ]
+  },
+  {
+    "title": "Talvar",
+    "subGenres": [
+      "True Crime Drama",
+      "Legal Thriller"
+    ],
+    "moods": [
+      "gripping",
+      "infuriating",
+      "tense",
+      "emotionally charged"
+    ],
+    "vibes": [
+      "true crime",
+      "Rashomon effect",
+      "justice failure",
+      "social commentary"
+    ],
+    "themes": [
+      "justice system failure",
+      "media trial",
+      "multiple perspectives on truth",
+      "Aarushi murder case"
+    ],
+    "keywords": [
+      "Noida",
+      "murder",
+      "parents",
+      "CBI",
+      "media",
+      "multiple perspectives",
+      "justice"
+    ],
+    "similarTo": [
+      "Andhadhun",
+      "Kahaani",
+      "Drishyam",
+      "Raazi",
+      "Article 15"
+    ]
+  },
+  {
+    "title": "Gangs of Wasseypur",
+    "subGenres": [
+      "Gangster Epic",
+      "Revenge Saga"
+    ],
+    "moods": [
+      "visceral",
+      "raw",
+      "darkly comic",
+      "epic"
+    ],
+    "vibes": [
+      "gritty Bollywood",
+      "revenge saga",
+      "coal mafia",
+      "gripping"
+    ],
+    "themes": [
+      "generational vengeance",
+      "coal mafia in Dhanbad",
+      "power and corruption",
+      "masculinity"
+    ],
+    "keywords": [
+      "Dhanbad",
+      "coal",
+      "Sardar Khan",
+      "revenge",
+      "mafia",
+      "Bihar",
+      "generational crime"
+    ],
+    "similarTo": [
+      "Andhadhun",
+      "Ugly",
+      "Badlapur",
+      "Dev.D",
+      "Satya"
+    ]
+  },
+  {
+    "title": "Badlapur",
+    "subGenres": [
+      "Revenge Thriller",
+      "Dark Character Study"
+    ],
+    "moods": [
+      "dark",
+      "disturbing",
+      "gripping",
+      "intense"
+    ],
+    "vibes": [
+      "vengeance spiral",
+      "moral descent",
+      "bleak",
+      "gritty"
+    ],
+    "themes": [
+      "revenge consuming a man",
+      "loss and grief",
+      "moral ambiguity",
+      "prison"
+    ],
+    "keywords": [
+      "revenge",
+      "15 years",
+      "wife murder",
+      "Nawazuddin",
+      "Varun Dhawan",
+      "darkness",
+      "prison"
+    ],
+    "similarTo": [
+      "Andhadhun",
+      "Gangs of Wasseypur",
+      "Ugly",
+      "Ugly",
+      "Dev.D"
+    ]
+  },
+  {
+    "title": "Vikram Vedha",
+    "subGenres": [
+      "Cat and Mouse Thriller",
+      "Neo-Noir"
+    ],
+    "moods": [
+      "intense",
+      "morally complex",
+      "gripping",
+      "stylish"
+    ],
+    "vibes": [
+      "moral ambiguity",
+      "stylish action",
+      "who is the villain",
+      "edge-of-seat"
+    ],
+    "themes": [
+      "law vs justice",
+      "gray morality",
+      "Vikramaditya tales",
+      "police and gangster"
+    ],
+    "keywords": [
+      "cop",
+      "gangster",
+      "stories",
+      "Chennai",
+      "moral dilemma",
+      "cat and mouse",
+      "Tamil noir"
+    ],
+    "similarTo": [
+      "Andhadhun",
+      "Drishyam",
+      "Kaithi",
+      "Vada Chennai",
+      "Vetrimaaran films"
+    ]
+  },
+  {
+    "title": "Vada Chennai",
+    "subGenres": [
+      "Gangster Epic",
+      "Political Drama"
+    ],
+    "moods": [
+      "raw",
+      "intense",
+      "epic",
+      "visceral"
+    ],
+    "vibes": [
+      "gritty Tamil realism",
+      "gangster saga",
+      "political drama",
+      "layered narrative"
+    ],
+    "themes": [
+      "North Chennai gang wars",
+      "political and criminal nexus",
+      "loyalty and betrayal",
+      "caste politics"
+    ],
+    "keywords": [
+      "North Chennai",
+      "chess",
+      "gangster",
+      "politics",
+      "1980s",
+      "Vetrimaaran",
+      "Dhanush"
+    ],
+    "similarTo": [
+      "Vikram Vedha",
+      "Kaithi",
+      "Visaranai",
+      "Gangs of Wasseypur",
+      "Pariyerum Perumal"
+    ]
+  },
+  {
+    "title": "Kaithi",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "subGenres": [
+      "Single Night Thriller",
+      "Action Film"
+    ],
+    "moods": [
+      "tense",
+      "edge-of-seat",
+      "relentless",
+      "intense"
+    ],
+    "vibes": [
+      "single night chaos",
+      "gripping action",
+      "no breaks",
+      "thriller"
+    ],
+    "themes": [
+      "father seeking his child",
+      "police vs cartel",
+      "single night",
+      "single mission"
+    ],
+    "keywords": [
+      "prison release",
+      "drug cartel",
+      "one night",
+      "daughter",
+      "Dilli",
+      "police",
+      "no breaks"
+    ],
+    "similarTo": [
+      "Vikram Vedha",
+      "Vada Chennai",
+      "Visaranai",
+      "96",
+      "Anjaan"
+    ]
+  },
+  {
+    "title": "96",
+    "subGenres": [
+      "Nostalgic Romance",
+      "Slice of Life"
+    ],
+    "moods": [
+      "deeply nostalgic",
+      "melancholic",
+      "tender",
+      "beautiful"
+    ],
+    "vibes": [
+      "school nostalgia",
+      "first love melancholy",
+      "quiet heartbreak",
+      "poetic"
+    ],
+    "themes": [
+      "first love never forgotten",
+      "nostalgia for school days",
+      "paths not taken",
+      "memory"
+    ],
+    "keywords": [
+      "school reunion",
+      "Ram",
+      "Janu",
+      "photography",
+      "first love",
+      "nostalgia",
+      "1996"
+    ],
+    "audience": [
+      "young adult",
+      "comfort watch",
+      "cinephile"
+    ],
+    "similarTo": [
+      "Premam",
+      "Neram",
+      "O Kadhal Kanmani",
+      "Jab We Met",
+      "Before Sunrise"
+    ]
+  },
+  {
+    "title": "Premam",
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Drama"
+    ],
+    "subGenres": [
+      "Coming-of-Age Romance",
+      "Slice of Life"
+    ],
+    "moods": [
+      "joyful",
+      "nostalgic",
+      "bittersweet",
+      "heartwarming"
+    ],
+    "vibes": [
+      "college romance",
+      "Kerala vibrancy",
+      "three love stories",
+      "feel-good"
+    ],
+    "themes": [
+      "three chapters of love",
+      "growing up",
+      "unrequited love",
+      "letting go"
+    ],
+    "keywords": [
+      "Kerala",
+      "college",
+      "three loves",
+      "friendship",
+      "growing up",
+      "Nivin Pauly",
+      "music"
+    ],
+    "audience": [
+      "young adult",
+      "mass",
+      "comfort watch"
+    ],
+    "similarTo": [
+      "96",
+      "O Kadhal Kanmani",
+      "Bangalore Days",
+      "Drishyam",
+      "Charlie"
+    ]
+  },
+  {
+    "title": "Drishyam 2",
+    "subGenres": [
+      "Sequel Thriller",
+      "Family Thriller"
+    ],
+    "moods": [
+      "tense",
+      "gripping",
+      "intensely satisfying",
+      "clever"
+    ],
+    "vibes": [
+      "sequel worthy",
+      "clever cover-up continuation",
+      "emotional thriller"
+    ],
+    "themes": [
+      "living with guilt",
+      "protecting family at all costs",
+      "new investigation",
+      "crime cover-up"
+    ],
+    "keywords": [
+      "Georgekutty",
+      "seven years later",
+      "sequel",
+      "cover-up",
+      "police",
+      "thriller",
+      "family"
+    ],
+    "similarTo": [
+      "Drishyam",
+      "Andhadhun",
+      "Kahaani",
+      "Talvar",
+      "A Wednesday"
+    ]
+  },
+  {
+    "title": "Kumbalangi Nights",
+    "subGenres": [
+      "Family Drama",
+      "Toxic Masculinity Study"
+    ],
+    "moods": [
+      "beautifully layered",
+      "emotionally complex",
+      "heartwarming",
+      "thought-provoking"
+    ],
+    "vibes": [
+      "Kerala backwaters",
+      "brotherhood",
+      "toxic masculinity critique",
+      "healing"
+    ],
+    "themes": [
+      "toxic masculinity",
+      "brotherhood and healing",
+      "Kerala rural life",
+      "what family means"
+    ],
+    "keywords": [
+      "backwaters",
+      "brothers",
+      "fishing village",
+      "love story",
+      "toxic husband",
+      "family healing"
+    ],
+    "similarTo": [
+      "Premam",
+      "Drishyam",
+      "Charlie",
+      "Bangalore Days",
+      "Jallikattu"
+    ]
+  },
+  {
+    "title": "Bangalore Days",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Comedy"
+    ],
+    "subGenres": [
+      "Ensemble Film",
+      "City Life Drama"
+    ],
+    "moods": [
+      "vibrant",
+      "heartwarming",
+      "emotional",
+      "joyful"
+    ],
+    "vibes": [
+      "cousin bonding",
+      "Bangalore life",
+      "multiple love stories",
+      "feel-good"
+    ],
+    "themes": [
+      "cousins finding themselves in a new city",
+      "different kinds of love",
+      "military wife life"
+    ],
+    "keywords": [
+      "Bangalore",
+      "cousins",
+      "love stories",
+      "city life",
+      "military",
+      "bike racing",
+      "coming-of-age"
+    ],
+    "similarTo": [
+      "Premam",
+      "Kumbalangi Nights",
+      "Dil Chahta Hai",
+      "Zindagi Na Milegi Dobara",
+      "Yeh Jawaani Hai Deewani"
+    ]
+  },
+  {
+    "title": "Pariyerum Perumal",
+    "subGenres": [
+      "Caste Drama",
+      "Social Realist Film"
+    ],
+    "moods": [
+      "emotionally devastating",
+      "authentic",
+      "quietly powerful",
+      "heartbreaking"
+    ],
+    "vibes": [
+      "caste discrimination",
+      "first-generation student",
+      "suppressed identity",
+      "raw"
+    ],
+    "themes": [
+      "caste discrimination in Tamil Nadu",
+      "Dalit aspirations",
+      "love across caste lines",
+      "law college"
+    ],
+    "keywords": [
+      "Dalit",
+      "law college",
+      "dog",
+      "caste",
+      "discrimination",
+      "Tamil Nadu",
+      "friendship"
+    ],
+    "similarTo": [
+      "Visaranai",
+      "Vada Chennai",
+      "Masaan",
+      "Article 15",
+      "Court"
+    ]
+  },
+  {
+    "title": "Visaranai",
+    "subGenres": [
+      "Police Brutality Drama",
+      "True Story"
+    ],
+    "moods": [
+      "harrowing",
+      "infuriating",
+      "raw",
+      "deeply disturbing"
+    ],
+    "vibes": [
+      "systemic oppression",
+      "powerlessness",
+      "social injustice",
+      "grim realism"
+    ],
+    "themes": [
+      "police brutality",
+      "Dalit and migrant workers",
+      "corrupt justice system",
+      "false accusations"
+    ],
+    "keywords": [
+      "migrant workers",
+      "Tamil Nadu",
+      "police",
+      "false confession",
+      "brutality",
+      "true story"
+    ],
+    "similarTo": [
+      "Pariyerum Perumal",
+      "Vada Chennai",
+      "Article 15",
+      "Newton",
+      "Court"
+    ]
+  },
+  {
+    "title": "Soorarai Pottru",
+    "subGenres": [
+      "Inspirational Drama",
+      "Aviation Dream"
+    ],
+    "moods": [
+      "inspiring",
+      "triumphant",
+      "emotional",
+      "uplifting"
+    ],
+    "vibes": [
+      "underdog triumph",
+      "dream against odds",
+      "mass entertainer with heart",
+      "feel-good"
+    ],
+    "themes": [
+      "common man starting an airline",
+      "relentless ambition",
+      "rural aspirations",
+      "Air Deccan"
+    ],
+    "keywords": [
+      "low-cost airline",
+      "Air Deccan",
+      "dreams",
+      "poor village background",
+      "Suriya",
+      "fight for the common man"
+    ],
+    "similarTo": [
+      "Dangal",
+      "Bhaag Milkha Bhaag",
+      "Kabali",
+      "Vikram Vedha",
+      "Kaithi"
+    ]
+  },
+  {
+    "title": "Super Deluxe",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "subGenres": [
+      "Anthology Thriller",
+      "Genre-Bending"
+    ],
+    "moods": [
+      "darkly comic",
+      "shocking",
+      "thought-provoking",
+      "genre-defying"
+    ],
+    "vibes": [
+      "transgression",
+      "multiple interlocking stories",
+      "subversive",
+      "existential humor"
+    ],
+    "themes": [
+      "transgender identity",
+      "marital infidelity",
+      "faith and science",
+      "unexpected connections"
+    ],
+    "keywords": [
+      "transgender",
+      "multiple stories",
+      "porn",
+      "God",
+      "interlocked",
+      "Tamil",
+      "subversive"
+    ],
+    "similarTo": [
+      "Vikram Vedha",
+      "Pariyerum Perumal",
+      "Vada Chennai",
+      "Andhadhun",
+      "Gangs of Wasseypur"
+    ]
+  },
+  {
+    "title": "Angamaly Diaries",
+    "subGenres": [
+      "Gangster Film",
+      "Coming-of-Age"
+    ],
+    "moods": [
+      "energetic",
+      "raw",
+      "vivid",
+      "immersive"
+    ],
+    "vibes": [
+      "small town grit",
+      "youthful recklessness",
+      "Kerala street life",
+      "kinetic"
+    ],
+    "themes": [
+      "small town gang life",
+      "growing up in a Christian town",
+      "reckless youth",
+      "Angamaly"
+    ],
+    "keywords": [
+      "Angamaly",
+      "pork",
+      "gang",
+      "Kerala",
+      "street",
+      "youth",
+      "Christianity",
+      "long takes"
+    ],
+    "similarTo": [
+      "Vada Chennai",
+      "Gangs of Wasseypur",
+      "City of God",
+      "Jallikattu",
+      "Kumbalangi Nights"
+    ]
+  },
+  {
+    "title": "Jallikattu",
+    "language": "Malayalam",
+    "genres": [
+      "Thriller",
+      "Drama"
+    ],
+    "subGenres": [
+      "Chase Film",
+      "Allegory"
+    ],
+    "moods": [
+      "chaotic",
+      "primal",
+      "terrifying",
+      "intense"
+    ],
+    "vibes": [
+      "mob mentality",
+      "primal instinct",
+      "allegory",
+      "visceral"
+    ],
+    "themes": [
+      "primal human nature",
+      "mob mentality",
+      "man vs beast vs society",
+      "chaos"
+    ],
+    "keywords": [
+      "buffalo",
+      "village",
+      "chase",
+      "mob",
+      "Kerala",
+      "allegory",
+      "chaos"
+    ],
+    "similarTo": [
+      "Angamaly Diaries",
+      "Kumbalangi Nights",
+      "City of God",
+      "Parasite",
+      "The Hunt"
+    ]
+  },
+  {
+    "title": "Baahubali: The Beginning",
+    "moods": [
+      "epic",
+      "awe-inspiring",
+      "thrilling",
+      "entertaining"
+    ],
+    "vibes": [
+      "Indian epic cinema",
+      "mythological grandeur",
+      "mass entertainer",
+      "visual spectacle"
+    ],
+    "themes": [
+      "rightful heir to the throne",
+      "sacrifice and loyalty",
+      "mother's love",
+      "epic battle"
+    ],
+    "keywords": [
+      "Mahishmati kingdom",
+      "waterfall",
+      "Devasena",
+      "Amarendra",
+      "Shivudu",
+      "epic action"
+    ],
+    "similarTo": [
+      "Baahubali 2: The Conclusion",
+      "RRR",
+      "Magadheera",
+      "KGF: Chapter 1",
+      "Pushpa: The Rise - Part 01"
+    ]
+  },
+  {
+    "title": "Baahubali 2: The Conclusion",
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy"
+    ],
+    "subGenres": [
+      "Epic Mythological Film",
+      "Action Epic"
+    ],
+    "moods": [
+      "epic",
+      "emotionally satisfying",
+      "thrilling",
+      "revelatory"
+    ],
+    "vibes": [
+      "why Kattappa killed Baahubali",
+      "mass entertainer",
+      "epic grandeur",
+      "satisfying conclusion"
+    ],
+    "themes": [
+      "betrayal and revelation",
+      "motherly sacrifice",
+      "power and jealousy",
+      "truth revealed"
+    ],
+    "keywords": [
+      "why Kattappa killed Baahubali",
+      "Devasena",
+      "Mahendra Baahubali",
+      "Bhallaladeva",
+      "truth"
+    ],
+    "similarTo": [
+      "Baahubali: The Beginning",
+      "RRR",
+      "KGF: Chapter 2",
+      "Pushpa: The Rise - Part 01",
+      "Magadheera"
+    ]
+  },
+  {
+    "title": "RRR",
+    "genres": [
+      "Action",
+      "Drama",
+      "Adventure"
+    ],
+    "subGenres": [
+      "Fictional Historical Epic",
+      "Buddy Action Film"
+    ],
+    "moods": [
+      "euphoric",
+      "wildly entertaining",
+      "emotional",
+      "visceral"
+    ],
+    "vibes": [
+      "Naatu Naatu energy",
+      "friendship bromance epic",
+      "Indian mass cinema",
+      "triumphant"
+    ],
+    "themes": [
+      "British colonialism",
+      "revolutionary friendship",
+      "sacrifice for people",
+      "tribal rights"
+    ],
+    "keywords": [
+      "Bheem",
+      "Raju",
+      "British India",
+      "revolution",
+      "tribal girl",
+      "Naatu Naatu",
+      "bromance"
+    ],
+    "similarTo": [
+      "Baahubali 2: The Conclusion",
+      "KGF: Chapter 2",
+      "Magadheera",
+      "Pushpa: The Rise - Part 01",
+      "Soorarai Pottru"
+    ]
+  },
+  {
+    "title": "KGF: Chapter 1",
+    "subGenres": [
+      "Gangster Epic",
+      "Rise of the Underdog"
+    ],
+    "moods": [
+      "intense",
+      "stylized",
+      "powerful",
+      "epic"
+    ],
+    "vibes": [
+      "underdog rise",
+      "gold mining empire",
+      "cinematic style",
+      "mass entertainer"
+    ],
+    "themes": [
+      "promise to mother",
+      "gold empire",
+      "rise from poverty",
+      "ambition"
+    ],
+    "keywords": [
+      "gold fields",
+      "Rocky",
+      "Kolar Gold Fields",
+      "1970s",
+      "promise",
+      "empire",
+      "Rocky"
+    ],
+    "similarTo": [
+      "KGF: Chapter 2",
+      "Baahubali: The Beginning",
+      "Pushpa: The Rise - Part 01",
+      "RRR",
+      "Soorarai Pottru"
+    ]
+  },
+  {
+    "title": "KGF: Chapter 2",
+    "language": "Kannada",
+    "subGenres": [
+      "Gangster Epic",
+      "Power Consolidation"
+    ],
+    "moods": [
+      "intense",
+      "visceral",
+      "powerful",
+      "blockbuster"
+    ],
+    "vibes": [
+      "unstoppable protagonist",
+      "mass blockbuster",
+      "stylized action",
+      "empire building"
+    ],
+    "themes": [
+      "Rocky consolidating power",
+      "political intrigue",
+      "the price of empire",
+      "loyalty"
+    ],
+    "keywords": [
+      "Rocky Bhai",
+      "Adheera",
+      "Ramika Sen",
+      "1980s",
+      "political",
+      "gold",
+      "blood"
+    ],
+    "similarTo": [
+      "KGF: Chapter 1",
+      "RRR",
+      "Baahubali 2: The Conclusion",
+      "Pushpa: The Rise - Part 01",
+      "Vikram"
+    ]
+  },
+  {
+    "title": "Pushpa: The Rise - Part 01",
+    "language": "Telugu",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "subGenres": [
+      "Red Sandal Wood Smuggling Drama",
+      "Rugged Action"
+    ],
+    "moods": [
+      "intense",
+      "stylized",
+      "powerful",
+      "mass entertainer"
+    ],
+    "vibes": [
+      "red forest grit",
+      "underdog swagger",
+      "rugged masculinity",
+      "cult energy"
+    ],
+    "themes": [
+      "rise of a laborer through smuggling",
+      "forest wood smuggling",
+      "political network",
+      "alpha male rise"
+    ],
+    "keywords": [
+      "red sandalwood",
+      "Pushpa",
+      "Srivalli",
+      "forest",
+      "smuggling",
+      "swagger",
+      "Allu Arjun"
+    ],
+    "similarTo": [
+      "KGF: Chapter 1",
+      "RRR",
+      "Baahubali: The Beginning",
+      "Soorarai Pottru",
+      "Kabali"
+    ]
+  },
+  {
+    "title": "O Kadhal Kanmani",
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "subGenres": [
+      "Modern Urban Romance",
+      "Live-in Relationship"
+    ],
+    "moods": [
+      "romantic",
+      "heartwarming",
+      "bittersweet",
+      "fresh"
+    ],
+    "vibes": [
+      "millennial love",
+      "Chennai life",
+      "live-in relationship",
+      "comforting"
+    ],
+    "themes": [
+      "commitment-free love",
+      "career vs relationship",
+      "old couple as mirror",
+      "modern Chennai"
+    ],
+    "keywords": [
+      "live-in relationship",
+      "Chennai",
+      "game designer",
+      "architecture",
+      "Mani Ratnam",
+      "music"
+    ],
+    "similarTo": [
+      "96",
+      "Premam",
+      "Jab We Met",
+      "Before Sunrise",
+      "Bangalore Days"
+    ]
+  },
+  {
+    "title": "Theri",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "subGenres": [
+      "Father-Daughter Action Drama",
+      "Mass Entertainer"
+    ],
+    "moods": [
+      "entertaining",
+      "emotional",
+      "thrilling",
+      "feel-good"
+    ],
+    "vibes": [
+      "father's love",
+      "action entertainer",
+      "mass appeal",
+      "Tamil action"
+    ],
+    "themes": [
+      "father protecting daughter",
+      "hidden past",
+      "police vs crime",
+      "identity revelation"
+    ],
+    "keywords": [
+      "police officer",
+      "daughter",
+      "hidden past",
+      "Tamil Nadu",
+      "Vijay",
+      "action"
+    ],
+    "similarTo": [
+      "Kaithi",
+      "Vikram",
+      "Soorarai Pottru",
+      "Bigil",
+      "Master"
+    ]
+  },
+  {
+    "title": "Vikram",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "subGenres": [
+      "Ensemble Action Thriller",
+      "Blockbuster"
+    ],
+    "moods": [
+      "thrilling",
+      "intense",
+      "action-packed",
+      "entertaining"
+    ],
+    "vibes": [
+      "mass entertainer",
+      "fan service",
+      "stylized action",
+      "multiple heroes"
+    ],
+    "themes": [
+      "black ops",
+      "drug cartel",
+      "generational crime fighters",
+      "secrets within secrets"
+    ],
+    "keywords": [
+      "Vikram",
+      "Rolex",
+      "cartel",
+      "black ops",
+      "Kamal Haasan",
+      "Fahadh Faasil",
+      "Vijay Sethupathi"
+    ],
+    "similarTo": [
+      "Kaithi",
+      "Vada Chennai",
+      "KGF: Chapter 2",
+      "RRR",
+      "Pushpa: The Rise - Part 01"
+    ]
+  },
+  {
+    "title": "Irudhi Suttru",
+    "language": "Tamil",
+    "subGenres": [
+      "Sports Drama",
+      "Coach-Athlete Story"
+    ],
+    "moods": [
+      "inspiring",
+      "raw",
+      "emotionally powerful",
+      "gritty"
+    ],
+    "vibes": [
+      "underdog athlete",
+      "mentor-student bond",
+      "female sports",
+      "realistic"
+    ],
+    "themes": [
+      "boxing for women",
+      "mentor's sacrifice",
+      "social barriers for female athletes",
+      "Tamil Nadu"
+    ],
+    "keywords": [
+      "boxing",
+      "female boxer",
+      "coach",
+      "fisherwomen",
+      "Olympics dream",
+      "Tamil Nadu",
+      "training"
+    ],
+    "similarTo": [
+      "Soorarai Pottru",
+      "Dangal",
+      "Mary Kom",
+      "Bhaag Milkha Bhaag",
+      "Chak De! India"
+    ]
+  },
+  {
+    "title": "Neerja",
+    "subGenres": [
+      "True Story",
+      "Heroism Drama"
+    ],
+    "moods": [
+      "intense",
+      "inspiring",
+      "tense",
+      "emotional"
+    ],
+    "vibes": [
+      "real hero",
+      "sacrifice",
+      "terrorism thriller",
+      "patriotism"
+    ],
+    "themes": [
+      "heroism at 23",
+      "Pan Am hijacking",
+      "sacrifice to save others",
+      "courage"
+    ],
+    "keywords": [
+      "Neerja Bhanot",
+      "Pan Am",
+      "hijacking",
+      "heroism",
+      "1986",
+      "air hostess",
+      "Pakistan"
+    ],
+    "similarTo": [
+      "Raazi",
+      "Talvar",
+      "Airlift",
+      "Uri: The Surgical Strike",
+      "Bhaag Milkha Bhaag"
+    ]
+  },
+  {
+    "title": "Airlift",
+    "genres": [
+      "Drama",
+      "Biography",
+      "Thriller"
+    ],
+    "subGenres": [
+      "True Story",
+      "Evacuation Drama"
+    ],
+    "moods": [
+      "tense",
+      "inspiring",
+      "emotional",
+      "patriotic"
+    ],
+    "vibes": [
+      "real event",
+      "India's largest evacuation",
+      "heroism",
+      "feel-good nationalism"
+    ],
+    "themes": [
+      "Kuwait evacuation 1990",
+      "one man's effort to save thousands",
+      "Indian diaspora",
+      "bureaucracy"
+    ],
+    "keywords": [
+      "Kuwait",
+      "Gulf War",
+      "evacuation",
+      "Indians",
+      "Akshay Kumar",
+      "1990",
+      "Operation"
+    ],
+    "audience": [
+      "mass",
+      "family"
+    ],
+    "similarTo": [
+      "Neerja",
+      "Raazi",
+      "Uri: The Surgical Strike",
+      "The Finest Hours",
+      "Argo"
+    ]
+  },
+  {
+    "title": "URI: The Surgical Strike",
+    "genres": [
+      "Action",
+      "Drama",
+      "Biography"
+    ],
+    "subGenres": [
+      "War Film",
+      "Military Drama"
+    ],
+    "moods": [
+      "patriotic",
+      "thrilling",
+      "intense",
+      "inspiring"
+    ],
+    "vibes": [
+      "military action",
+      "patriotism",
+      "surgical precision",
+      "mass appeal"
+    ],
+    "themes": [
+      "retaliation for Uri attack",
+      "Indian military precision",
+      "national pride",
+      "sacrifice"
+    ],
+    "keywords": [
+      "surgical strike",
+      "India",
+      "Pakistan",
+      "2016",
+      "PARA SF",
+      "retaliation",
+      "how's the josh"
+    ],
+    "audience": [
+      "mass"
+    ],
+    "similarTo": [
+      "Airlift",
+      "Neerja",
+      "Raazi",
+      "Kesari",
+      "Shershah"
+    ]
+  },
+  {
+    "title": "Gully Boy",
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "subGenres": [
+      "Hip-Hop Coming-of-Age",
+      "Social Aspirational Drama"
+    ],
+    "moods": [
+      "electrifying",
+      "inspiring",
+      "raw",
+      "uplifting"
+    ],
+    "vibes": [
+      "Dharavi hip-hop",
+      "underdog rise",
+      "music as liberation",
+      "urban grit"
+    ],
+    "themes": [
+      "Mumbai slum to rapper",
+      "street hip-hop culture",
+      "class aspirations",
+      "finding your voice"
+    ],
+    "keywords": [
+      "Dharavi",
+      "rap",
+      "hip-hop",
+      "DIVINE",
+      "Naezy",
+      "mumbai streets",
+      "Ranveer Singh"
+    ],
+    "similarTo": [
+      "Wake Up Sid",
+      "Tamasha",
+      "Rockstar",
+      "Udaan",
+      "Dil Dhadakne Do"
+    ]
+  },
+  {
+    "title": "Tumhari Sulu",
+    "subGenres": [
+      "Slice of Life",
+      "Housewife Story"
+    ],
+    "moods": [
+      "joyful",
+      "heartwarming",
+      "funny",
+      "uplifting"
+    ],
+    "vibes": [
+      "everyday woman's triumph",
+      "comforting",
+      "Mumbai middle class",
+      "feel-good"
+    ],
+    "themes": [
+      "ordinary woman finding her voice",
+      "middle class Mumbai life",
+      "radio host",
+      "family support"
+    ],
+    "keywords": [
+      "radio",
+      "housewife",
+      "late-night show",
+      "Mumbai suburbs",
+      "confidence",
+      "family"
+    ],
+    "similarTo": [
+      "English Vinglish",
+      "Queen",
+      "Piku",
+      "Dear Zindagi",
+      "Nil Battey Sannata"
+    ]
+  },
+  {
+    "title": "Nil Battey Sannata",
+    "subGenres": [
+      "Social Drama",
+      "Mother-Daughter Story"
+    ],
+    "moods": [
+      "heartwarming",
+      "funny",
+      "inspiring",
+      "tender"
+    ],
+    "vibes": [
+      "unlikely inspiration",
+      "education story",
+      "mother's sacrifice",
+      "comforting"
+    ],
+    "themes": [
+      "mother motivating her daughter through unconventional means",
+      "education and poverty",
+      "Agra"
+    ],
+    "keywords": [
+      "domestic worker",
+      "daughter",
+      "school",
+      "Agra",
+      "mother goes to school",
+      "education"
+    ],
+    "audience": [
+      "family",
+      "mass",
+      "comfort watch"
+    ],
+    "similarTo": [
+      "Taare Zameen Par",
+      "English Vinglish",
+      "Tumhari Sulu",
+      "Chillar Party",
+      "Super 30"
+    ]
+  },
+  {
+    "title": "Chhichhore",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "subGenres": [
+      "College Nostalgia",
+      "Father-Son Drama"
+    ],
+    "moods": [
+      "nostalgic",
+      "heartwarming",
+      "funny",
+      "emotional"
+    ],
+    "vibes": [
+      "college friendship nostalgia",
+      "feel-good",
+      "mental health awareness",
+      "comforting"
+    ],
+    "themes": [
+      "college friendship reunion",
+      "suicide prevention",
+      "losers are winners too",
+      "IIT life"
+    ],
+    "keywords": [
+      "IIT",
+      "college hostel",
+      "reunion",
+      "son's accident",
+      "suicide prevention",
+      "losers"
+    ],
+    "audience": [
+      "mass",
+      "young adult",
+      "comfort watch"
+    ],
+    "similarTo": [
+      "3 Idiots",
+      "Rang De Basanti",
+      "Dil Chahta Hai",
+      "Wake Up Sid",
+      "Kai Po Che!"
+    ]
+  },
+  {
+    "title": "Kai Po Che!",
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "subGenres": [
+      "Coming-of-Age",
+      "Political Drama"
+    ],
+    "moods": [
+      "heartwarming",
+      "tragic",
+      "nostalgic",
+      "emotional"
+    ],
+    "vibes": [
+      "three friends' dreams",
+      "Gujarat 2001",
+      "cricket and dreams",
+      "bittersweet ending"
+    ],
+    "themes": [
+      "friendship and dreams",
+      "Gujarat riots",
+      "cricket as hope",
+      "religious violence"
+    ],
+    "keywords": [
+      "Gujarat riots",
+      "cricket",
+      "kite festival",
+      "three friends",
+      "2001",
+      "sports academy"
+    ],
+    "similarTo": [
+      "Dil Chahta Hai",
+      "Rang De Basanti",
+      "Chhichhore",
+      "3 Idiots",
+      "Kapoor & Sons"
+    ]
+  },
+  {
+    "title": "Dev.D",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "subGenres": [
+      "Neo-Noir Adaptation",
+      "Psychological Drama"
+    ],
+    "moods": [
+      "edgy",
+      "provocative",
+      "melancholic",
+      "electric"
+    ],
+    "vibes": [
+      "Devdas reimagined",
+      "dark modern Delhi",
+      "decadent",
+      "contemporary"
+    ],
+    "themes": [
+      "modern reinvention of Devdas",
+      "drug addiction",
+      "female empowerment",
+      "moral ambiguity"
+    ],
+    "keywords": [
+      "Devdas retelling",
+      "modern Delhi",
+      "Paro",
+      "Chanda",
+      "drugs",
+      "rock music",
+      "dark"
+    ],
+    "similarTo": [
+      "Gangs of Wasseypur",
+      "Udaan",
+      "Badlapur",
+      "Masaan",
+      "Mukkabaaz"
+    ]
+  },
+  {
+    "title": "Oye Lucky! Lucky Oye!",
+    "genres": [
+      "Crime",
+      "Comedy"
+    ],
+    "subGenres": [
+      "Dark Comedy",
+      "Con Artist Film"
+    ],
+    "moods": [
+      "entertaining",
+      "darkly comic",
+      "vibrant",
+      "fun"
+    ],
+    "vibes": [
+      "Delhi con man",
+      "charming criminal",
+      "darkly comic",
+      "social commentary"
+    ],
+    "themes": [
+      "social class and aspiration",
+      "Delhi charm and crime",
+      "con artistry",
+      "consumerism"
+    ],
+    "keywords": [
+      "con man",
+      "Delhi",
+      "thief",
+      "Lucky",
+      "charming villain",
+      "middle class aspirations"
+    ],
+    "similarTo": [
+      "Dev.D",
+      "Andhadhun",
+      "Newton",
+      "Gangs of Wasseypur",
+      "A Wednesday"
+    ]
+  },
+  {
+    "title": "Fullmetal Alchemist: Brotherhood",
+    "subGenres": [
+      "Shonen Anime",
+      "Dark Fantasy"
+    ],
+    "moods": [
+      "emotionally devastating",
+      "epic",
+      "thrilling",
+      "heartwarming"
+    ],
+    "vibes": [
+      "brotherhood bond",
+      "alchemy magic system",
+      "equivalent exchange",
+      "emotional depth"
+    ],
+    "themes": [
+      "equivalent exchange",
+      "sacrifice",
+      "corruption of power",
+      "military and state"
+    ],
+    "keywords": [
+      "alchemy",
+      "philosopher's stone",
+      "Edward Elric",
+      "Alphonse",
+      "military state",
+      "equivalent exchange"
+    ],
+    "audience": [
+      "young adult",
+      "cinephile"
+    ],
+    "similarTo": [
+      "Attack on Titan",
+      "Death Note",
+      "Vinland Saga",
+      "Demon Slayer: Kimetsu no Yaiba",
+      "Hunter x Hunter"
+    ]
+  },
+  {
+    "title": "Hunter x Hunter",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "subGenres": [
+      "Shonen Anime",
+      "Coming-of-Age"
+    ],
+    "moods": [
+      "thrilling",
+      "emotional",
+      "cerebral",
+      "engaging"
+    ],
+    "vibes": [
+      "friendship and rivalry",
+      "world-building",
+      "psychological battles",
+      "coming-of-age"
+    ],
+    "themes": [
+      "ambition and sacrifice",
+      "father-son search",
+      "greed and humanity",
+      "friendship tested"
+    ],
+    "keywords": [
+      "Hunter",
+      "Gon",
+      "Killua",
+      "Nen",
+      "Chimera Ants",
+      "friendship",
+      "exam"
+    ],
+    "audience": [
+      "young adult"
+    ],
+    "similarTo": [
+      "Fullmetal Alchemist: Brotherhood",
+      "Attack on Titan",
+      "Naruto",
+      "My Hero Academia",
+      "One Piece"
+    ]
+  },
+  {
+    "title": "Demon Slayer: Kimetsu no Yaiba",
+    "subGenres": [
+      "Dark Fantasy Anime",
+      "Shonen"
+    ],
+    "moods": [
+      "intense",
+      "visually breathtaking",
+      "emotional",
+      "thrilling"
+    ],
+    "vibes": [
+      "sibling bond",
+      "demon slaying",
+      "Taisho era Japan",
+      "visual spectacle"
+    ],
+    "themes": [
+      "sibling love and sacrifice",
+      "demons within humans",
+      "grief and purpose",
+      "humanity in monsters"
+    ],
+    "keywords": [
+      "demons",
+      "Tanjiro",
+      "Nezuko",
+      "breathing techniques",
+      "Taisho Japan",
+      "sister",
+      "corps"
+    ],
+    "audience": [
+      "young adult",
+      "mass"
+    ],
+    "similarTo": [
+      "Attack on Titan",
+      "Fullmetal Alchemist: Brotherhood",
+      "Jujutsu Kaisen",
+      "Bleach",
+      "Naruto"
+    ]
+  },
+  {
+    "title": "Vinland Saga",
+    "genres": [
+      "Animation",
+      "Action",
+      "Drama"
+    ],
+    "subGenres": [
+      "Historical Anime",
+      "Coming-of-Age War Drama"
+    ],
+    "moods": [
+      "epic",
+      "devastating",
+      "morally complex",
+      "intense"
+    ],
+    "vibes": [
+      "Viking saga",
+      "vengeance to peace",
+      "philosophical warrior",
+      "masterpiece"
+    ],
+    "themes": [
+      "cycle of violence",
+      "true warrior seeks no battle",
+      "slavery and freedom",
+      "vengeance vs peace"
+    ],
+    "keywords": [
+      "Vikings",
+      "Thorfinn",
+      "Askeladd",
+      "England",
+      "revenge",
+      "war",
+      "pacifism",
+      "Norse"
+    ],
+    "similarTo": [
+      "Attack on Titan",
+      "Monster",
+      "Berserk",
+      "Fullmetal Alchemist: Brotherhood",
+      "Kingdom"
+    ]
+  },
+  {
+    "title": "Neon Genesis Evangelion",
+    "genres": [
+      "Animation",
+      "Science Fiction",
+      "Drama"
+    ],
+    "subGenres": [
+      "Mecha Anime",
+      "Psychological Drama"
+    ],
+    "moods": [
+      "deeply unsettling",
+      "psychological",
+      "existential",
+      "groundbreaking"
+    ],
+    "vibes": [
+      "existential crisis",
+      "trauma and depression",
+      "end of humanity",
+      "revolutionary"
+    ],
+    "themes": [
+      "depression and isolation",
+      "humanity's fear of connection",
+      "post-apocalyptic psychology",
+      "parent-child"
+    ],
+    "keywords": [
+      "Eva pilots",
+      "Angels",
+      "NERV",
+      "Shinji",
+      "instrumentality",
+      "psychological",
+      "depression"
+    ],
+    "similarTo": [
+      "Monster",
+      "Death Note",
+      "Paranoia Agent",
+      "Serial Experiments Lain",
+      "Ergo Proxy"
+    ]
+  },
+  {
+    "title": "Cowboy Bebop",
+    "subGenres": [
+      "Neo-Noir Sci-Fi Anime",
+      "Space Western"
+    ],
+    "moods": [
+      "cool",
+      "melancholic",
+      "stylish",
+      "bittersweet"
+    ],
+    "vibes": [
+      "jazz-noir",
+      "space drifters",
+      "cool aesthetics",
+      "existential cool"
+    ],
+    "themes": [
+      "living with the past",
+      "found family",
+      "loneliness in space",
+      "you're gonna carry that weight"
+    ],
+    "keywords": [
+      "bounty hunters",
+      "jazz",
+      "space",
+      "Spike Spiegel",
+      "Faye",
+      "Blue",
+      "bebop"
+    ],
+    "audience": [
+      "cinephile",
+      "young adult"
+    ],
+    "similarTo": [
+      "Trigun",
+      "Neon Genesis Evangelion",
+      "Samurai Champloo",
+      "Ghost in the Shell",
+      "Space Dandy"
+    ]
+  },
+  {
+    "title": "Ghost in the Shell",
+    "subGenres": [
+      "Cyberpunk Anime Film",
+      "Philosophical Sci-Fi"
+    ],
+    "moods": [
+      "cerebral",
+      "atmospheric",
+      "philosophical",
+      "haunting"
+    ],
+    "vibes": [
+      "cyberpunk",
+      "what is identity",
+      "digital soul",
+      "dark future"
+    ],
+    "themes": [
+      "identity in a cybernetic world",
+      "consciousness and the soul",
+      "surveillance state",
+      "evolution"
+    ],
+    "keywords": [
+      "cyborg",
+      "Major",
+      "Ghost",
+      "Shell",
+      "hacking",
+      "Tokyo future",
+      "soul",
+      "Puppet Master"
+    ],
+    "similarTo": [
+      "Blade Runner 2049",
+      "Akira",
+      "Neon Genesis Evangelion",
+      "The Matrix",
+      "Ex Machina"
+    ]
+  },
+  {
+    "title": "Akira",
+    "genres": [
+      "Animation",
+      "Science Fiction",
+      "Action"
+    ],
+    "subGenres": [
+      "Cyberpunk Anime Film",
+      "Post-Apocalyptic"
+    ],
+    "moods": [
+      "intense",
+      "dystopian",
+      "visceral",
+      "groundbreaking"
+    ],
+    "vibes": [
+      "cyberpunk",
+      "nuclear aftermath",
+      "biker gang",
+      "government experiment"
+    ],
+    "themes": [
+      "nuclear energy's consequences",
+      "youth and power",
+      "government and science",
+      "Neo-Tokyo"
+    ],
+    "keywords": [
+      "Neo-Tokyo",
+      "Kaneda",
+      "Tetsuo",
+      "telekinesis",
+      "motorbike",
+      "government",
+      "explosion"
+    ],
+    "similarTo": [
+      "Ghost in the Shell",
+      "Neon Genesis Evangelion",
+      "Perfect Blue",
+      "Paprika",
+      "Metropolis"
+    ]
+  },
+  {
+    "title": "Perfect Blue",
+    "genres": [
+      "Animation",
+      "Thriller",
+      "Drama"
+    ],
+    "subGenres": [
+      "Psychological Horror Anime",
+      "Idol Thriller"
+    ],
+    "moods": [
+      "disturbing",
+      "disorienting",
+      "terrifying",
+      "intense"
+    ],
+    "vibes": [
+      "idol culture critique",
+      "identity horror",
+      "stalker thriller",
+      "mind-bending"
+    ],
+    "themes": [
+      "idol culture and exploitation",
+      "identity dissolution",
+      "internet stalking",
+      "reality vs fantasy"
+    ],
+    "keywords": [
+      "idol",
+      "actress",
+      "stalker",
+      "identity",
+      "J-pop",
+      "horror",
+      "reality blur"
+    ],
+    "similarTo": [
+      "Black Swan",
+      "Requiem for a Dream",
+      "Paprika",
+      "Neon Genesis Evangelion",
+      "Satoshi Kon films"
+    ]
+  },
+  {
+    "title": "Paprika",
+    "genres": [
+      "Animation",
+      "Science Fiction",
+      "Fantasy"
+    ],
+    "subGenres": [
+      "Dream Thriller Anime",
+      "Mind-Bending Film"
+    ],
+    "moods": [
+      "psychedelic",
+      "disorienting",
+      "visually spectacular",
+      "mind-bending"
+    ],
+    "vibes": [
+      "dreams within dreams",
+      "surreal",
+      "Satoshi Kon masterpiece",
+      "reality melting"
+    ],
+    "themes": [
+      "dreams and reality merging",
+      "technology and consciousness",
+      "therapy and secrets",
+      "cinema as dream"
+    ],
+    "keywords": [
+      "dream therapy",
+      "DC Mini",
+      "Paprika",
+      "parade",
+      "dreams",
+      "technology",
+      "consciousness"
+    ],
+    "similarTo": [
+      "Perfect Blue",
+      "Akira",
+      "Ghost in the Shell",
+      "Inception",
+      "Satoshi Kon films"
+    ]
+  },
+  {
+    "title": "My Neighbor Totoro",
+    "genres": [
+      "Animation",
+      "Fantasy",
+      "Family"
+    ],
+    "subGenres": [
+      "Anime Film",
+      "Childhood Magic"
+    ],
+    "moods": [
+      "heartwarming",
+      "magical",
+      "innocent",
+      "comforting"
+    ],
+    "vibes": [
+      "childhood wonder",
+      "rural Japan",
+      "gentle magic",
+      "pure comfort"
+    ],
+    "themes": [
+      "childhood imagination",
+      "rural Japan",
+      "family bond in hardship",
+      "nature spirits"
+    ],
+    "keywords": [
+      "Totoro",
+      "cat bus",
+      "countryside",
+      "two sisters",
+      "mother",
+      "hospital",
+      "forest spirit"
+    ],
+    "tone": "light",
+    "audience": [
+      "family",
+      "comfort watch"
+    ],
+    "similarTo": [
+      "Spirited Away",
+      "Howl's Moving Castle",
+      "Ponyo",
+      "Kiki's Delivery Service",
+      "The Red Turtle"
+    ]
+  },
+  {
+    "title": "Grave of the Fireflies",
+    "genres": [
+      "Animation",
+      "Drama",
+      "War"
+    ],
+    "subGenres": [
+      "Anti-War Anime",
+      "Tragedy"
+    ],
+    "moods": [
+      "devastating",
+      "heartbreaking",
+      "haunting",
+      "unforgettable"
+    ],
+    "vibes": [
+      "war's impact on children",
+      "grief",
+      "survival",
+      "anti-war"
+    ],
+    "themes": [
+      "WWII and civilian cost",
+      "sibling bond",
+      "war's dehumanization",
+      "innocence destroyed"
+    ],
+    "keywords": [
+      "firebombing",
+      "Japan",
+      "WWII",
+      "brother and sister",
+      "hunger",
+      "survival",
+      "fireflies"
+    ],
+    "similarTo": [
+      "Barefoot Gen",
+      "In This Corner of the World",
+      "The Wind Rises",
+      "Wolf Children",
+      "Isao Takahata films"
+    ]
+  },
+  {
+    "title": "I Saw the Devil",
+    "genres": [
+      "Thriller",
+      "Action",
+      "Horror"
+    ],
+    "subGenres": [
+      "Extreme Revenge Thriller",
+      "Psychological Horror"
+    ],
+    "moods": [
+      "brutal",
+      "disturbing",
+      "intense",
+      "unnerving"
+    ],
+    "vibes": [
+      "revenge spiral",
+      "monster hunters monster",
+      "visceral horror",
+      "relentless"
+    ],
+    "themes": [
+      "revenge consuming the avenger",
+      "monster and the man who chases it",
+      "moral lines crossed"
+    ],
+    "keywords": [
+      "serial killer",
+      "revenge",
+      "NSA agent",
+      "becomes the monster",
+      "brutal",
+      "cat and mouse"
+    ],
+    "similarTo": [
+      "Oldboy",
+      "Parasite",
+      "Memories of Murder",
+      "A Tale of Two Sisters",
+      "The Wailing"
+    ]
+  },
+  {
+    "title": "A Tale of Two Sisters",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Drama"
+    ],
+    "subGenres": [
+      "Psychological Horror",
+      "Family Gothic"
+    ],
+    "moods": [
+      "eerie",
+      "atmospheric",
+      "disturbing",
+      "haunting"
+    ],
+    "vibes": [
+      "family secrets",
+      "psychological horror",
+      "beautiful dread",
+      "mystery"
+    ],
+    "themes": [
+      "grief and guilt",
+      "family dysfunction",
+      "mental illness",
+      "Korean folklore"
+    ],
+    "keywords": [
+      "stepmother",
+      "sisters",
+      "sanatorium",
+      "Korean folklore",
+      "ghost",
+      "family secret"
+    ],
+    "similarTo": [
+      "The Wailing",
+      "I Saw the Devil",
+      "Oldboy",
+      "The Handmaiden",
+      "Burning"
+    ]
+  },
+  {
+    "title": "The Wailing",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "subGenres": [
+      "Folk Horror",
+      "Supernatural Mystery"
+    ],
+    "moods": [
+      "deeply unsettling",
+      "atmospheric",
+      "terrifying",
+      "haunting"
+    ],
+    "vibes": [
+      "spiritual dread",
+      "Korean shamanism",
+      "rural horror",
+      "ambiguous evil"
+    ],
+    "themes": [
+      "faith vs evil",
+      "stranger as demon",
+      "shamanism and Christianity",
+      "a father's helplessness"
+    ],
+    "keywords": [
+      "village",
+      "Japanese stranger",
+      "illness",
+      "shaman",
+      "exorcism",
+      "Korean horror",
+      "ambiguity"
+    ],
+    "similarTo": [
+      "A Tale of Two Sisters",
+      "I Saw the Devil",
+      "Hereditary",
+      "Midsommar",
+      "The Witch"
+    ]
+  },
+  {
+    "title": "Hereditary",
+    "subGenres": [
+      "Elevated Horror",
+      "Family Horror"
+    ],
+    "moods": [
+      "deeply unsettling",
+      "traumatic",
+      "terrifying",
+      "devastating"
+    ],
+    "vibes": [
+      "grief as horror",
+      "occult family curse",
+      "dread",
+      "psychological horror"
+    ],
+    "themes": [
+      "grief and trauma",
+      "family as horror",
+      "occult inheritance",
+      "mental illness"
+    ],
+    "keywords": [
+      "family curse",
+      "miniatures",
+      "death",
+      "demon",
+      "grief",
+      "possession",
+      "Paimon"
+    ],
+    "similarTo": [
+      "Midsommar",
+      "The Witch",
+      "The Wailing",
+      "mother!",
+      "The Babadook"
+    ]
+  },
+  {
+    "title": "Midsommar",
+    "subGenres": [
+      "Folk Horror",
+      "Breakup Horror"
+    ],
+    "moods": [
+      "disturbing",
+      "beautiful",
+      "deeply unsettling",
+      "cathartic"
+    ],
+    "vibes": [
+      "daylight horror",
+      "pagan rituals",
+      "relationship trauma",
+      "cult dread"
+    ],
+    "themes": [
+      "relationship grief",
+      "pagan community vs outsiders",
+      "daylight horror",
+      "female rage"
+    ],
+    "keywords": [
+      "Sweden",
+      "midsummer",
+      "folk horror",
+      "cult",
+      "rituals",
+      "breakup",
+      "daylight"
+    ],
+    "similarTo": [
+      "Hereditary",
+      "The Witch",
+      "The Wailing",
+      "Suspiria",
+      "The Killing of a Sacred Deer"
+    ]
+  },
+  {
+    "title": "The Witch",
+    "genres": [
+      "Horror",
+      "Drama"
+    ],
+    "subGenres": [
+      "Puritan Horror",
+      "Folk Horror"
+    ],
+    "moods": [
+      "slow-burning dread",
+      "atmospheric",
+      "deeply unsettling",
+      "chilling"
+    ],
+    "vibes": [
+      "Puritan New England",
+      "spiritual horror",
+      "family paranoia",
+      "black phillip"
+    ],
+    "themes": [
+      "Puritan religious terror",
+      "female sexuality as threat",
+      "family disintegration",
+      "faith and doubt"
+    ],
+    "keywords": [
+      "Puritans",
+      "New England",
+      "witch",
+      "goat",
+      "Black Philip",
+      "1630s",
+      "banishment"
+    ],
+    "similarTo": [
+      "Hereditary",
+      "Midsommar",
+      "The Wailing",
+      "The Babadook",
+      "It Comes at Night"
+    ]
+  },
+  {
+    "title": "Bong Joon-ho's Snowpiercer"
+  },
+  {
+    "title": "Snowpiercer",
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Drama"
+    ],
+    "subGenres": [
+      "Dystopian Action",
+      "Class Allegory"
+    ],
+    "moods": [
+      "intense",
+      "allegorical",
+      "visceral",
+      "thought-provoking"
+    ],
+    "vibes": [
+      "class war on a train",
+      "dystopian",
+      "social allegory",
+      "edge-of-seat"
+    ],
+    "themes": [
+      "class warfare",
+      "resource control in apocalypse",
+      "revolution vs order",
+      "ecological collapse"
+    ],
+    "keywords": [
+      "train",
+      "perpetual motion",
+      "class system",
+      "apocalypse",
+      "Curtis",
+      "tail section",
+      "revolution"
+    ],
+    "similarTo": [
+      "Parasite",
+      "Elysium",
+      "The Platform",
+      "Metropolis",
+      "Brazil"
+    ]
+  },
+  {
+    "title": "The Platform",
+    "language": "Spanish",
+    "country": "Spain",
+    "genres": [
+      "Science Fiction",
+      "Thriller",
+      "Horror"
+    ],
+    "subGenres": [
+      "Social Allegory Horror",
+      "Dystopian Film"
+    ],
+    "moods": [
+      "deeply disturbing",
+      "allegorical",
+      "visceral",
+      "claustrophobic"
+    ],
+    "vibes": [
+      "class warfare allegory",
+      "food distribution horror",
+      "trapped",
+      "nihilistic hope"
+    ],
+    "themes": [
+      "greed and resource distribution",
+      "capitalist metaphor",
+      "human nature without limits",
+      "prison levels"
+    ],
+    "keywords": [
+      "vertical prison",
+      "food platform",
+      "levels",
+      "solidarity vs selfishness",
+      "Spain"
+    ],
+    "similarTo": [
+      "Snowpiercer",
+      "Parasite",
+      "Cube",
+      "Brazil",
+      "Elysium"
+    ]
+  },
+  {
+    "title": "Parasite",
+    "language": "Korean",
+    "country": "South Korea",
+    "genres": [
+      "Thriller",
+      "Drama",
+      "Dark Comedy"
+    ],
+    "subGenres": [
+      "Class Satire",
+      "Genre-Bending Thriller"
+    ],
+    "moods": [
+      "darkly comic",
+      "tense",
+      "shocking",
+      "deeply unsettling"
+    ],
+    "vibes": [
+      "social commentary",
+      "twisty",
+      "class warfare",
+      "mind-bending"
+    ],
+    "themes": [
+      "class divide",
+      "deception",
+      "envy and aspiration",
+      "the hidden underclass"
+    ],
+    "keywords": [
+      "class war",
+      "wealthy family",
+      "basement",
+      "infiltration",
+      "smell",
+      "dark humor"
+    ],
+    "similarTo": [
+      "Oldboy",
+      "I Saw the Devil",
+      "Burning",
+      "The Handmaiden",
+      "Memories of Murder"
+    ]
+  },
+  {
+    "title": "Aarya",
+    "genres": [
+      "Thriller",
+      "Crime",
+      "Drama"
+    ],
+    "subGenres": [
+      "Female-Led Crime Drama",
+      "Family Thriller"
+    ],
+    "moods": [
+      "intense",
+      "gripping",
+      "emotional",
+      "tense"
+    ],
+    "vibes": [
+      "female power",
+      "family crime drama",
+      "Rajasthan backdrop",
+      "betrayal"
+    ],
+    "themes": [
+      "mother protecting children",
+      "drug cartel family",
+      "female strength",
+      "betrayal"
+    ],
+    "keywords": [
+      "Rajasthan",
+      "drug cartel",
+      "mother",
+      "protection",
+      "Sushmita Sen",
+      "family crime"
+    ],
+    "similarTo": [
+      "Mirzapur",
+      "Delhi Crime",
+      "Paatal Lok",
+      "Kahaani",
+      "Drishyam"
+    ]
+  },
+  {
+    "title": "Mirzapur",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Action"
+    ],
+    "subGenres": [
+      "Gangster Drama",
+      "Revenge Saga"
+    ],
+    "moods": [
+      "intense",
+      "violent",
+      "gripping",
+      "dark"
+    ],
+    "vibes": [
+      "Purvanchal grit",
+      "gang war",
+      "revenge drama",
+      "raw power"
+    ],
+    "themes": [
+      "power struggle in UP",
+      "legacy and crime",
+      "revenge",
+      "family ambition"
+    ],
+    "keywords": [
+      "Mirzapur",
+      "Kaleen Bhaiya",
+      "Guddu Pandit",
+      "UP",
+      "gang war",
+      "drugs",
+      "power"
+    ],
+    "audience": [
+      "mass",
+      "young adult"
+    ],
+    "similarTo": [
+      "Sacred Games",
+      "Gangs of Wasseypur",
+      "Aarya",
+      "Paatal Lok",
+      "Delhi Crime"
+    ]
+  },
+  {
+    "title": "Sacred Games",
+    "subGenres": [
+      "Prestige Crime Drama",
+      "Mumbai Noir"
+    ],
+    "moods": [
+      "tense",
+      "atmospheric",
+      "complex",
+      "immersive"
+    ],
+    "vibes": [
+      "Mumbai crime epic",
+      "police and gangster",
+      "religious conspiracy",
+      "prestige TV"
+    ],
+    "themes": [
+      "Mumbai's criminal underbelly",
+      "Hindu nationalist conspiracy",
+      "past and present crime"
+    ],
+    "keywords": [
+      "Mumbai",
+      "Ganesh Gaitonde",
+      "RAW",
+      "Sartaj Singh",
+      "nuclear bomb",
+      "24 days",
+      "crime"
+    ],
+    "similarTo": [
+      "Mirzapur",
+      "Paatal Lok",
+      "Delhi Crime",
+      "Aarya",
+      "Gangs of Wasseypur"
+    ]
+  },
+  {
+    "title": "Paatal Lok",
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Drama"
+    ],
+    "subGenres": [
+      "Prestige Crime Drama",
+      "Social Commentary"
+    ],
+    "moods": [
+      "dark",
+      "atmospheric",
+      "thought-provoking",
+      "gritty"
+    ],
+    "vibes": [
+      "Delhi noir",
+      "media and crime nexus",
+      "marginal lives",
+      "social commentary"
+    ],
+    "themes": [
+      "class and crime in India",
+      "journalistic complicity",
+      "caste and religion",
+      "Delhi underworld"
+    ],
+    "keywords": [
+      "Delhi Police",
+      "Outer Jamuna Paar",
+      "media",
+      "caste",
+      "suspects",
+      "investigation"
+    ],
+    "similarTo": [
+      "Sacred Games",
+      "Delhi Crime",
+      "Mirzapur",
+      "Article 15",
+      "Newton"
+    ]
+  },
+  {
+    "title": "Delhi Crime",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "subGenres": [
+      "True Crime Drama",
+      "Police Procedural"
+    ],
+    "moods": [
+      "somber",
+      "intense",
+      "respectful",
+      "gripping"
+    ],
+    "vibes": [
+      "Nirbhaya case",
+      "Delhi police",
+      "gender crime",
+      "sobering"
+    ],
+    "themes": [
+      "Delhi gang rape case",
+      "police investigation",
+      "systemic failures",
+      "female safety"
+    ],
+    "keywords": [
+      "Delhi",
+      "Nirbhaya",
+      "gang rape",
+      "police",
+      "2012",
+      "investigation",
+      "justice"
+    ],
+    "similarTo": [
+      "Paatal Lok",
+      "Sacred Games",
+      "Talvar",
+      "Article 15",
+      "Aarya"
+    ]
+  },
+  {
+    "title": "Scam 1992: The Harshad Mehta Story",
+    "type": "tv",
+    "language": "Hindi",
+    "country": "India",
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "subGenres": [
+      "Financial Thriller",
+      "True Crime"
+    ],
+    "moods": [
+      "gripping",
+      "thrilling",
+      "educative",
+      "compulsive"
+    ],
+    "vibes": [
+      "stock market manipulation",
+      "rise and fall",
+      "1990s Bombay",
+      "compelling protagonist"
+    ],
+    "themes": [
+      "Harshad Mehta's rise",
+      "securities fraud",
+      "Indian stock market",
+      "ambition and greed"
+    ],
+    "keywords": [
+      "Harshad Mehta",
+      "BSE",
+      "stocks",
+      "scam",
+      "1992",
+      "Bombay",
+      "bull run",
+      "fraud"
+    ],
+    "audience": [
+      "mass",
+      "cinephile"
+    ],
+    "similarTo": [
+      "Breaking Bad",
+      "Sacred Games",
+      "The Big Short",
+      "Billions",
+      "Wolf of Wall Street"
+    ]
+  },
+  {
+    "title": "The Big Short",
+    "subGenres": [
+      "Financial Thriller",
+      "Satire"
+    ],
+    "moods": [
+      "angry",
+      "sharp",
+      "darkly comic",
+      "mind-blowing"
+    ],
+    "vibes": [
+      "financial outrage",
+      "4th wall breaking",
+      "systemic fraud",
+      "brilliant storytelling"
+    ],
+    "themes": [
+      "2008 financial crash",
+      "betting against the housing market",
+      "systemic greed",
+      "media blindness"
+    ],
+    "keywords": [
+      "subprime mortgage",
+      "2008 crisis",
+      "short selling",
+      "Wall Street",
+      "housing bubble",
+      "Jenga"
+    ],
+    "similarTo": [
+      "Scam 1992: The Harshad Mehta Story",
+      "The Social Network",
+      "Wolf of Wall Street",
+      "Moneyball",
+      "Margin Call"
+    ]
+  },
+  {
+    "title": "The Wolf of Wall Street",
+    "genres": [
+      "Biography",
+      "Crime",
+      "Comedy"
+    ],
+    "subGenres": [
+      "Excess Cinema",
+      "Wall Street Drama"
+    ],
+    "moods": [
+      "electrifying",
+      "darkly funny",
+      "intoxicating",
+      "disturbing"
+    ],
+    "vibes": [
+      "excess and debauchery",
+      "true crime energy",
+      "dark humor",
+      "three hours of chaos"
+    ],
+    "themes": [
+      "greed and excess",
+      "Wall Street fraud",
+      "the seductive nature of wealth",
+      "consequences"
+    ],
+    "keywords": [
+      "Jordan Belfort",
+      "stocks",
+      "drugs",
+      "money",
+      "yacht",
+      "Quaalude",
+      "FBI",
+      "fraud"
+    ],
+    "similarTo": [
+      "The Big Short",
+      "Goodfellas",
+      "American Psycho",
+      "Blow",
+      "Scam 1992: The Harshad Mehta Story"
+    ]
+  },
+  {
+    "title": "American Psycho",
+    "genres": [
+      "Thriller",
+      "Comedy",
+      "Drama"
+    ],
+    "subGenres": [
+      "Satire",
+      "Psychological Thriller"
+    ],
+    "moods": [
+      "darkly satirical",
+      "disturbing",
+      "cold",
+      "compulsive"
+    ],
+    "vibes": [
+      "yuppie horror",
+      "consumerism satire",
+      "dry dark humor",
+      "unreliable narrator"
+    ],
+    "themes": [
+      "consumerism as personality",
+      "corporate masculinity",
+      "identity in 1980s New York",
+      "violent fantasies"
+    ],
+    "keywords": [
+      "Patrick Bateman",
+      "business cards",
+      "Wall Street",
+      "80s yuppie",
+      "murders",
+      "Paul Allen"
+    ],
+    "era": "Classic",
+    "similarTo": [
+      "Fight Club",
+      "The Wolf of Wall Street",
+      "Joker",
+      "American Beauty",
+      "Nightcrawler"
+    ]
+  },
+  {
+    "title": "Nightcrawler",
+    "subGenres": [
+      "Media Satire",
+      "Anti-Hero Study"
+    ],
+    "moods": [
+      "chilling",
+      "compelling",
+      "disturbing",
+      "sharp"
+    ],
+    "vibes": [
+      "nocturnal Los Angeles",
+      "media darkness",
+      "sociopath protagonist",
+      "edge-of-seat"
+    ],
+    "themes": [
+      "media's appetite for violence",
+      "sociopath as entrepreneur",
+      "do anything to succeed",
+      "nocturnal LA"
+    ],
+    "keywords": [
+      "crime reporter",
+      "Los Angeles night",
+      "Lou Bloom",
+      "ambulance chasing",
+      "TV news",
+      "manipulation"
+    ],
+    "pacing": "fast",
+    "similarTo": [
+      "American Psycho",
+      "Drive",
+      "Taxi Driver",
+      "Zodiac",
+      "Gone Girl"
+    ]
+  },
+  {
+    "title": "Prisoners",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "subGenres": [
+      "Psychological Thriller",
+      "Moral Dilemma Film"
+    ],
+    "moods": [
+      "harrowing",
+      "deeply tense",
+      "morally complex",
+      "devastating"
+    ],
+    "vibes": [
+      "dark",
+      "rainy despair",
+      "edge-of-seat",
+      "moral reckoning"
+    ],
+    "themes": [
+      "vigilante justice",
+      "faith and despair",
+      "how far would you go",
+      "missing children"
+    ],
+    "keywords": [
+      "abduction",
+      "daughters",
+      "Hugh Jackman",
+      "Jake Gyllenhaal",
+      "mazes",
+      "religion",
+      "revenge"
+    ],
+    "energy": "high",
+    "similarTo": [
+      "Zodiac",
+      "Se7en",
+      "No Country for Old Men",
+      "Gone Girl",
+      "Incendies"
+    ]
+  },
+  {
+    "title": "Shoplifters",
+    "subGenres": [
+      "Slice of Life",
+      "Social Realist Film"
+    ],
+    "moods": [
+      "tender",
+      "heartbreaking",
+      "quietly moving",
+      "warm"
+    ],
+    "vibes": [
+      "found family",
+      "poverty in Japan",
+      "human connection",
+      "bittersweet"
+    ],
+    "themes": [
+      "what makes a family",
+      "poverty and dignity",
+      "outsiders forming a unit",
+      "Japanese hidden poverty"
+    ],
+    "keywords": [
+      "Tokyo",
+      "shoplifting",
+      "family",
+      "poverty",
+      "grandma",
+      "found family",
+      "Hirokazu Kore-eda"
+    ],
+    "similarTo": [
+      "Like Father, Like Son",
+      "Nobody Knows",
+      "After the Storm",
+      "The Florida Project",
+      "Capernaum"
+    ]
+  },
+  {
+    "title": "Nobody Knows",
+    "language": "Japanese",
+    "country": "Japan",
+    "subGenres": [
+      "Child Abandonment Drama",
+      "Social Realist Film"
+    ],
+    "moods": [
+      "heartbreaking",
+      "quiet",
+      "devastating",
+      "authentic"
+    ],
+    "vibes": [
+      "abandoned children",
+      "Japan's lonely urban life",
+      "quiet heartbreak",
+      "documentary realism"
+    ],
+    "themes": [
+      "abandoned children fending for themselves",
+      "invisible poverty",
+      "childhood destroyed",
+      "Japan"
+    ],
+    "keywords": [
+      "abandoned children",
+      "Tokyo apartment",
+      "mother",
+      "survival",
+      "four children",
+      "loneliness"
+    ],
+    "energy": "low",
+    "similarTo": [
+      "Shoplifters",
+      "Capernaum",
+      "The Florida Project",
+      "Beasts of the Southern Wild",
+      "Like Father, Like Son"
+    ]
+  },
+  {
+    "title": "The Florida Project",
+    "genres": [
+      "Drama"
+    ],
+    "subGenres": [
+      "Poverty Realism",
+      "Child Perspective"
+    ],
+    "moods": [
+      "vibrantly heartbreaking",
+      "innocent",
+      "raw",
+      "devastating"
+    ],
+    "vibes": [
+      "childhood magic in poverty",
+      "American margins",
+      "purple motel",
+      "bittersweet"
+    ],
+    "themes": [
+      "poverty near Disney World",
+      "childhood innocence vs reality",
+      "housing insecurity",
+      "single motherhood"
+    ],
+    "keywords": [
+      "Orlando",
+      "motel",
+      "Disney World",
+      "children",
+      "homeless",
+      "purple",
+      "innocence"
+    ],
+    "similarTo": [
+      "Moonlight",
+      "Shoplifters",
+      "Nobody Knows",
+      "Capernaum",
+      "Beasts of the Southern Wild"
+    ]
+  },
+  {
+    "title": "Beasts of the Southern Wild",
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "subGenres": [
+      "Magical Realism",
+      "Child Perspective"
+    ],
+    "moods": [
+      "magical",
+      "raw",
+      "bittersweet",
+      "awe-inspiring"
+    ],
+    "vibes": [
+      "poetic childhood",
+      "Southern poverty magic",
+      "mythological realism",
+      "nature and community"
+    ],
+    "themes": [
+      "community vs individualism",
+      "climate change and the marginalized",
+      "mythic childhood",
+      "dying land"
+    ],
+    "keywords": [
+      "Bathtub",
+      "Louisiana bayou",
+      "Hushpuppy",
+      "aurochs",
+      "flood",
+      "community",
+      "father"
+    ],
+    "pacing": "slow",
+    "similarTo": [
+      "Moonlight",
+      "The Florida Project",
+      "Boyhood",
+      "Fruitvale Station",
+      "Short Term 12"
+    ]
+  },
+  {
+    "title": "Fruitvale Station",
+    "genres": [
+      "Drama",
+      "Biography"
+    ],
+    "subGenres": [
+      "True Story",
+      "Social Drama"
+    ],
+    "moods": [
+      "devastating",
+      "raw",
+      "tender",
+      "anger-inducing"
+    ],
+    "vibes": [
+      "last day of a life",
+      "racial injustice",
+      "Oakland community",
+      "quiet tragedy"
+    ],
+    "themes": [
+      "police brutality",
+      "racial violence",
+      "a young life cut short",
+      "Oscar Grant"
+    ],
+    "keywords": [
+      "BART station",
+      "Oscar Grant",
+      "New Year's Day",
+      "Oakland",
+      "police shooting",
+      "race"
+    ],
+    "audience": [
+      "cinephile"
+    ],
+    "similarTo": [
+      "Moonlight",
+      "Beasts of the Southern Wild",
+      "Short Term 12",
+      "Selma",
+      "Just Mercy"
+    ]
+  }
+]
