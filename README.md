@@ -1,8 +1,8 @@
 # 🎬 What2Watch
 
-**What2Watch** is an AI-powered movie discovery platform that helps users find movies based on their mood, genre preferences, language, OTT platform, era, and cinematic personality.
+**What2Watch** is an AI-powered movie recommendation platform that transforms movie discovery into a personalized experience.
 
-Instead of endlessly scrolling through streaming platforms, users can take a guided quiz or use AI-powered recommendations to discover films that match their exact vibe.
+Through a guided 7-step quiz, cinematic personality profiling, AI-powered recommendations, and reference-based matching, users can quickly discover movies that align with their mood, taste, language preferences, and viewing habits.
 
 🌐 **Live Demo:** https://what2watch-beryl.vercel.app
 📂 **GitHub Repository:** https://github.com/AARUSHI29-G/what2watch
@@ -11,32 +11,40 @@ Instead of endlessly scrolling through streaming platforms, users can take a gui
 
 ## ✨ Features
 
-* 🤖 **AI Movie Matchmaker**
-  Generates personalized movie recommendations using user preferences.
+## ✨ Features
 
-* 🎭 **Movie Personality Detection**
-  Assigns users a cinematic personality based on their quiz choices.
+### 🎯 7-Step Guided Movie Discovery Quiz
+Users answer a structured 7-step quiz covering mood, genre, language, OTT platform, era, vibe, and viewing preferences to receive highly personalized recommendations.
 
-* 🎬 **Reference-Based Recommendations**
-  Users can mention a movie they like and get similar recommendations.
+### 🤖 AI Movie Matchmaker
+Uses Gemini AI and semantic preference matching to understand user intent and generate tailored movie suggestions.
 
-* 🌍 **Multi-Language Support**
-  Supports Hindi, English, Korean, Japanese, Tamil, Telugu, Malayalam, and more.
+### 🎭 Cinematic Personality System
+Analyzes quiz responses and assigns users a unique movie personality such as *The Emotional Dreamer*, *The Cinematic Explorer*, or *The Thrill Seeker*.
 
-* 📺 **OTT Platform Filtering**
-  Helps users discover movies available on preferred streaming platforms.
+### 🎬 Reference-Based Recommendations
+Users can provide a movie they already love, and the platform recommends similar films with matching themes, tone, and storytelling style.
 
-* ⭐ **Save Movies**
-  Users can save movies they want to watch later.
+### 🌍 Multi-Language Movie Discovery
+Supports recommendations across Hindi, English, Korean, Japanese, Tamil, Telugu, Malayalam, and international cinema.
 
-* 👀 **Seen Movies Tracking**
-  Allows users to mark already-watched movies.
+### 📺 OTT-Aware Recommendations
+Filters recommendations based on preferred streaming platforms to help users find movies they can actually watch.
 
-* 🎨 **Dynamic UI Themes**
-  Provides a stylish, cinematic, Netflix-inspired interface.
+### 📝 AI Movie Summaries
+Generates concise AI-powered summaries explaining the plot, themes, and appeal of recommended movies.
 
-* 🚀 **Live Deployment**
-  Deployed on Vercel with GitHub integration.
+### ⭐ Personal Movie Library
+Users can save movies they want to watch later and build their own watchlist directly within the platform.
+
+### 👀 Seen Movie Tracking
+Allows users to mark movies as watched to avoid repetitive recommendations.
+
+### 🎨 Multi-Theme Experience
+Switch seamlessly between W2W Signature, Spotify Mode, IMDb Mode, and Midnight Mode to personalize the movie discovery experience.
+
+### 🚀 Fully Deployed
+Hosted on Vercel with automatic CI/CD deployment through GitHub integration.
 
 ---
 
