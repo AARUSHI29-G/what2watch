@@ -11,8 +11,6 @@ Through a guided 7-step quiz, cinematic personality profiling, AI-powered recomm
 
 ## ✨ Features
 
-## ✨ Features
-
 ### 🎯 7-Step Guided Movie Discovery Quiz
 Users answer a structured 7-step quiz covering mood, genre, language, OTT platform, era, vibe, and viewing preferences to receive highly personalized recommendations.
 
