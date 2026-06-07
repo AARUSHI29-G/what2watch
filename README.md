@@ -1,4 +1,9 @@
 # 🎬 What2Watch
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+![Gemini AI](https://img.shields.io/badge/Gemini-AI-orange?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-Deployed-black?style=for-the-badge&logo=vercel)
 
 **What2Watch** is an AI-powered movie recommendation platform that transforms movie discovery into a personalized experience.
 
