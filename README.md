@@ -42,22 +42,41 @@ Instead of endlessly scrolling through streaming platforms, users can take a gui
 
 ## 🖼 Preview
 
-### Home Page
 
-![What2Watch Home Page](./public/home.png)
+### 🏠 Home • 📚 Library • ⭐ Saved Movies
 
-### Quiz & Recommendations
+<p align="center">
+  <img src="./public/home.png" width="32%">
+  <img src="./public/library.png" width="32%">
+  <img src="./public/saved movies.png" width="32%">
+</p>
 
-![What2Watch Quiz](./public/quiz.png)
-![What2Watch Quiz](./public/quiz2.png)
+---
 
-### Movie Personality Popup
+### 🎯 Guided Quiz • 🎬 Quiz Results
 
-![What2Watch Results](./public/results.png)
+<p align="center">
+  <img src="./public/guided quiz.png" width="48%">
+  <img src="./public/quiz results.png" width="48%">
+</p>
 
-### AI Recommendations
+---
 
-![What2Watch Quiz](./public/ai.png)
+### 🎭 Movie Personality
+
+<p align="center">
+  <img src="./public/personality popup.png" width="60%">
+</p>
+
+---
+
+### 🤖 AI Recommendation • 📋 AI Results • 🎥 Movie Summary
+
+<p align="center">
+  <img src="./public/ai recom.png" width="32%">
+  <img src="./public/ai results.png" width="32%">
+  <img src="./public/movie summary.png" width="32%">
+</p>
 
 ---
 
@@ -166,7 +185,6 @@ https://what2watch-beryl.vercel.app
 * User authentication
 * Personalized watch history
 * Advanced AI chat assistant
-* Better OTT availability accuracy
 * More refined movie personality engine
 * Recommendation explanation scoring
 * Mobile app version
