@@ -53,11 +53,12 @@ Instead of endlessly scrolling through streaming platforms, users can take a gui
 
 ---
 
-### 🎯 Guided Quiz • 🎬 Quiz Results
+### 🎯 Guided Quiz • 🎬 Quiz Results • 🎥 Movie Summary
 
 <p align="center">
-  <img src="./public/guided quiz.png" width="48%">
-  <img src="./public/quiz results.png" width="48%">
+  <img src="./public/guided quiz.png" width="32%">
+  <img src="./public/quiz results.png" width="32%">
+  <img src="./public/movie summary.png" width="32%">
 </p>
 
 ---
@@ -70,12 +71,11 @@ Instead of endlessly scrolling through streaming platforms, users can take a gui
 
 ---
 
-### 🤖 AI Recommendation • 📋 AI Results • 🎥 Movie Summary
+### 🤖 AI Recommendation • 📋 AI Results 
 
 <p align="center">
   <img src="./public/ai recom.png" width="32%">
   <img src="./public/ai results.png" width="32%">
-  <img src="./public/movie summary.png" width="32%">
 </p>
 
 ---
