@@ -6,6 +6,9 @@ Through a guided 7-step quiz, cinematic personality profiling, AI-powered recomm
 
 🌐 **Live Demo:** https://what2watch-beryl.vercel.app
 📂 **GitHub Repository:** https://github.com/AARUSHI29-G/what2watch
+<p align="center">
+  <img src="./public/home.png" width="95%">
+</p>
 
 ---
 
@@ -47,14 +50,6 @@ Hosted on Vercel with automatic CI/CD deployment through GitHub integration.
 ---
 
 ## 🖼 Preview
-
-
-## 🖼 Screenshots
-
-### 🏠 Home Page
-<img src="./public/home.png" width="85%">
-
----
 
 ### 📚 Library
 <img src="./public/library.png" width="85%">
