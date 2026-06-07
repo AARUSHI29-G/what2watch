@@ -69,6 +69,10 @@ Instead of endlessly scrolling through streaming platforms, users can take a gui
 <img src="./public/quiz results.png" width="85%">
 
 ---
+### 🎥 Movie Summary
+<img src="./public/movie summary.png" width="85%">
+
+---
 
 ### 🎭 Movie Personality Popup
 <img src="./public/personality popup.png" width="85%">
@@ -78,15 +82,6 @@ Instead of endlessly scrolling through streaming platforms, users can take a gui
 ### 🤖 AI Recommendation
 <img src="./public/ai recom.png" width="85%">
 
----
-
-### 📋 AI Results
-<img src="./public/ai results.png" width="85%">
-
----
-
-### 🎥 Movie Summary
-<img src="./public/movie summary.png" width="85%">
 ---
 
 ## 🛠 Tech Stack
