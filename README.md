@@ -43,41 +43,50 @@ Instead of endlessly scrolling through streaming platforms, users can take a gui
 ## 🖼 Preview
 
 
-### 🏠 Home • 📚 Library • ⭐ Saved Movies
+## 🖼 Screenshots
 
-<p align="center">
-  <img src="./public/home.png" width="32%">
-  <img src="./public/library.png" width="32%">
-  <img src="./public/saved movies.png" width="32%">
-</p>
+### 🏠 Home Page
+<img src="./public/home.png" width="85%">
 
 ---
 
-### 🎯 Guided Quiz • 🎬 Quiz Results • 🎥 Movie Summary
-
-<p align="center">
-  <img src="./public/guided quiz.png" width="32%">
-  <img src="./public/quiz results.png" width="32%">
-  <img src="./public/movie summary.png" width="32%">
-</p>
+### 📚 Library
+<img src="./public/library.png" width="85%">
 
 ---
 
-### 🎭 Movie Personality
-
-<p align="center">
-  <img src="./public/personality popup.png" width="60%">
-</p>
+### ⭐ Saved Movies
+<img src="./public/saved movies.png" width="85%">
 
 ---
 
-### 🤖 AI Recommendation • 📋 AI Results 
+### 🎯 Guided Quiz
+<img src="./public/guided quiz.png" width="85%">
 
-<p align="center">
-  <img src="./public/ai recom.png" width="32%">
-  <img src="./public/ai results.png" width="32%">
-</p>
+---
 
+### 🎬 Quiz Results
+<img src="./public/quiz results.png" width="85%">
+
+---
+
+### 🎭 Movie Personality Popup
+<img src="./public/personality popup.png" width="85%">
+
+---
+
+### 🤖 AI Recommendation
+<img src="./public/ai recom.png" width="85%">
+
+---
+
+### 📋 AI Results
+<img src="./public/ai results.png" width="85%">
+
+---
+
+### 🎥 Movie Summary
+<img src="./public/movie summary.png" width="85%">
 ---
 
 ## 🛠 Tech Stack
