@@ -61,11 +61,6 @@ Hosted on Vercel with automatic CI/CD deployment through GitHub integration.
 
 ---
 
-### ⭐ Saved Movies
-<img src="./public/saved movies.png" width="85%">
-
----
-
 ### 🎯 Guided Quiz
 <img src="./public/guided quiz.png" width="85%">
 
